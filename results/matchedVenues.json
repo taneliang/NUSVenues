@@ -1,0 +1,1502 @@
+[
+	{
+		"roomcode": "LT17-01-01*",
+		"roomname": "LECTURE THEATRE 17",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "LT17"
+	},
+	{
+		"roomcode": "LT16-01-01*",
+		"roomname": "LECTURE THEATRE 16",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "LT16"
+	},
+	{
+		"roomcode": "BIZ2-03-01",
+		"roomname": "SEMINAR ROOM 3-1",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0301"
+	},
+	{
+		"roomcode": "BIZ2-04-04",
+		"roomname": "SEMINAR ROOM 4-4",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0404"
+	},
+	{
+		"roomcode": "BIZ2-05-09",
+		"roomname": "SEMINAR ROOM 5-9",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0509"
+	},
+	{
+		"roomcode": "BIZ2-05-10",
+		"roomname": "SEMINAR ROOM 5-10",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0510"
+	},
+	{
+		"roomcode": "BIZ2-02-02",
+		"roomname": "SEMINAR ROOM 2-2",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0202"
+	},
+	{
+		"roomcode": "BIZ2-04-13B",
+		"roomname": "SEMINAR ROOM 4-13B",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0413B"
+	},
+	{
+		"roomcode": "BIZ2-04-13C",
+		"roomname": "SEMINAR ROOM 4-13C",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0413C"
+	},
+	{
+		"roomcode": "BIZ2-02-01",
+		"roomname": "SEMINAR ROOM 2-1",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0201"
+	},
+	{
+		"roomcode": "BIZ2-04-13A",
+		"roomname": "SEMINAR ROOM 4-13A",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0413A"
+	},
+	{
+		"roomcode": "BIZ2-B1-04",
+		"roomname": "SEMINAR ROOM B1-4",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-B104"
+	},
+	{
+		"roomcode": "BIZ2-02-29",
+		"roomname": "SEMINAR ROOM 2-28",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0229"
+	},
+	{
+		"roomcode": "LT10-01-01*",
+		"roomname": "LECTURE THEATRE 10",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "LT10"
+	},
+	{
+		"roomcode": "AS7-02-14",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS7-0214"
+	},
+	{
+		"roomcode": "AS7-01-02",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS7-0102"
+	},
+	{
+		"roomcode": "S16-04-37",
+		"roomname": "SEMINAR ROOM 8",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "S16-0437"
+	},
+	{
+		"roomcode": "BIZ2-04-20",
+		"roomname": "SEMINAR ROOM 4-20",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0420"
+	},
+	{
+		"roomcode": "BIZ2-02-28",
+		"roomname": "SEMINAR ROOM 2-27",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0228"
+	},
+	{
+		"roomcode": "LT3-UF-03*",
+		"roomname": "LECTURE THEATRE 3",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "LT3"
+	},
+	{
+		"roomcode": "EA-06-04",
+		"roomname": "SEMINAR ROOM 4",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "EA-06-04"
+	},
+	{
+		"roomcode": "LT1-01-01*",
+		"roomname": "LECTURE THEATRE 1",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "LT1"
+	},
+	{
+		"roomcode": "EA-06-02",
+		"roomname": "SEMINAR ROOM 2",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "EA-06-02"
+	},
+	{
+		"roomcode": "EA-02-11",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "EA-02-11"
+	},
+	{
+		"roomcode": "LT5-01-01*",
+		"roomname": "LECTURE THEATRE 5",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "LT5"
+	},
+	{
+		"roomcode": "EA-06-07",
+		"roomname": "SEMINAR ROOM 7",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "EA-06-07"
+	},
+	{
+		"roomcode": "EA-06-03",
+		"roomname": "SEMINAR ROOM 3",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "EA-06-03"
+	},
+	{
+		"roomcode": "E1-06-01",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-01"
+	},
+	{
+		"roomcode": "E3-06-04",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-04"
+	},
+	{
+		"roomcode": "LT4-UF-01*",
+		"roomname": "LECTURE THEATRE 4",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "LT4"
+	},
+	{
+		"roomcode": "E3-06-03",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-03"
+	},
+	{
+		"roomcode": "BIZ2-03-03",
+		"roomname": "SEMINAR ROOM 3-3",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0303"
+	},
+	{
+		"roomcode": "BIZ2-03-02",
+		"roomname": "SEMINAR ROOM 3-2",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0302"
+	},
+	{
+		"roomcode": "COM1-02-12",
+		"roomname": "SEMINAR ROOM 3.",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0212"
+	},
+	{
+		"roomcode": "COM1-02-04",
+		"roomname": "SEMINAR ROOM 2",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0204"
+	},
+	{
+		"roomcode": "COM1-02-03",
+		"roomname": "SEMINAR ROOM 6",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0203"
+	},
+	{
+		"roomcode": "COM1-02-01",
+		"roomname": "SEMINAR ROOM 5",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0201"
+	},
+	{
+		"roomcode": "COM1-02-09",
+		"roomname": "SEMINAR ROOM 9",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0209"
+	},
+	{
+		"roomcode": "COM1-02-16",
+		"roomname": "TUTORIAL ROOM 11",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0216"
+	},
+	{
+		"roomcode": "COM1-02-07",
+		"roomname": "SEMINAR ROOM 7",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0207"
+	},
+	{
+		"roomcode": "COM1-02-17",
+		"roomname": "TUTORIAL ROOM 10",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0217"
+	},
+	{
+		"roomcode": "E1-06-04",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-04"
+	},
+	{
+		"roomcode": "LT7-01-01*",
+		"roomname": "LECTURE THEATRE 7",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "LT7"
+	},
+	{
+		"roomcode": "E1-06-06",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-06"
+	},
+	{
+		"roomcode": "E1-06-09",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-09"
+	},
+	{
+		"roomcode": "E1-06-03",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-03"
+	},
+	{
+		"roomcode": "E1-06-05",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-05"
+	},
+	{
+		"roomcode": "E4-04-03",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E4-04-03"
+	},
+	{
+		"roomcode": "LT2-01-01*",
+		"roomname": "LECTURE THEATRE 2",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "LT2"
+	},
+	{
+		"roomcode": "LT6-01-02*",
+		"roomname": "LECTURE THEATRE 6",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "LT6"
+	},
+	{
+		"roomcode": "E1-06-08",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-08"
+	},
+	{
+		"roomcode": "E3-06-09",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-09"
+	},
+	{
+		"roomcode": "E4-04-04",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E4-04-04"
+	},
+	{
+		"roomcode": "E1-06-07",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-07"
+	},
+	{
+		"roomcode": "E2-03-02",
+		"roomname": "PC CLUSTER 2 (TEACHING)",
+		"dept": "Engineering IT Unit (E-ITU)",
+		"venue": "E2-03-02"
+	},
+	{
+		"roomcode": "E2-03-32",
+		"roomname": "PC CLUSTER 1 (TEACHING)",
+		"dept": "Engineering IT Unit (E-ITU)",
+		"venue": "E2-03-32"
+	},
+	{
+		"roomcode": "E2-03-03",
+		"roomname": "PC CLUSTER 3 (TEACHING)",
+		"dept": "Engineering IT Unit (E-ITU)",
+		"venue": "E2-03-03"
+	},
+	{
+		"roomcode": "E3-06-01",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-01"
+	},
+	{
+		"roomcode": "E3-06-08",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-08"
+	},
+	{
+		"roomcode": "COM1-01-13",
+		"roomname": "EMBEDDED SYSTEMS TEACHING LAB 2",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0113"
+	},
+	{
+		"roomcode": "COM1-01-14",
+		"roomname": "EMBEDDED SYSTEMS TEACHING LAB 1",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0114"
+	},
+	{
+		"roomcode": "LT19-01-01*",
+		"roomname": "LECTURE THEATRE 19",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "LT19"
+	},
+	{
+		"roomcode": "AS3-03-03",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0303"
+	},
+	{
+		"roomcode": "AS5-03-09",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dept of English Language & Literature",
+		"venue": "AS5-0309"
+	},
+	{
+		"roomcode": "AS7-01-06",
+		"roomname": "SEMINAR ROOM 1",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS7-0106"
+	},
+	{
+		"roomcode": "AS1-03-01",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS1-0301"
+	},
+	{
+		"roomcode": "AS1-02-08",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS1-0208"
+	},
+	{
+		"roomcode": "AS4-02-06",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0206"
+	},
+	{
+		"roomcode": "AS2-04-13",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS2-0413"
+	},
+	{
+		"roomcode": "AS5-02-05",
+		"roomname": "DEPT VIDEO ROOM 2 (ELL)",
+		"dept": "Dept of English Language & Literature",
+		"venue": "AS5-0205"
+	},
+	{
+		"roomcode": "AS3-03-07",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0307"
+	},
+	{
+		"roomcode": "AS4-06-04",
+		"roomname": "SEMINAR ROOM 4",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0604"
+	},
+	{
+		"roomcode": "AS5-02-02",
+		"roomname": "DEPT VIDEO ROOM 1 (ELL)",
+		"dept": "Dept of English Language & Literature",
+		"venue": "AS5-0202"
+	},
+	{
+		"roomcode": "AS4-01-19",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0119"
+	},
+	{
+		"roomcode": "AS1-03-04",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS1-0304"
+	},
+	{
+		"roomcode": "AS7-01-01",
+		"roomname": "SEMINAR ROOM 3",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS7-0101"
+	},
+	{
+		"roomcode": "AS4-06-03",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0603"
+	},
+	{
+		"roomcode": "AS7-01-19",
+		"roomname": "SEMINAR ROOM D",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS7-0119"
+	},
+	{
+		"roomcode": "AS3-03-05",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0305"
+	},
+	{
+		"roomcode": "AS1-03-03",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS1-0303"
+	},
+	{
+		"roomcode": "AS4-01-10",
+		"roomname": "COMPUTER LAB",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0110"
+	},
+	{
+		"roomcode": "LT28-UF-01*",
+		"roomname": "LECTURE THEATRE 28",
+		"dept": "Dean's Office Medicine, Yong Loo Lin School of ...",
+		"venue": "LT28"
+	},
+	{
+		"roomcode": "S16-03-07",
+		"roomname": "DEPARTMENT SEMINAR ROOM SEMINAR ROOM 1 (Tempora...",
+		"dept": "SMART",
+		"venue": "S16-0307"
+	},
+	{
+		"roomcode": "S5-02-24",
+		"roomname": "CHEM TUTORIAL ROOM 2",
+		"dept": "Dept of Chemistry",
+		"venue": "S5-0224"
+	},
+	{
+		"roomcode": "S16-04-30",
+		"roomname": "TUTORIAL ROOM 10",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "S16-0430"
+	},
+	{
+		"roomcode": "LT32-02-01*",
+		"roomname": "LECTURE THEATRE 32",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "LT32"
+	},
+	{
+		"roomcode": "LT27-01-01*",
+		"roomname": "LECTURE THEATRE 27",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "LT27"
+	},
+	{
+		"roomcode": "LT31-01-01*",
+		"roomname": "LECTURE THEATRE 31",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "LT31"
+	},
+	{
+		"roomcode": "E5-03-19",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E5-03-19"
+	},
+	{
+		"roomcode": "LT34-01-01*",
+		"roomname": "LECTURE THEATRE 34",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "LT34"
+	},
+	{
+		"roomcode": "LT26-02-01*",
+		"roomname": "LECTURE THEATRE 26",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "LT26"
+	},
+	{
+		"roomcode": "S5-02-23",
+		"roomname": "CHEM TUTORIAL ROOM 3",
+		"dept": "Dept of Chemistry",
+		"venue": "S5-0223"
+	},
+	{
+		"roomcode": "LT21-MEZZ-01*",
+		"roomname": "LECTURE THEATRE 21",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "LT21"
+	},
+	{
+		"roomcode": "LT33-01-01*",
+		"roomname": "LECTURE THEATRE 33",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "LT33"
+	},
+	{
+		"roomcode": "S5-04-10",
+		"roomname": "INORGANIC TEACHING LAB",
+		"dept": "Dept of Chemistry",
+		"venue": "S5-0410"
+	},
+	{
+		"roomcode": "S8-04-03",
+		"roomname": "ANALYTICAL CHEMISTRY LAB.",
+		"dept": "Dept of Chemistry",
+		"venue": "S8-0403"
+	},
+	{
+		"roomcode": "S14-06-20",
+		"roomname": "NETWORK SYSTEMS AND SERVICES LAB",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "S14-0620"
+	},
+	{
+		"roomcode": "LT20-MEZZ-01*",
+		"roomname": "LECTURE THEATRE 20",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "LT20"
+	},
+	{
+		"roomcode": "LT29-01-01*",
+		"roomname": "LECTURE THEATRE 29",
+		"dept": "Dean's Office Medicine, Yong Loo Lin School of ...",
+		"venue": "LT29"
+	},
+	{
+		"roomcode": "S8-02-03",
+		"roomname": "PHYSICAL CHEMISTRY TEACHING LAB",
+		"dept": "Dept of Chemistry",
+		"venue": "S8-0203"
+	},
+	{
+		"roomcode": "S14-06-19",
+		"roomname": "COMMUNICATION & INTERNET RESEARCH LAB",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "S14-0619"
+	},
+	{
+		"roomcode": "S8-03-14",
+		"roomname": "EXECUTIVE CLASSROOM",
+		"dept": "Dept of Chemistry",
+		"venue": "S8-0314"
+	},
+	{
+		"roomcode": "S13-M-09",
+		"roomname": "DEPARTMENT COMMON FACILITY",
+		"dept": "Dept of Physics",
+		"venue": "S13-M-09"
+	},
+	{
+		"roomcode": "S16-04-36",
+		"roomname": "TUTORIAL ROOM 13",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "S16-0436"
+	},
+	{
+		"roomcode": "S16-04-35",
+		"roomname": "SEMINAR ROOM 7",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "S16-0435"
+	},
+	{
+		"roomcode": "E4-04-02",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E4-04-02"
+	},
+	{
+		"roomcode": "E3-06-07",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-07"
+	},
+	{
+		"roomcode": "E5-03-22",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E5-03-22"
+	},
+	{
+		"roomcode": "E5-03-21",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E5-03-21"
+	},
+	{
+		"roomcode": "E5-02-32",
+		"roomname": "EXECUTIVE SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E5-02-32"
+	},
+	{
+		"roomcode": "E5-03-20",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E5-03-20"
+	},
+	{
+		"roomcode": "LT7A-01-15*",
+		"roomname": "LECTURE THEATRE 7A",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "LT7A"
+	},
+	{
+		"roomcode": "E5-03-23",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E5-03-23"
+	},
+	{
+		"roomcode": "E1-06-02",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-02"
+	},
+	{
+		"roomcode": "E3-06-06",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-06"
+	},
+	{
+		"roomcode": "S13-M-08",
+		"roomname": "SSL M1",
+		"dept": "Dept of Physics",
+		"venue": "S13-M-08"
+	},
+	{
+		"roomcode": "COM1-B1-08",
+		"roomname": "PROGRAMMING LAB 3 (TEACHING LAB)",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-B108"
+	},
+	{
+		"roomcode": "COM1-01-20",
+		"roomname": "PROGRAMMING LAB 6 (TEACHING LAB)",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0120"
+	},
+	{
+		"roomcode": "COM1-B1-11",
+		"roomname": "PROGRAMMING LAB 4 (TEACHING LAB)",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-B111"
+	},
+	{
+		"roomcode": "COM1-B1-10",
+		"roomname": "PROGRAMMING LAB 5 (TEACHING LAB)",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-B110"
+	},
+	{
+		"roomcode": "AS6-02-08",
+		"roomname": "UTILITY ROOM (BF)",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "AS6-0208"
+	},
+	{
+		"roomcode": "COM1-02-08",
+		"roomname": "SEMINAR ROOM 8",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0208"
+	},
+	{
+		"roomcode": "AS6-04-21",
+		"roomname": "MEDIA LAB 1",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "AS6-0421"
+	},
+	{
+		"roomcode": "COM1-B1-09",
+		"roomname": "PROGRAMMING LAB 2 (TEACHING LAB)",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-B109"
+	},
+	{
+		"roomcode": "COM2-01-08",
+		"roomname": "TUTORIAL ROOM 9",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM2-0108"
+	},
+	{
+		"roomcode": "COM1-02-18",
+		"roomname": "TUTORIAL ROOM 5",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0218"
+	},
+	{
+		"roomcode": "COM1-B1-12",
+		"roomname": "PROGRAMMING LAB 1 (TEACHING LAB)",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-B112"
+	},
+	{
+		"roomcode": "LT15-01-01*",
+		"roomname": "LECTURE THEATRE 15",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "LT15"
+	},
+	{
+		"roomcode": "COM1-02-10",
+		"roomname": "SEMINAR ROOM 10",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0210"
+	},
+	{
+		"roomcode": "COM1-B1-03",
+		"roomname": "DATACOMM TEACHING LAB 1",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-B103"
+	},
+	{
+		"roomcode": "COM1-B1-13",
+		"roomname": "OPERATING SYSTEM / SECURITY TEACHING LAB",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-B113"
+	},
+	{
+		"roomcode": "COM1-B1-02",
+		"roomname": "DATACOMM TEACHING LAB 3",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-B102"
+	},
+	{
+		"roomcode": "AS6-04-26",
+		"roomname": "MEDIA LAB 2A",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "AS6-0426"
+	},
+	{
+		"roomcode": "COM1-02-06",
+		"roomname": "SEMINAR ROOM 1",
+		"dept": "Dean's Office, School of Computing",
+		"venue": "COM1-0206"
+	},
+	{
+		"roomcode": "AS3-02-07",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0207"
+	},
+	{
+		"roomcode": "S16-05-98",
+		"roomname": "OFFICE",
+		"dept": "Dept of Statistics & Applied Probability",
+		"venue": "S16-0598"
+	},
+	{
+		"roomcode": "LT18-01-01*",
+		"roomname": "LECTURE THEATRE 18",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "LT18"
+	},
+	{
+		"roomcode": "BIZ2-01-17",
+		"roomname": "SEMINAR ROOM 1-17",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0117"
+	},
+	{
+		"roomcode": "HSS-03-17",
+		"roomname": "SEMINAR ROOM 3-17",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "HSS-03-17"
+	},
+	{
+		"roomcode": "ISS-03-05",
+		"roomname": "DEPUTY DIRECTOR",
+		"dept": "Institute of Systems Science (ISS)",
+		"venue": "ISS-03-05"
+	},
+	{
+		"roomcode": "ISS-02-01",
+		"roomname": "COMPUTER LAB 2",
+		"dept": "Institute of Systems Science (ISS)",
+		"venue": "ISS-02-01"
+	},
+	{
+		"roomcode": "ISS-03-12",
+		"roomname": "OFFICE",
+		"dept": "Institute of Systems Science (ISS)",
+		"venue": "ISS-03-12"
+	},
+	{
+		"roomcode": "ISS-03-01",
+		"roomname": "MEETING ROOM 3",
+		"dept": "Institute of Systems Science (ISS)",
+		"venue": "ISS-03-01"
+	},
+	{
+		"roomcode": "E3-06-11",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-11"
+	},
+	{
+		"roomcode": "E3-06-10",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-10"
+	},
+	{
+		"roomcode": "E3-06-05",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-05"
+	},
+	{
+		"roomcode": "LT9-01-01*",
+		"roomname": "LECTURE THEATRE 9",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "LT9"
+	},
+	{
+		"roomcode": "AS4-06-02",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0602"
+	},
+	{
+		"roomcode": "AS3-02-08",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0208"
+	},
+	{
+		"roomcode": "AS4-01-09",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0109"
+	},
+	{
+		"roomcode": "AS3-02-09",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0209"
+	},
+	{
+		"roomcode": "AS3-03-02",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0302"
+	},
+	{
+		"roomcode": "AS1-02-09",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS1-0209"
+	},
+	{
+		"roomcode": "LT11-01-01*",
+		"roomname": "LECTURE THEATRE 11",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "LT11"
+	},
+	{
+		"roomcode": "AS2-03-11",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS2-0311"
+	},
+	{
+		"roomcode": "AS1-02-04",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS1-0204"
+	},
+	{
+		"roomcode": "AS2-05-09",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS2-0509"
+	},
+	{
+		"roomcode": "AS4-01-18",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0118"
+	},
+	{
+		"roomcode": "LT8-01-02*",
+		"roomname": "LECTURE THEATRE 8",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "LT8"
+	},
+	{
+		"roomcode": "AS1-02-03",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS1-0203"
+	},
+	{
+		"roomcode": "AS1-03-02",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS1-0302"
+	},
+	{
+		"roomcode": "AS4-01-17",
+		"roomname": "COMPUTER LAB",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0117"
+	},
+	{
+		"roomcode": "AS3-02-14",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0214"
+	},
+	{
+		"roomcode": "LT12-01-01*",
+		"roomname": "LECTURE THEATRE 12",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "LT12"
+	},
+	{
+		"roomcode": "AS4-01-16",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0116"
+	},
+	{
+		"roomcode": "AS2-05-10",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS2-0510"
+	},
+	{
+		"roomcode": "LT14-01-02*",
+		"roomname": "LECTURE THEATRE 14",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "LT14"
+	},
+	{
+		"roomcode": "AS2-03-12",
+		"roomname": "ECONOMICS DEPT SEMINAR ROOM (LIM TAY BOH SEMINA...",
+		"dept": "Department Of Economics",
+		"venue": "AS2-0312"
+	},
+	{
+		"roomcode": "AS6-02-14",
+		"roomname": "MULITI-MEDIA SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS6-0214"
+	},
+	{
+		"roomcode": "AS1-02-13",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS1-0213"
+	},
+	{
+		"roomcode": "E3-06-12",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-12"
+	},
+	{
+		"roomcode": "E3-06-13",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-13"
+	},
+	{
+		"roomcode": "E3-06-15",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-15"
+	},
+	{
+		"roomcode": "E3-06-14",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-14"
+	},
+	{
+		"roomcode": "E3-06-02",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E3-06-02"
+	},
+	{
+		"roomcode": "EA-06-05",
+		"roomname": "SEMINAR ROOM 5",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "EA-06-05"
+	},
+	{
+		"roomcode": "E1-06-10",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-10"
+	},
+	{
+		"roomcode": "E1-06-12",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-12"
+	},
+	{
+		"roomcode": "E1-06-11",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-11"
+	},
+	{
+		"roomcode": "E1-06-15",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-15"
+	},
+	{
+		"roomcode": "E1-06-13",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-13"
+	},
+	{
+		"roomcode": "AS3-03-04",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0304"
+	},
+	{
+		"roomcode": "AS5-02-03",
+		"roomname": "SEMIOTIC RESEARCH LAB",
+		"dept": "Dept of English Language & Literature",
+		"venue": "AS5-0203"
+	},
+	{
+		"roomcode": "AS3-03-08",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0308"
+	},
+	{
+		"roomcode": "AS3-03-06",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0306"
+	},
+	{
+		"roomcode": "AS3-02-15",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0215"
+	},
+	{
+		"roomcode": "AS3-02-12",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0212"
+	},
+	{
+		"roomcode": "AS3-03-09",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0309"
+	},
+	{
+		"roomcode": "BIZ2-01-12",
+		"roomname": "SEMINAR ROOM 1-12",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0112"
+	},
+	{
+		"roomcode": "E1-06-16",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-16"
+	},
+	{
+		"roomcode": "E1-06-14",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "E1-06-14"
+	},
+	{
+		"roomcode": "S16-04-40",
+		"roomname": "TUTORIAL ROOM 16",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "S16-0440"
+	},
+	{
+		"roomcode": "S16-03-04",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "S16-0304"
+	},
+	{
+		"roomcode": "S16-03-09",
+		"roomname": "TUTORIAL ROOM 3 (Temporary to FoS)",
+		"dept": "SMART",
+		"venue": "S16-0309"
+	},
+	{
+		"roomcode": "BIZ2-01-14",
+		"roomname": "SEMINAR ROOM 1-14",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0114"
+	},
+	{
+		"roomcode": "BIZ2-01-15",
+		"roomname": "SEMINAR ROOM 1-15",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0115"
+	},
+	{
+		"roomcode": "EA-06-06",
+		"roomname": "SEMINAR ROOM 6",
+		"dept": "Dean's Office, Faculty of Engineering",
+		"venue": "EA-06-06"
+	},
+	{
+		"roomcode": "E4-02-01",
+		"roomname": "FRESHMEN LAB 1",
+		"dept": "Dept of Electrical And Computer Engineering",
+		"venue": "E4-02-01"
+	},
+	{
+		"roomcode": "WS2-05-30",
+		"roomname": "ESP",
+		"dept": "Dept of Electrical And Computer Engineering",
+		"venue": "WS2-0530"
+	},
+	{
+		"roomcode": "AS3-03-16",
+		"roomname": "GRADUATE ROOM",
+		"dept": "South Asian Studies Programme",
+		"venue": "AS3-0316"
+	},
+	{
+		"roomcode": "AS6-03-38",
+		"roomname": "PLAY ROOM",
+		"dept": "Communications & New Media Programme",
+		"venue": "AS6-0338"
+	},
+	{
+		"roomcode": "AS2-02-03",
+		"roomname": "EARTH LAB",
+		"dept": "Dept of Geography",
+		"venue": "AS2-0203"
+	},
+	{
+		"roomcode": "AS2-03-13",
+		"roomname": "GIS LAB",
+		"dept": "Dept of Geography",
+		"venue": "AS2-0313"
+	},
+	{
+		"roomcode": "AS2-02-04",
+		"roomname": "EARTH LAB",
+		"dept": "Dept of Geography",
+		"venue": "AS2-0204"
+	},
+	{
+		"roomcode": "AS2-03-02",
+		"roomname": "HONOURS ROOM (GEOGRAPHY)",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS2-0302"
+	},
+	{
+		"roomcode": "AS2-03-16",
+		"roomname": "DEPT MEETING ROOM (GEO)",
+		"dept": "Dept of Geography",
+		"venue": "AS2-0316"
+	},
+	{
+		"roomcode": "S11-03-01",
+		"roomname": "LAB INSTRUCTION ROOM",
+		"dept": "Dept of Physics",
+		"venue": "S11-0301"
+	},
+	{
+		"roomcode": "S12-04-01",
+		"roomname": "LITOGRAHPY LAB",
+		"dept": "Dept of Physics",
+		"venue": "S12-0401"
+	},
+	{
+		"roomcode": "S16-04-31",
+		"roomname": "SEMINAR ROOM 5",
+		"dept": "Dean's Office, Faculty of Science",
+		"venue": "S16-0431"
+	},
+	{
+		"roomcode": "AS4-B1-07",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dept of Psychology",
+		"venue": "AS4-B107"
+	},
+	{
+		"roomcode": "AS3-05-23",
+		"roomname": "DEPT MEETING ROOM (PHILOSOPHY)",
+		"dept": "Dept of Philosophy",
+		"venue": "AS3-0523"
+	},
+	{
+		"roomcode": "S12-04-02",
+		"roomname": "LEVEL 1 PHYSICS LAB",
+		"dept": "Dept of Physics",
+		"venue": "S12-0402"
+	},
+	{
+		"roomcode": "AS1-02-10",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS1-0210"
+	},
+	{
+		"roomcode": "LT13-01-01*",
+		"roomname": "LECTURE THEATRE 13",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "LT13"
+	},
+	{
+		"roomcode": "AS4-06-01",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0601"
+	},
+	{
+		"roomcode": "AS1-02-07",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS1-0207"
+	},
+	{
+		"roomcode": "BIZ2-01-18",
+		"roomname": "SEMINAR ROOM 1-17",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0118"
+	},
+	{
+		"roomcode": "BIZ2-02-24",
+		"roomname": "SEMINAR ROOM 2-24",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0224"
+	},
+	{
+		"roomcode": "AS1-05-48",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dept of History",
+		"venue": "AS1-0548"
+	},
+	{
+		"roomcode": "AS3-01-01",
+		"roomname": "THEATRE STUDIES PRACTICE STUDIO",
+		"dept": "Dept of English Language & Literature",
+		"venue": "AS3-0101"
+	},
+	{
+		"roomcode": "CELS-01-08",
+		"roomname": "STORE ROOM/ WORKSHOP",
+		"dept": "Life Science Institute (LSI)",
+		"venue": "CELS-01-08"
+	},
+	{
+		"roomcode": "CELS-01-06",
+		"roomname": "TRAINING ROOM 1",
+		"dept": "Life Science Institute (LSI)",
+		"venue": "CELS-01-06"
+	},
+	{
+		"roomcode": "BIZ2-02-27",
+		"roomname": "SEMINAR ROOM 2-27",
+		"dept": "Dean's Office, School of Business (BIZ)",
+		"venue": "BIZ2-0227"
+	},
+	{
+		"roomcode": "AS1-05-24",
+		"roomname": "MEETING/ THESIS",
+		"dept": "Dept of History",
+		"venue": "AS1-0524"
+	},
+	{
+		"roomcode": "E1A-05-19",
+		"roomname": "STUDENT RESEARCH AND STAFF ROOM",
+		"dept": "Dept of Industrial & Systems Engineering",
+		"venue": "E1A-05-19"
+	},
+	{
+		"roomcode": "ISS-02-09",
+		"roomname": "COMPUTER LAB 1",
+		"dept": "Institute of Systems Science (ISS)",
+		"venue": "ISS-02-09"
+	},
+	{
+		"roomcode": "AS3-02-13",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS3-0213"
+	},
+	{
+		"roomcode": "AS4-01-14",
+		"roomname": "COMPUTER LAB",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0114"
+	},
+	{
+		"roomcode": "AS4-01-15",
+		"roomname": "COMPUTER LAB",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS4-0115"
+	},
+	{
+		"roomcode": "AS4-03-35",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dept of Japanese Studies",
+		"venue": "AS4-0335"
+	},
+	{
+		"roomcode": "MD7-02-03",
+		"roomname": "GENERAL OFFICE",
+		"dept": "Dept of Biochemistry",
+		"venue": "MD7-02-03"
+	},
+	{
+		"roomcode": "S16-05-102",
+		"roomname": "COMPUTER LABORATORY 2",
+		"dept": "Dept of Statistics & Applied Probability",
+		"venue": "S16-05102"
+	},
+	{
+		"roomcode": "S16-05-101",
+		"roomname": "COMPUTER LABORATORY 1",
+		"dept": "Dept of Statistics & Applied Probability",
+		"venue": "S16-05101"
+	},
+	{
+		"roomcode": "S16-06-118",
+		"roomname": "SEMINAR ROOM",
+		"dept": "Dept of Statistics & Applied Probability",
+		"venue": "S16-06118"
+	},
+	{
+		"roomcode": "E3A-05-04",
+		"roomname": "HEAT TREATMENT",
+		"dept": "Material Science And Engineering",
+		"venue": "E3A-0504"
+	},
+	{
+		"roomcode": "AS6-02-15B",
+		"roomname": "CNM TEACHING (COMPUTER) LAB",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS6-0215B"
+	},
+	{
+		"roomcode": "AS6-03-33",
+		"roomname": "DEPT MEETING ROOM (CNM)",
+		"dept": "Communications & New Media Programme",
+		"venue": "AS6-0333"
+	},
+	{
+		"roomcode": "S11-02-04",
+		"roomname": "STAFF ROOM",
+		"dept": "Dept of Physics",
+		"venue": "S11-0204"
+	},
+	{
+		"roomcode": "S11-03-02",
+		"roomname": "PHYSICS E LAB",
+		"dept": "Dept of Physics",
+		"venue": "S11-0302"
+	},
+	{
+		"roomcode": "S11-04-01",
+		"roomname": "LEVEL 2 PHYS LAB",
+		"dept": "Dept of Physics",
+		"venue": "S11-0401"
+	},
+	{
+		"roomcode": "S12-04-03",
+		"roomname": "PHYSICS SEMINAR ROOM 2",
+		"dept": "Dept of Physics",
+		"venue": "S12-0403"
+	},
+	{
+		"roomcode": "AS6-02-04",
+		"roomname": "TUTORIAL ROOM",
+		"dept": "Dean's Office, Faculty Of Arts & Social Sci...",
+		"venue": "AS6-0204"
+	},
+	{
+		"roomcode": "AS7-02-01",
+		"roomname": "PSYCHOLOGY COMPUTER LAB",
+		"dept": "Dept of Psychology",
+		"venue": "AS7-0201"
+	},
+	{
+		"roomcode": "AS4-02-08",
+		"roomname": "DEPT MEETING ROOM (PSYCHOLOGY)",
+		"dept": "Dept of Psychology",
+		"venue": "AS4-0208"
+	},
+	{
+		"roomcode": "S4A-03-08",
+		"roomname": "NS LAB 6",
+		"dept": "Dept of Nursing/Alice Lee Ctre for Nursing Stud",
+		"venue": "S4A-0308"
+	},
+	{
+		"roomcode": "AS1-02-12",
+		"roomname": "SOCIALOGY DEPT SEMINAR ROOM",
+		"dept": "Dept of Sociology",
+		"venue": "AS1-0212"
+	},
+	{
+		"roomcode": "ISS-03-03",
+		"roomname": "DEPUTY DIRECTOR",
+		"dept": "Institute of Systems Science (ISS)",
+		"venue": "ISS-03-03"
+	},
+	{
+		"roomcode": "ISS-01-04",
+		"roomname": "RESOURCE CENTRE",
+		"dept": "Institute of Systems Science (ISS)",
+		"venue": "ISS-01-04"
+	},
+	{
+		"roomcode": "AS4-B1-10",
+		"roomname": "FAMILY ROOM",
+		"dept": "Dept of Social Work",
+		"venue": "AS4-B110"
+	},
+	{
+		"roomcode": "AS4-B1-09",
+		"roomname": "OBSERVATION ROOM",
+		"dept": "Dept of Social Work",
+		"venue": "AS4-B109"
+	}
+]
