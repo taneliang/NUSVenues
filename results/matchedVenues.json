@@ -96,6 +96,90 @@
 		"venue": "AS7-0102"
 	},
 	{
+		"roomcode": "SDE3-04-427",
+		"roomname": "LECTURE ROOM 7 (LR 427)",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-427"
+	},
+	{
+		"roomcode": "SDE3-02-05",
+		"roomname": "SEMINAR ROOM 15",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-SR15"
+	},
+	{
+		"roomcode": "SDE3-03-02",
+		"roomname": "SEMINAR ROOM 10",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-SR10"
+	},
+	{
+		"roomcode": "SDE3-03-04",
+		"roomname": "SEMINAR ROOM 13",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-SR13"
+	},
+	{
+		"roomcode": "SDE3-04-424",
+		"roomname": "LECTURE ROOM 4 (LR 424)",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-424"
+	},
+	{
+		"roomcode": "SDE3-04-423",
+		"roomname": "LECTURE ROOM 3 (LR 423)",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-423"
+	},
+	{
+		"roomcode": "SDE3-03-02A*",
+		"roomname": "SEMINAR ROOM 11",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-SR11"
+	},
+	{
+		"roomcode": "SDE3-04-SR09*",
+		"roomname": "SEMINAR ROOM 9",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-SR9"
+	},
+	{
+		"roomcode": "SDE3-03-03",
+		"roomname": "SEMINAR ROOM 12",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-SR12"
+	},
+	{
+		"roomcode": "SDE3-04-426",
+		"roomname": "LECTURE ROOM 6 (LR 426)",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-426"
+	},
+	{
+		"roomcode": "SDE3-02-04",
+		"roomname": "SEMINAR ROOM 14",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-SR14"
+	},
+	{
+		"roomcode": "SDE3-04-422",
+		"roomname": "LECTURE ROOM 2 (LR 422)",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-422"
+	},
+	{
+		"roomcode": "SDE3-04-425",
+		"roomname": "LECTURE ROOM 5 (LR 425)",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-425"
+	},
+	{
+		"roomcode": "SDE3-04-421",
+		"roomname": "LECTURE ROOM 1 (LR 421)",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-421"
+	},
+	{
 		"roomcode": "S16-04-37",
 		"roomname": "SEMINAR ROOM 8",
 		"dept": "Dean's Office, Faculty of Science",
@@ -1498,5 +1582,17 @@
 		"roomname": "OBSERVATION ROOM",
 		"dept": "Dept of Social Work",
 		"venue": "AS4-B109"
+	},
+	{
+		"roomcode": "SDE2-03-12",
+		"roomname": "E-STUDIO 1",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-ES1"
+	},
+	{
+		"roomcode": "SDE2-03-13",
+		"roomname": "E-STUDIO 2",
+		"dept": "Dean's Office, School Of Design And Environment",
+		"venue": "SDE-ES2"
 	}
 ]
