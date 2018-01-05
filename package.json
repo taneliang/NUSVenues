@@ -1,0 +1,13 @@
+{
+  "name": "NUSVenues",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "match": "tsc && node dist/match.js"
+  },
+  "dependencies": {
+    "@types/node": "^4.0.35",
+    "typescript": "^2.6.2"
+  }
+}
