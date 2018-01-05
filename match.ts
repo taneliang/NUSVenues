@@ -3,6 +3,13 @@ import matchers from "./matchers";
 import llrooms from "./data/llrooms";
 import venues from "./data/venues";
 
+// When true, ignores what's already been matched
+// and matches all venues again. Else only matches
+// venues that are still unmatched.
+const SHOULD_REMATCH = false;
+const MATCHED_FILEPATH = "./results/matchedVenues.json";
+const UNMATCHED_FILEPATH = "./results/unmatchedVenues.json";
+
 export interface Room {
   roomcode: string;
   roomname: string;
@@ -12,7 +19,7 @@ export interface Room {
 const rooms = llrooms as Room[];
 
 // Search rooms to find match for this venue
-function findVenue(venueName) {
+function findVenue(venueName: string) {
   for (const matcher of matchers) {
     for (const room of rooms) {
       if (matcher(venueName, room)) {
@@ -23,10 +30,11 @@ function findVenue(venueName) {
 }
 
 // Match venues with rooms
-function match() {
+function match(venuesToMatch: string[]) {
   const matchedVenues = [];
   const unmatchedVenues = [];
-  for (const venue of venues) {
+
+  for (const venue of venuesToMatch) {
     const room = findVenue(venue);
     if (room) {
       matchedVenues.push({ ...room, venue });
@@ -37,22 +45,33 @@ function match() {
   return { matchedVenues, unmatchedVenues };
 }
 
-const { matchedVenues, unmatchedVenues } = match();
-console.log(matchedVenues, unmatchedVenues);
+const venuesToMatch = SHOULD_REMATCH
+  ? venues
+  : JSON.parse(fs.readFileSync(UNMATCHED_FILEPATH, "utf-8"));
+const existingMatchedVenues = SHOULD_REMATCH
+  ? []
+  : JSON.parse(fs.readFileSync(MATCHED_FILEPATH, "utf-8"));
+
+console.log(`Trying to match ${venuesToMatch.length} venues...`);
+
+const { matchedVenues: newlyMatchedVenues, unmatchedVenues } = match(
+  venuesToMatch
+);
+const matchedVenues = [...existingMatchedVenues, ...newlyMatchedVenues];
 
 console.log(
-  `Found ${Object.keys(matchedVenues).length} of ${
-    venues.length
-  } venues among ${rooms.length} rooms.`
+  `Found ${matchedVenues.length} of ${venues.length} venues among ${
+    rooms.length
+  } rooms.`
 );
 
 fs.writeFile(
-  "./results/matchedVenues.json",
+  MATCHED_FILEPATH,
   JSON.stringify(matchedVenues, null, "\t"),
   err => err && console.log(err)
 );
 fs.writeFile(
-  "./results/unmatchedVenues.json",
+  UNMATCHED_FILEPATH,
   JSON.stringify(unmatchedVenues, null, "\t"),
   err => err && console.log(err)
 );
