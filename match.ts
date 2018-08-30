@@ -213,6 +213,9 @@ async function work() {
     ? []
     : JSON.parse(fs.readFileSync(MATCHED_FILEPATH, "utf-8"));
 
+  venuesToMatch.sort();
+  existingMatchedVenues.sort();
+
   console.log(`Trying to match ${venuesToMatch.length} venues...`);
 
   const {
@@ -223,6 +226,7 @@ async function work() {
   const completedVenues = await getRoomNames(newlyMatchedVenues);
 
   const matchedVenues = [...existingMatchedVenues, ...completedVenues];
+  matchedVenues.sort();
 
   console.log(`Found ${matchedVenues.length} of ${venues.length} venues`);
 
