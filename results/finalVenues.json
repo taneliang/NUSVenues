@@ -20,20 +20,60 @@
 		}
 	},
 	{
-		"corsRoomCode": "LT16",
+		"corsRoomCode": "BIZ2-0117",
 		"details": {
-			"nusRoomCode": "LT16",
-			"roomName": "LECTURE THEATRE 16",
+			"nusRoomCode": "BIZ2-01-17",
+			"roomName": "SEMINAR ROOM 1-17",
 			"floor": 1,
 			"location": {
 				"epsg3414": {
-					"x": 21383.244199999608,
-					"y": 30700.374099999666,
+					"x": 21520.58949999977,
+					"y": 30637.26359999925,
 					"z": 0
 				},
 				"wgs84": {
-					"x": 103.77386420264736,
-					"y": 1.2939170885884703,
+					"x": 103.77509832140223,
+					"y": 1.2933463685175903,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ2-0404",
+		"details": {
+			"nusRoomCode": "BIZ2-04-04",
+			"roomName": "SEMINAR ROOM 4-4",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21478.748700000346,
+					"y": 30683.796800000593,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77472235450287,
+					"y": 1.2937671894910092,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ2-0118",
+		"details": {
+			"nusRoomCode": "BIZ2-01-18",
+			"roomName": "SEMINAR ROOM 1-18",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21511.262900000438,
+					"y": 30640.565700000152,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77501451728376,
+					"y": 1.2933762295973443,
 					"z": 0
 				}
 			}
@@ -60,61 +100,101 @@
 		}
 	},
 	{
-		"corsRoomCode": "BIZ2-0404",
+		"corsRoomCode": "LT16",
 		"details": {
-			"nusRoomCode": "BIZ2-04-04",
-			"roomName": "SEMINAR ROOM 4-4",
-			"floor": 4,
+			"nusRoomCode": "LT16",
+			"roomName": "LECTURE THEATRE 16",
+			"floor": 1,
 			"location": {
 				"epsg3414": {
-					"x": 21478.748700000346,
-					"y": 30683.796800000593,
-					"z": 15
+					"x": 21383.244199999608,
+					"y": 30700.374099999666,
+					"z": 0
 				},
 				"wgs84": {
-					"x": 103.77472235450287,
-					"y": 1.2937671894910092,
-					"z": 15
+					"x": 103.77386420264736,
+					"y": 1.2939170885884703,
+					"z": 0
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "BIZ2-0509",
+		"corsRoomCode": "BIZ2-0226",
 		"details": {
-			"nusRoomCode": "BIZ2-05-09",
-			"roomName": "SEMINAR ROOM 5-9",
-			"floor": 5,
+			"nusRoomCode": "BIZ2-02-26",
+			"roomName": "SEMINAR ROOM 2-26",
+			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21547.908699999563,
-					"y": 30627.333200000226,
-					"z": 20
+					"x": 21531.66579999961,
+					"y": 30632.07320000045,
+					"z": 5
 				},
 				"wgs84": {
-					"x": 103.77534379798186,
-					"y": 1.293256567172797,
-					"z": 20
+					"x": 103.77519784770013,
+					"y": 1.2932994306847816,
+					"z": 5
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "BIZ1-0301",
+		"corsRoomCode": "BIZ2-0224",
 		"details": {
-			"nusRoomCode": "BIZ1-03-01",
-			"roomName": "SEMINAR ROOM 3-1",
-			"floor": 3,
+			"nusRoomCode": "BIZ2-02-24",
+			"roomName": "SEMINAR ROOM 2-24",
+			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21403.968000000343,
-					"y": 30534.261900000274,
-					"z": 15
+					"x": 21540.797799999826,
+					"y": 30628.83980000019,
+					"z": 5
 				},
 				"wgs84": {
-					"x": 103.77405044962676,
-					"y": 1.2924148334324945,
-					"z": 15
+					"x": 103.77527990323696,
+					"y": 1.2932701908567978,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ2-0201",
+		"details": {
+			"nusRoomCode": "BIZ2-02-01",
+			"roomName": "SEMINAR ROOM 2-1",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21487.441599999554,
+					"y": 30663.72839999944,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77480046804925,
+					"y": 1.293585699845722,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ2-B104",
+		"details": {
+			"nusRoomCode": "BIZ2-B1-04",
+			"roomName": "SEMINAR ROOM B1-4",
+			"floor": -1,
+			"location": {
+				"epsg3414": {
+					"x": 21542.51360000018,
+					"y": 30631.890399999917,
+					"z": -5
+				},
+				"wgs84": {
+					"x": 103.77529531979695,
+					"y": 1.293297779751492,
+					"z": -5
 				}
 			}
 		}
@@ -140,61 +220,61 @@
 		}
 	},
 	{
-		"corsRoomCode": "BIZ2-0202",
+		"corsRoomCode": "BIZ1-0206",
 		"details": {
-			"nusRoomCode": "BIZ2-02-02",
-			"roomName": "SEMINAR ROOM 2-2",
+			"nusRoomCode": "BIZ1-02-06",
+			"roomName": "SEMINAR ROOM 2-6",
 			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21490.599600000307,
-					"y": 30656.895700000226,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77482884542967,
-					"y": 1.293523907999633,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "BIZ1-0205",
-		"details": {
-			"nusRoomCode": "BIZ1-02-05",
-			"roomName": "SEMINAR ROOM 2-5",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21400.848799999803,
-					"y": 30560.81849999912,
+					"x": 21414.729500000365,
+					"y": 30557.35270000063,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77402241673727,
-					"y": 1.2926550012018911,
+					"x": 103.77414714137413,
+					"y": 1.292623660669996,
 					"z": 10
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "BIZ1-0304",
+		"corsRoomCode": "BIZ1-0301",
 		"details": {
-			"nusRoomCode": "BIZ1-03-04",
-			"roomName": "SEMINAR ROOM 3-4",
+			"nusRoomCode": "BIZ1-03-01",
+			"roomName": "SEMINAR ROOM 3-1",
 			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21388.585799999535,
-					"y": 30566.123199999332,
-					"z": 10
+					"x": 21403.968000000343,
+					"y": 30534.261900000274,
+					"z": 15
 				},
 				"wgs84": {
-					"x": 103.7739122274241,
-					"y": 1.2927029724261363,
-					"z": 10
+					"x": 103.77405044962676,
+					"y": 1.2924148334324945,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ1-0303",
+		"details": {
+			"nusRoomCode": "BIZ1-03-03",
+			"roomName": "SEMINAR ROOM 3-3",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21377.60610000044,
+					"y": 30559.194199999794,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77381357167226,
+					"y": 1.2926403066941994,
+					"z": 15
 				}
 			}
 		}
@@ -240,61 +320,101 @@
 		}
 	},
 	{
-		"corsRoomCode": "BIZ2-0201",
+		"corsRoomCode": "BIZ1-0205",
 		"details": {
-			"nusRoomCode": "BIZ2-02-01",
-			"roomName": "SEMINAR ROOM 2-1",
+			"nusRoomCode": "BIZ1-02-05",
+			"roomName": "SEMINAR ROOM 2-5",
 			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21487.441599999554,
-					"y": 30663.72839999944,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77480046804925,
-					"y": 1.293585699845722,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "BIZ1-0206",
-		"details": {
-			"nusRoomCode": "BIZ1-02-06",
-			"roomName": "SEMINAR ROOM 2-6",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21414.729500000365,
-					"y": 30557.35270000063,
+					"x": 21400.848799999803,
+					"y": 30560.81849999912,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77414714137413,
-					"y": 1.292623660669996,
+					"x": 103.77402241673727,
+					"y": 1.2926550012018911,
 					"z": 10
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "BIZ2-B104",
+		"corsRoomCode": "BIZ1-0305",
 		"details": {
-			"nusRoomCode": "BIZ2-B1-04",
-			"roomName": "SEMINAR ROOM B1-4",
-			"floor": -1,
+			"nusRoomCode": "BIZ1-03-05",
+			"roomName": "SEMINAR ROOM 3-5",
+			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21542.51360000018,
-					"y": 30631.890399999917,
-					"z": -5
+					"x": 21400.848799999803,
+					"y": 30560.81849999912,
+					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77529531979695,
-					"y": 1.293297779751492,
-					"z": -5
+					"x": 103.77402241673727,
+					"y": 1.2926550012018911,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ1-0203",
+		"details": {
+			"nusRoomCode": "BIZ1-02-03",
+			"roomName": "SEMINAR ROOM 2-3",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21377.04600000009,
+					"y": 30560.11989999935,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77380853874396,
+					"y": 1.292648678276406,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ2-0202",
+		"details": {
+			"nusRoomCode": "BIZ2-02-02",
+			"roomName": "SEMINAR ROOM 2-2",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21490.599600000307,
+					"y": 30656.895700000226,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77482884542967,
+					"y": 1.293523907999633,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ1-0304",
+		"details": {
+			"nusRoomCode": "BIZ1-03-04",
+			"roomName": "SEMINAR ROOM 3-4",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21388.585799999535,
+					"y": 30566.123199999332,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.7739122274241,
+					"y": 1.2927029724261363,
+					"z": 10
 				}
 			}
 		}
@@ -320,46 +440,6 @@
 		}
 	},
 	{
-		"corsRoomCode": "BIZ1-0303",
-		"details": {
-			"nusRoomCode": "BIZ1-03-03",
-			"roomName": "SEMINAR ROOM 3-3",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21377.60610000044,
-					"y": 30559.194199999794,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.77381357167226,
-					"y": 1.2926403066941994,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "BIZ2-0229",
-		"details": {
-			"nusRoomCode": "BIZ2-02-29",
-			"roomName": "SEMINAR ROOM 2-29",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21510.88580000028,
-					"y": 30639.43510000035,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77501112911452,
-					"y": 1.293366004775327,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
 		"corsRoomCode": "LT10",
 		"details": {
 			"nusRoomCode": "LT10",
@@ -380,61 +460,281 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS7-0214",
+		"corsRoomCode": "AS4-0603",
 		"details": {
-			"nusRoomCode": "AS7-02-14",
-			"roomName": "TUTORIAL ROOM",
+			"nusRoomCode": "AS4-06-03",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21201.90249999985,
+					"y": 30792.311200000346,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77223475074419,
+					"y": 1.2947484959587636,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS1-0207",
+		"details": {
+			"nusRoomCode": "AS1-02-07",
+			"roomName": "SEMINAR ROOM",
 			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21072.126799999736,
-					"y": 30750.664999999106,
-					"z": 5
+					"x": 21211.693400000222,
+					"y": 30851.706700000912,
+					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77106866993512,
-					"y": 1.2943718340425634,
-					"z": 5
+					"x": 103.77232271331253,
+					"y": 1.2952856498018621,
+					"z": 10
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "AS8-0402",
+		"corsRoomCode": "AS3-0215",
 		"details": {
-			"nusRoomCode": "AS8-04-02",
-			"roomName": "FASS TUTORIAL ROOM",
-			"floor": 4,
+			"nusRoomCode": "AS3-02-15",
+			"roomName": "SEMINAR ROOM",
+			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21188.946000000462,
-					"y": 30957.896299999207,
-					"z": 20
+					"x": 21065.346099999733,
+					"y": 30790.98650000058,
+					"z": 5
 				},
 				"wgs84": {
-					"x": 103.7721182951268,
-					"y": 1.2962459856888273,
-					"z": 20
+					"x": 103.77100773356037,
+					"y": 1.2947364857890038,
+					"z": 5
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "AS7-0102",
+		"corsRoomCode": "AS4-0604",
 		"details": {
-			"nusRoomCode": "AS7-01-02",
+			"nusRoomCode": "AS4-06-04",
+			"roomName": "RESEARCH LAB (TEMP)",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21191.35360000003,
+					"y": 30786.072899999097,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77213996573175,
+					"y": 1.294692076698793,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS4-0206",
+		"details": {
+			"nusRoomCode": "AS4-02-06",
+			"roomName": "SEMINAR ROOM",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21173.510099999607,
+					"y": 30778.955499999225,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77197963582599,
+					"y": 1.294627705573499,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS1-0304",
+		"details": {
+			"nusRoomCode": "AS1-03-04",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21214.341500000097,
+					"y": 30856.46470000036,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.7723465065967,
+					"y": 1.2953286800325798,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS6-0214",
+		"details": {
+			"nusRoomCode": "AS6-02-14",
+			"roomName": "SEMINAR ROOM",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21298.096699999645,
+					"y": 30893.32039999962,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77309907509418,
+					"y": 1.2956620079511314,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS7-0101",
+		"details": {
+			"nusRoomCode": "AS7-01-01",
 			"roomName": "SEMINAR ROOM",
 			"floor": 1,
 			"location": {
 				"epsg3414": {
-					"x": 21068.74770000018,
-					"y": 30779.196900000796,
+					"x": 21061.46430000011,
+					"y": 30765.873099999502,
 					"z": 0
 				},
 				"wgs84": {
-					"x": 103.7710383009886,
-					"y": 1.2946298656111013,
+					"x": 103.77097285948192,
+					"y": 1.2945093683012465,
 					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS1-0301",
+		"details": {
+			"nusRoomCode": "AS1-03-01",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21223.037499999627,
+					"y": 30880.536599999294,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77242463868491,
+					"y": 1.295546379598693,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "MD10-01-01",
+		"details": {
+			"nusRoomCode": "MD10-01-01",
+			"roomName": "RECEPTION AREA",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 22253.20639999956,
+					"y": 30984.677400000393,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.78168113019073,
+					"y": 1.2964883988931324,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT33",
+		"details": {
+			"nusRoomCode": "LT33",
+			"roomName": "LECTURE THEATRE 33",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 22167.254800000228,
+					"y": 31123.536900000647,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.78090879191791,
+					"y": 1.2977441788622253,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-0430",
+		"details": {
+			"nusRoomCode": "S16-04-30",
+			"roomName": "TUTORIAL ROOM 10",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 22117.852199999616,
+					"y": 31004.349999999627,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.78046491027257,
+					"y": 1.2966662856295585,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-0436",
+		"details": {
+			"nusRoomCode": "S16-04-36",
+			"roomName": "TUTORIAL ROOM 13",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 22129.95100000035,
+					"y": 31010.042300000787,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.78057362218198,
+					"y": 1.296717767048963,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-0307",
+		"details": {
+			"nusRoomCode": "S16-03-07",
+			"roomName": "DEPARTMENT SEMINAR ROOM (SEMINAR ROOM 1)",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 22088.900700000115,
+					"y": 31020.332800000906,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.78020476545214,
+					"y": 1.2968108229079032,
+					"z": 10
 				}
 			}
 		}
@@ -455,66 +755,6 @@
 					"x": 103.77805188103908,
 					"y": 1.2954979930016757,
 					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S2-0415",
-		"details": {
-			"nusRoomCode": "S2-04-15",
-			"roomName": "STAFF ROOM",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21842.70120000001,
-					"y": 30877.585999999195,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.7779925839155,
-					"y": 1.2955198239603223,
-					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S1A-0217",
-		"details": {
-			"nusRoomCode": "S1A-02-17",
-			"roomName": "SEMINAR ROOM",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21862.007600000128,
-					"y": 30921.92620000057,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.778166051549,
-					"y": 1.2959208247559988,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S16-0437",
-		"details": {
-			"nusRoomCode": "S16-04-37",
-			"roomName": "SEMINAR ROOM 8",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 22134.2854000004,
-					"y": 31022.35300000012,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.78061256634672,
-					"y": 1.2968291014586761,
-					"z": 15
 				}
 			}
 		}
@@ -560,80 +800,100 @@
 		}
 	},
 	{
-		"corsRoomCode": "BIZ2-0420",
+		"corsRoomCode": "LT18",
 		"details": {
-			"nusRoomCode": "BIZ2-04-20",
-			"roomName": "SEMINAR ROOM 4-20",
-			"floor": 4,
+			"nusRoomCode": "LT18",
+			"roomName": "LECTURE THEATRE 18",
+			"floor": null,
 			"location": {
 				"epsg3414": {
-					"x": 21512.84509999957,
-					"y": 30636.84779999964,
-					"z": 15
+					"x": 21453.442099999636,
+					"y": 30659.360799999908,
+					"z": 0
 				},
 				"wgs84": {
-					"x": 103.77502873478593,
-					"y": 1.2933426065627958,
-					"z": 15
+					"x": 103.77449496907752,
+					"y": 1.2935461937176957,
+					"z": 0
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "BIZ2-0228",
+		"corsRoomCode": "LT5",
 		"details": {
-			"nusRoomCode": "BIZ2-02-28",
-			"roomName": "SEMINAR ROOM 2-28",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21520.19000000041,
-					"y": 30636.13629999943,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77509473195855,
-					"y": 1.2933361735350462,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "BIZ1-0203",
-		"details": {
-			"nusRoomCode": "BIZ1-02-03",
-			"roomName": "SEMINAR ROOM 2-3",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21377.04600000009,
-					"y": 30560.11989999935,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77380853874396,
-					"y": 1.292648678276406,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "BIZ1-0305",
-		"details": {
-			"nusRoomCode": "BIZ1-03-05",
-			"roomName": "SEMINAR ROOM 3-5",
+			"nusRoomCode": "LT5",
+			"roomName": "LECTURE THEATRE 5",
 			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21400.848799999803,
-					"y": 30560.81849999912,
+					"x": 21103.551199999638,
+					"y": 31185.52910000086,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77135093589285,
+					"y": 1.2983045966610414,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT4",
+		"details": {
+			"nusRoomCode": "LT4",
+			"roomName": "LECTURE THEATRE 4",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21344.759600000456,
+					"y": 31094.13649999909,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.7735183186846,
+					"y": 1.2974781271276108,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-08",
+		"details": {
+			"nusRoomCode": "E1-06-08",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21062.858199999668,
+					"y": 31261.944599999115,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77098527449711,
+					"y": 1.298995662095381,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E5-03-20",
+		"details": {
+			"nusRoomCode": "E5-03-20",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21192.000400000252,
+					"y": 31166.963600000367,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77402241673727,
-					"y": 1.2926550012018911,
+					"x": 103.77214569481326,
+					"y": 1.2981367163883881,
 					"z": 10
 				}
 			}
@@ -660,66 +920,6 @@
 		}
 	},
 	{
-		"corsRoomCode": "EA-06-04",
-		"details": {
-			"nusRoomCode": "EA-06-04",
-			"roomName": "SEMINAR ROOM 4",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 20998.460799999535,
-					"y": 31379.765300000086,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77040660907785,
-					"y": 1.3000611759601464,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT1",
-		"details": {
-			"nusRoomCode": "LT1",
-			"roomName": "SEMINAR ROOM @ LT19",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21097.102300000377,
-					"y": 31319.13639999926,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77129296022898,
-					"y": 1.2995128919233356,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "EA-06-02",
-		"details": {
-			"nusRoomCode": "EA-06-02",
-			"roomName": "SEMINAR ROOM 2",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 20995.666500000283,
-					"y": 31361.15839999914,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77038150521669,
-					"y": 1.2998929011780467,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
 		"corsRoomCode": "EA-02-11",
 		"details": {
 			"nusRoomCode": "EA-02-11",
@@ -735,1766 +935,6 @@
 					"x": 103.77048516695865,
 					"y": 1.3002818961646707,
 					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT5",
-		"details": {
-			"nusRoomCode": "LT5",
-			"roomName": "LECTURE THEATRE 5",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21103.551199999638,
-					"y": 31185.52910000086,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77135093589285,
-					"y": 1.2983045966610414,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "EA-06-07",
-		"details": {
-			"nusRoomCode": "EA-06-07",
-			"roomName": "SEMINAR ROOM 7 (ACTIVE LEARNING ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21006.43209999986,
-					"y": 31402.098400000483,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.7704782297597,
-					"y": 1.3002631503286262,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "EA-06-03",
-		"details": {
-			"nusRoomCode": "EA-06-03",
-			"roomName": "SEMINAR ROOM 3",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 20995.109500000253,
-					"y": 31371.09559999965,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.7703764980984,
-					"y": 1.2999827695371007,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-01",
-		"details": {
-			"nusRoomCode": "E1-06-01",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21090.015300000086,
-					"y": 31204.74740000069,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77122930564994,
-					"y": 1.2984783970979255,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E4A-06-03",
-		"details": {
-			"nusRoomCode": "E4A-06-03",
-			"roomName": "LINEAR ELECTRONICS LABORATORY",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21245.09200000018,
-					"y": 31220.169999999925,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77262273463798,
-					"y": 1.2986179076481752,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E3-06-04",
-		"details": {
-			"nusRoomCode": "E3-06-04",
-			"roomName": "TUTORIAL ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21130.302500000224,
-					"y": 31320.5242999997,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77159127843342,
-					"y": 1.2995254509506342,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT4",
-		"details": {
-			"nusRoomCode": "LT4",
-			"roomName": "LECTURE THEATRE 4",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21344.759600000456,
-					"y": 31094.13649999909,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.7735183186846,
-					"y": 1.2974781271276108,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E3-06-03",
-		"details": {
-			"nusRoomCode": "E3-06-03",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21133.632299999706,
-					"y": 31313.50779999979,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77162119970221,
-					"y": 1.2994619969668137,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "BIZ2-0303",
-		"details": {
-			"nusRoomCode": "BIZ2-03-03",
-			"roomName": "SEMINAR ROOM 3-3",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21484.954300000332,
-					"y": 30670.57320000045,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77477811718812,
-					"y": 1.2936476012594607,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "BIZ2-0302",
-		"details": {
-			"nusRoomCode": "BIZ2-03-02",
-			"roomName": "SEMINAR ROOM 3-2",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21481.89670000039,
-					"y": 30677.059200000018,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.7747506420134,
-					"y": 1.2937062576944849,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0212",
-		"details": {
-			"nusRoomCode": "COM1-02-12",
-			"roomName": "SEMINAR ROOM 3",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21399.29600000009,
-					"y": 30797.0167999994,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77400841456318,
-					"y": 1.2947910941174683,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0204",
-		"details": {
-			"nusRoomCode": "COM1-02-04",
-			"roomName": "SEMINAR ROOM 2",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21357.207799999975,
-					"y": 30828.045299999416,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77363022755422,
-					"y": 1.2950716958743245,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0203",
-		"details": {
-			"nusRoomCode": "COM1-02-03",
-			"roomName": "SEMINAR ROOM 6",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21373.6819000002,
-					"y": 30847.232000000775,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77377825034073,
-					"y": 1.295245217052662,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0201",
-		"details": {
-			"nusRoomCode": "COM1-02-01",
-			"roomName": "SEMINAR ROOM 5 (ACTIVE LEARNING ROOM)",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21359.2527999999,
-					"y": 30864.269999999553,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77364859508984,
-					"y": 1.295399299579972,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0209",
-		"details": {
-			"nusRoomCode": "COM1-02-09",
-			"roomName": "SEMINAR ROOM 9",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21416.411700000055,
-					"y": 30798.89670000039,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77416220604057,
-					"y": 1.2948080988798212,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0216",
-		"details": {
-			"nusRoomCode": "COM1-02-16",
-			"roomName": "TUTORIAL ROOM 11",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21395.38310000021,
-					"y": 30788.946299999952,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77397325718385,
-					"y": 1.2947181065642799,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0207",
-		"details": {
-			"nusRoomCode": "COM1-02-07",
-			"roomName": "SEMINAR ROOM 7",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21403.811999999918,
-					"y": 30813.772900000215,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.7740489892307,
-					"y": 1.2949426312679213,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0217",
-		"details": {
-			"nusRoomCode": "COM1-02-17",
-			"roomName": "TUTORIAL ROOM 10",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21390.517799999565,
-					"y": 30794.690700000152,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.7739295391784,
-					"y": 1.2947700558396817,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "i3-0344",
-		"details": {
-			"nusRoomCode": "I3-03-44",
-			"roomName": "STMI EXECUTIVE TRAINING ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21572.805700000376,
-					"y": 30538.479800000787,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.7755675261885,
-					"y": 1.2924530137961476,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS8-0646",
-		"details": {
-			"nusRoomCode": "AS8-06-46",
-			"roomName": "CONFERENCE ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21209.355000000447,
-					"y": 30933.866100000218,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77230168400571,
-					"y": 1.2960286695897383,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-04",
-		"details": {
-			"nusRoomCode": "E1-06-04",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21079.417100000195,
-					"y": 31227.068600000814,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77113407123136,
-					"y": 1.2986802597007854,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT7",
-		"details": {
-			"nusRoomCode": "LT7",
-			"roomName": "LECTURE THEATRE 7",
-			"floor": null,
-			"location": {
-				"epsg3414": {
-					"x": 21073.857900000177,
-					"y": 31382.063300000504,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77108408506066,
-					"y": 1.3000819751503252,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-06",
-		"details": {
-			"nusRoomCode": "E1-06-06",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21072.582200000063,
-					"y": 31241.464199999347,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77107265346072,
-					"y": 1.2988104468426558,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-09",
-		"details": {
-			"nusRoomCode": "E1-06-09",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21070.419700000435,
-					"y": 31265.534199999645,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77105321711622,
-					"y": 1.2990281268413146,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-03",
-		"details": {
-			"nusRoomCode": "E1-06-03",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21082.834800000302,
-					"y": 31219.870500000194,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77116478236066,
-					"y": 1.2986151634160727,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-05",
-		"details": {
-			"nusRoomCode": "E1-06-05",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21075.99969999958,
-					"y": 31234.26620000042,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77110336279617,
-					"y": 1.298745351463249,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E4-04-03",
-		"details": {
-			"nusRoomCode": "E4A-04-03E",
-			"roomName": "ADVANCE CONTROL TECHNOLOGY LAB",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21231.525399999693,
-					"y": 31226.60850000009,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.77250083137335,
-					"y": 1.2986761321943248,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT2",
-		"details": {
-			"nusRoomCode": "LT2",
-			"roomName": "LECTURE THEATRE 2",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21109.53770000022,
-					"y": 31296.977499999106,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77140470268863,
-					"y": 1.2993124975071704,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT6",
-		"details": {
-			"nusRoomCode": "LT6",
-			"roomName": "LECTURE THEATRE 6",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21171.690700000152,
-					"y": 31235.719399999827,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77196318826034,
-					"y": 1.2987585148416605,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-08",
-		"details": {
-			"nusRoomCode": "E1-06-08",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21062.858199999668,
-					"y": 31261.944599999115,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77098527449711,
-					"y": 1.298995662095381,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E3-06-09",
-		"details": {
-			"nusRoomCode": "E3-06-09",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21121.560800000094,
-					"y": 31358.050200000405,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77151272213253,
-					"y": 1.2998648198508147,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E4-04-04",
-		"details": {
-			"nusRoomCode": "E4-04-04",
-			"roomName": "ACTIVE LEARNING ROOM",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21144.286399999633,
-					"y": 31240.11409999989,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.77171694758965,
-					"y": 1.2987982529100295,
-					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-07",
-		"details": {
-			"nusRoomCode": "E1-06-07",
-			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21068.541400000453,
-					"y": 31249.974700000137,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77103634320771,
-					"y": 1.2988874118637497,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E2-03-02",
-		"details": {
-			"nusRoomCode": "E2-03-02",
-			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21091.317300000228,
-					"y": 31275.45350000076,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77124098908604,
-					"y": 1.2991178380970212,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E2-03-32",
-		"details": {
-			"nusRoomCode": "E2-03-32",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21097.099100000225,
-					"y": 31263.275100000203,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.7712929437992,
-					"y": 1.2990077022822446,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E2-03-03",
-		"details": {
-			"nusRoomCode": "E2-03-03",
-			"roomName": "TUTORIAL ROOM (ACTIVE LEARNING ROOM)",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21087.37999999989,
-					"y": 31283.74750000052,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77120560887423,
-					"y": 1.299192845194747,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E3-06-01",
-		"details": {
-			"nusRoomCode": "E3-06-01",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21140.857900000177,
-					"y": 31298.282099999487,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77168612825712,
-					"y": 1.2993243027699033,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E3-06-08",
-		"details": {
-			"nusRoomCode": "E3-06-08",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21113.982499999925,
-					"y": 31354.446900000796,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77144462853268,
-					"y": 1.299832231214548,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0113",
-		"details": {
-			"nusRoomCode": "COM1-01-13",
-			"roomName": "EMBEDDED SYSTEMS TEACHING LAB 2",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21398.22580000013,
-					"y": 30800.892999999225,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77399879754427,
-					"y": 1.2948261488620085,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0114",
-		"details": {
-			"nusRoomCode": "COM1-01-14",
-			"roomName": "EMBEDDED SYSTEMS TEACHING LAB 1",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21393.51850000024,
-					"y": 30806.450300000608,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77395649927423,
-					"y": 1.2948764061055216,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS3-0303",
-		"details": {
-			"nusRoomCode": "AS3-03-03",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21113.241299999878,
-					"y": 30793.093499999493,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77143809188564,
-					"y": 1.2947555513545945,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS5-0309",
-		"details": {
-			"nusRoomCode": "AS5-03-09",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21157.610100000165,
-					"y": 30732.857899999246,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77183677759575,
-					"y": 1.2942108118444964,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS7-0106",
-		"details": {
-			"nusRoomCode": "AS7-01-06",
-			"roomName": "SEMINAR ROOM",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21081.935399999842,
-					"y": 30771.666999999434,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77115679974798,
-					"y": 1.2945617708102077,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS1-0301",
-		"details": {
-			"nusRoomCode": "AS1-03-01",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21223.037499999627,
-					"y": 30880.536599999294,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.77242463868491,
-					"y": 1.295546379598693,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS1-0208",
-		"details": {
-			"nusRoomCode": "AS1-02-08",
-			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21200.219200000167,
-					"y": 30847.24499999918,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77221961367701,
-					"y": 1.295245297279139,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS4-0206",
-		"details": {
-			"nusRoomCode": "AS4-02-06",
-			"roomName": "SEMINAR ROOM",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21173.510099999607,
-					"y": 30778.955499999225,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77197963582599,
-					"y": 1.294627705573499,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS2-0413",
-		"details": {
-			"nusRoomCode": "AS2-04-13",
-			"roomName": "SEMINAR ROOM",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21123.05169999972,
-					"y": 30841.789699999616,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.7715262318452,
-					"y": 1.2951959445714136,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS5-0205",
-		"details": {
-			"nusRoomCode": "AS5-02-05",
-			"roomName": "SEMINAR ROOM",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21151.04590000026,
-					"y": 30725.745799999684,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.7717777970229,
-					"y": 1.2941464911099443,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS3-0307",
-		"details": {
-			"nusRoomCode": "AS3-03-07",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21079.264700000174,
-					"y": 30786.83970000036,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77113279902782,
-					"y": 1.2946989867008212,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS4-0604",
-		"details": {
-			"nusRoomCode": "AS4-06-04",
-			"roomName": "RESEARCH LAB (TEMP)",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21191.35360000003,
-					"y": 30786.072899999097,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77213996573175,
-					"y": 1.294692076698793,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS5-0202",
-		"details": {
-			"nusRoomCode": "AS5-02-02",
-			"roomName": "SEMINAR ROOM",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21143.784500000067,
-					"y": 30705.11930000037,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.7717125547647,
-					"y": 1.2939599508094428,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS8-0401",
-		"details": {
-			"nusRoomCode": "AS8-04-01",
-			"roomName": "FASS SEMINAR ROOM",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21184.556300000288,
-					"y": 30945.666999999434,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.77207885443464,
-					"y": 1.2961353873044867,
-					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS4-0119",
-		"details": {
-			"nusRoomCode": "AS4-01-19",
-			"roomName": "SEMINAR ROOM",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21114.94570000004,
-					"y": 30753.75029999949,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77145341527222,
-					"y": 1.2943997458713126,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS1-0304",
-		"details": {
-			"nusRoomCode": "AS1-03-04",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21214.341500000097,
-					"y": 30856.46470000036,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.7723465065967,
-					"y": 1.2953286800325798,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS7-0101",
-		"details": {
-			"nusRoomCode": "AS7-01-01",
-			"roomName": "SEMINAR ROOM",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21061.46430000011,
-					"y": 30765.873099999502,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77097285948192,
-					"y": 1.2945093683012465,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS4-0603",
-		"details": {
-			"nusRoomCode": "AS4-06-03",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21201.90249999985,
-					"y": 30792.311200000346,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77223475074419,
-					"y": 1.2947484959587636,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS7-0119",
-		"details": {
-			"nusRoomCode": "AS7-01-19",
-			"roomName": "SEMINAR ROOM D",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21085.327800000086,
-					"y": 30715.0167999994,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77118729437709,
-					"y": 1.2940494473729465,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS3-0305",
-		"details": {
-			"nusRoomCode": "AS3-03-05",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21099.479600000195,
-					"y": 30784.917199999094,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77131443894076,
-					"y": 1.2946816047747634,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS1-0303",
-		"details": {
-			"nusRoomCode": "AS1-03-03",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21216.871600000188,
-					"y": 30863.468499999493,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.77236923911566,
-					"y": 1.2953920204513354,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS4-0110",
-		"details": {
-			"nusRoomCode": "AS4-01-10",
-			"roomName": "COMPUTER LAB",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21168.141800000332,
-					"y": 30778.6118999999,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77193139943837,
-					"y": 1.2946245970026615,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT28",
-		"details": {
-			"nusRoomCode": "LT28",
-			"roomName": "LECTURE THEATRE 28",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 22194.05190000031,
-					"y": 31063.33139999956,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.7811495867657,
-					"y": 1.297199706737715,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S16-0307",
-		"details": {
-			"nusRoomCode": "S16-03-07",
-			"roomName": "DEPARTMENT SEMINAR ROOM (SEMINAR ROOM 1)",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 22088.900700000115,
-					"y": 31020.332800000906,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.78020476545214,
-					"y": 1.2968108229079032,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S5-0224",
-		"details": {
-			"nusRoomCode": "S5-02-24",
-			"roomName": "CHEM TUTORIAL ROOM 2",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 22025.682900000364,
-					"y": 30889.735500000417,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77963675090095,
-					"y": 1.2956297353180064,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S16-0430",
-		"details": {
-			"nusRoomCode": "S16-04-30",
-			"roomName": "TUTORIAL ROOM 10",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 22117.852199999616,
-					"y": 31004.349999999627,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.78046491027257,
-					"y": 1.2966662856295585,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT32",
-		"details": {
-			"nusRoomCode": "LT32",
-			"roomName": "LECTURE THEATRE 32",
-			"floor": null,
-			"location": {
-				"epsg3414": {
-					"x": 21877.156999999657,
-					"y": 30946.170399999246,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77830217071332,
-					"y": 1.2961400836523527,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT27",
-		"details": {
-			"nusRoomCode": "LT27",
-			"roomName": "LECTURE THEATRE 27",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 22166.40539999958,
-					"y": 31040.424699999392,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.78090117515984,
-					"y": 1.2969925415205374,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT31",
-		"details": {
-			"nusRoomCode": "LT31",
-			"roomName": "LECTURE THEATRE 31",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 22109.91559999995,
-					"y": 31026.10590000078,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.78039359238537,
-					"y": 1.296863036752469,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E5-03-19",
-		"details": {
-			"nusRoomCode": "E5-03-19",
-			"roomName": "SEMINAR ROOM(ACTIVE LEARNING ROOM)",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21179.40990000032,
-					"y": 31171.48890000023,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77203256266569,
-					"y": 1.29817763882849,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT34",
-		"details": {
-			"nusRoomCode": "LT34",
-			"roomName": "LECTURE THEATRE 34",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 22167.270899999887,
-					"y": 31123.53790000081,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.78090893658327,
-					"y": 1.2977441879088887,
-					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT26",
-		"details": {
-			"nusRoomCode": "LT26",
-			"roomName": "MALE TOILET",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 22188.98330000043,
-					"y": 30979.76909999922,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.78110405867265,
-					"y": 1.2964439980596048,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S5-0223",
-		"details": {
-			"nusRoomCode": "S5-02-23",
-			"roomName": "CHEM TUTORIAL ROOM 3",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 22030.61950000003,
-					"y": 30887.94800000079,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77968110871842,
-					"y": 1.295613570749399,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT21",
-		"details": {
-			"nusRoomCode": "LT21",
-			"roomName": "LECTURE THEATRE 21",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 22006.79399999976,
-					"y": 30859.553999999538,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77946703176282,
-					"y": 1.295356780941112,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT33",
-		"details": {
-			"nusRoomCode": "LT33",
-			"roomName": "LECTURE THEATRE 33",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 22167.254800000228,
-					"y": 31123.536900000647,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.78090879191791,
-					"y": 1.2977441788622253,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S5-0410",
-		"details": {
-			"nusRoomCode": "S5-04-10",
-			"roomName": "EXPERIMENTAL CUBICLE 5",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 22034.358199999668,
-					"y": 30875.87529999949,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.77971470484341,
-					"y": 1.2955043902597878,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S14-0620",
-		"details": {
-			"nusRoomCode": "S14-06-20",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 22020.75569999963,
-					"y": 31011.960200000554,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77959245458497,
-					"y": 1.296735091084466,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT20",
-		"details": {
-			"nusRoomCode": "LT20",
-			"roomName": "LECTURE THEATRE 20",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21934.83729999978,
-					"y": 30913.4207000006,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77882045948085,
-					"y": 1.2958439182978323,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT29",
-		"details": {
-			"nusRoomCode": "LT29",
-			"roomName": "LECTURE THEATRE 29",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 22176.052299999632,
-					"y": 31081.453299999237,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.78098784913514,
-					"y": 1.2973635913960453,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S14-0619",
-		"details": {
-			"nusRoomCode": "S14-06-19",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 22032.88819999993,
-					"y": 31017.604800000787,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.7797014692963,
-					"y": 1.2967861411655512,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S8-0314",
-		"details": {
-			"nusRoomCode": "S8-03-14",
-			"roomName": "EXECUTIVE CLASSROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21982.231900000013,
-					"y": 30942.474199999124,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.7792463148344,
-					"y": 1.2961066770026624,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S13-M-09",
-		"details": {
-			"nusRoomCode": "S13-M-09",
-			"roomName": "COMPUTER LAB 1",
-			"floor": 105,
-			"location": {
-				"epsg3414": {
-					"x": 21964.650100000203,
-					"y": 31016.12519999966,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.7790883205841,
-					"y": 1.2967727470417594,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S16-0436",
-		"details": {
-			"nusRoomCode": "S16-04-36",
-			"roomName": "TUTORIAL ROOM 13",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 22129.95100000035,
-					"y": 31010.042300000787,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.78057362218198,
-					"y": 1.296717767048963,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S16-0435",
-		"details": {
-			"nusRoomCode": "S16-04-35",
-			"roomName": "SEMINAR ROOM 7",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 22127.995500000194,
-					"y": 31019.39409999922,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.7805560494127,
-					"y": 1.2968023410340423,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E3-06-07",
-		"details": {
-			"nusRoomCode": "E3-06-07",
-			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21119.734799999744,
-					"y": 31342.799599999562,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77149631806587,
-					"y": 1.2997268984685864,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E5-03-22",
-		"details": {
-			"nusRoomCode": "E5-03-22",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21208.223799999803,
-					"y": 31161.132300000638,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77229147043936,
-					"y": 1.2980839837384197,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E5-03-21",
-		"details": {
-			"nusRoomCode": "E5-03-21",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21200.756799999624,
-					"y": 31163.816299999133,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.7722243755894,
-					"y": 1.2981082552454721,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E5-02-32",
-		"details": {
-			"nusRoomCode": "E5-02-32",
-			"roomName": "EXECUTIVE SEMINAR ROOM",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21272.626000000164,
-					"y": 31131.05440000072,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77287015889299,
-					"y": 1.2978119839358138,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E5-03-20",
-		"details": {
-			"nusRoomCode": "E5-03-20",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21192.000400000252,
-					"y": 31166.963600000367,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77214569481326,
-					"y": 1.2981367163883881,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "EW2-0402",
-		"details": {
-			"nusRoomCode": "EW2-04-02",
-			"roomName": "CHEMICAL & BIOMOLECULAR ENGINEERING UG LAB",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21242.70069999993,
-					"y": 31273.370400000364,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.77260123626932,
-					"y": 1.2990990325535583,
-					"z": 20
 				}
 			}
 		}
@@ -2520,40 +960,160 @@
 		}
 	},
 	{
-		"corsRoomCode": "E5-03-23",
+		"corsRoomCode": "EA-06-03",
 		"details": {
-			"nusRoomCode": "E5-03-23",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
+			"nusRoomCode": "EA-06-03",
+			"roomName": "SEMINAR ROOM 3",
+			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 21215.549599999562,
-					"y": 31158.499199999496,
-					"z": 10
+					"x": 20995.109500000253,
+					"y": 31371.09559999965,
+					"z": 25
 				},
 				"wgs84": {
-					"x": 103.7723572965332,
-					"y": 1.2980601725201302,
-					"z": 10
+					"x": 103.7703764980984,
+					"y": 1.2999827695371007,
+					"z": 25
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "E1-06-02",
+		"corsRoomCode": "LT6",
 		"details": {
-			"nusRoomCode": "E1-06-02",
+			"nusRoomCode": "LT6",
+			"roomName": "LECTURE THEATRE 6",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21171.690700000152,
+					"y": 31235.719399999827,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77196318826034,
+					"y": 1.2987585148416605,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "EA-06-06",
+		"details": {
+			"nusRoomCode": "EA-06-06",
+			"roomName": "SEMINAR ROOM 6",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21003.791600000113,
+					"y": 31394.71440000087,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77045450534278,
+					"y": 1.3001963714776315,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "EA-06-07",
+		"details": {
+			"nusRoomCode": "EA-06-07",
+			"roomName": "SEMINAR ROOM 7 (ACTIVE LEARNING ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21006.43209999986,
+					"y": 31402.098400000483,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.7704782297597,
+					"y": 1.3002631503286262,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E3-06-01",
+		"details": {
+			"nusRoomCode": "E3-06-01",
 			"roomName": "SEMINAR ROOM",
 			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 21086.25229999982,
-					"y": 31212.672700000927,
+					"x": 21140.857900000177,
+					"y": 31298.282099999487,
 					"z": 25
 				},
 				"wgs84": {
-					"x": 103.77119549169116,
-					"y": 1.2985500698439354,
+					"x": 103.77168612825712,
+					"y": 1.2993243027699033,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "EA-06-05",
+		"details": {
+			"nusRoomCode": "EA-06-05",
+			"roomName": "SEMINAR ROOM 5",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21001.1305999998,
+					"y": 31387.23159999959,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77043059674752,
+					"y": 1.3001286991099226,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E3-06-02",
+		"details": {
+			"nusRoomCode": "E3-06-02",
+			"roomName": "TUTORIAL ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21136.96210000012,
+					"y": 31306.491200000048,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.7716511209695,
+					"y": 1.2993985420781702,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E3-06-05",
+		"details": {
+			"nusRoomCode": "E3-06-05",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21126.97259999998,
+					"y": 31327.54089999944,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.7715613562645,
+					"y": 1.299588905838335,
 					"z": 25
 				}
 			}
@@ -2580,240 +1140,200 @@
 		}
 	},
 	{
-		"corsRoomCode": "MD1-08-01E",
+		"corsRoomCode": "E3-06-04",
 		"details": {
-			"nusRoomCode": "MD1-08-01E",
-			"roomName": "SEMINAR ROOM 1",
-			"floor": 8,
+			"nusRoomCode": "E3-06-04",
+			"roomName": "TUTORIAL ROOM",
+			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 22146.022499999963,
-					"y": 30866.50809999928,
-					"z": 35
+					"x": 21130.302500000224,
+					"y": 31320.5242999997,
+					"z": 25
 				},
 				"wgs84": {
-					"x": 103.78071805838483,
-					"y": 1.2954196977993246,
-					"z": 35
+					"x": 103.77159127843342,
+					"y": 1.2995254509506342,
+					"z": 25
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "S13-M-08",
+		"corsRoomCode": "EA-06-02",
 		"details": {
-			"nusRoomCode": "S13-M-08",
-			"roomName": "COMPUTER LAB 2",
-			"floor": 105,
+			"nusRoomCode": "EA-06-02",
+			"roomName": "SEMINAR ROOM 2",
+			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 21979.45949999988,
-					"y": 31009.962700000033,
-					"z": 5
+					"x": 20995.666500000283,
+					"y": 31361.15839999914,
+					"z": 25
 				},
 				"wgs84": {
-					"x": 103.77922139066418,
-					"y": 1.2967170184504604,
-					"z": 5
+					"x": 103.77038150521669,
+					"y": 1.2998929011780467,
+					"z": 25
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "COM1-B108",
+		"corsRoomCode": "E4-04-04",
 		"details": {
-			"nusRoomCode": "COM1-B1-08",
-			"roomName": "PROGRAMMING LAB 3",
-			"floor": -1,
-			"location": {
-				"epsg3414": {
-					"x": 21397.792799999937,
-					"y": 30806.87260000035,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77399490559694,
-					"y": 1.2948802261411385,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0120",
-		"details": {
-			"nusRoomCode": "COM1-01-20",
-			"roomName": "PROGRAMMING LAB 6",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21391.306699999608,
-					"y": 30785.816600000486,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77393662964938,
-					"y": 1.2946898018099136,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-B111",
-		"details": {
-			"nusRoomCode": "COM1-B1-11",
-			"roomName": "PROGRAMMING LAB 4",
-			"floor": -1,
-			"location": {
-				"epsg3414": {
-					"x": 21387.976900000125,
-					"y": 30812.58640000038,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77390670433856,
-					"y": 1.2949318976322264,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "i3-0336",
-		"details": {
-			"nusRoomCode": "I3-03-36",
-			"roomName": "GRADUATE STUDENTS LAB 2",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21621.66280000005,
-					"y": 30514.737500000745,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77600653251584,
-					"y": 1.292238306896456,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "i3-0338",
-		"details": {
-			"nusRoomCode": "I3-03-38",
-			"roomName": "FYP LAB 3",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21605.935700000264,
-					"y": 30520.010399999097,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.7758652168729,
-					"y": 1.292285989913646,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-B110",
-		"details": {
-			"nusRoomCode": "COM1-B1-10",
-			"roomName": "PROGRAMMING LAB 5",
-			"floor": -1,
-			"location": {
-				"epsg3414": {
-					"x": 21387.128100000322,
-					"y": 30798.655500000343,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77389908044206,
-					"y": 1.2948059113590875,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS6-0208",
-		"details": {
-			"nusRoomCode": "AS6-02-08",
-			"roomName": "DISCUSSION ROOM 5",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21321.713399999775,
-					"y": 30859.18779999949,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77331128855921,
-					"y": 1.295353329958129,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0208",
-		"details": {
-			"nusRoomCode": "COM1-02-08",
-			"roomName": "SEMINAR ROOM 8",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21410.137199999765,
-					"y": 30806.30480000004,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77410582542402,
-					"y": 1.2948750937706417,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS6-0421",
-		"details": {
-			"nusRoomCode": "AS6-04-21",
-			"roomName": "MEDIA TEACHING LAB 1",
+			"nusRoomCode": "E4-04-04",
+			"roomName": "ACTIVE LEARNING ROOM",
 			"floor": 4,
 			"location": {
 				"epsg3414": {
-					"x": 21294.86419999972,
-					"y": 30899.314400000498,
-					"z": 15
+					"x": 21144.286399999633,
+					"y": 31240.11409999989,
+					"z": 20
 				},
 				"wgs84": {
-					"x": 103.77307002841133,
-					"y": 1.2957162148539985,
-					"z": 15
+					"x": 103.77171694758965,
+					"y": 1.2987982529100295,
+					"z": 20
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "COM1-B109",
+		"corsRoomCode": "BIZ2-0112",
 		"details": {
-			"nusRoomCode": "COM1-B1-09",
-			"roomName": "PROGRAMMING LAB 2",
-			"floor": -1,
+			"nusRoomCode": "BIZ2-01-12",
+			"roomName": "SEMINAR ROOM 1-12",
+			"floor": 1,
 			"location": {
 				"epsg3414": {
-					"x": 21392.7882000003,
-					"y": 30802.633899999782,
+					"x": 21545.952600000426,
+					"y": 30628.283999999985,
 					"z": 0
 				},
 				"wgs84": {
-					"x": 103.77394993801991,
-					"y": 1.2948418917897562,
+					"x": 103.7753262214032,
+					"y": 1.2932651654652032,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ2-0228",
+		"details": {
+			"nusRoomCode": "BIZ2-02-28",
+			"roomName": "SEMINAR ROOM 2-28",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21520.19000000041,
+					"y": 30636.13629999943,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77509473195855,
+					"y": 1.2933361735350462,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ2-0302",
+		"details": {
+			"nusRoomCode": "BIZ2-03-02",
+			"roomName": "SEMINAR ROOM 3-2",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21481.89670000039,
+					"y": 30677.059200000018,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.7747506420134,
+					"y": 1.2937062576944849,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ2-0229",
+		"details": {
+			"nusRoomCode": "BIZ2-02-29",
+			"roomName": "SEMINAR ROOM 2-29",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21510.88580000028,
+					"y": 30639.43510000035,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77501112911452,
+					"y": 1.293366004775327,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT15",
+		"details": {
+			"nusRoomCode": "LT15",
+			"roomName": "LECTURE THEATRE 15",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21332.563199999742,
+					"y": 30877.89350000024,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77340877469021,
+					"y": 1.295522499959851,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0217",
+		"details": {
+			"nusRoomCode": "COM1-02-17",
+			"roomName": "TUTORIAL ROOM 10",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21390.517799999565,
+					"y": 30794.690700000152,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.7739295391784,
+					"y": 1.2947700558396817,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0216",
+		"details": {
+			"nusRoomCode": "COM1-02-16",
+			"roomName": "TUTORIAL ROOM 11",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21395.38310000021,
+					"y": 30788.946299999952,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77397325718385,
+					"y": 1.2947181065642799,
 					"z": 0
 				}
 			}
@@ -2840,21 +1360,1761 @@
 		}
 	},
 	{
-		"corsRoomCode": "COM1-0218",
+		"corsRoomCode": "COM1-B110",
 		"details": {
-			"nusRoomCode": "COM1-02-18",
-			"roomName": "TUTORIAL ROOM 5",
-			"floor": 2,
+			"nusRoomCode": "COM1-B1-10",
+			"roomName": "PROGRAMMING LAB 5",
+			"floor": -1,
 			"location": {
 				"epsg3414": {
-					"x": 21398.867600000463,
-					"y": 30772.802699999884,
+					"x": 21387.128100000322,
+					"y": 30798.655500000343,
 					"z": 0
 				},
 				"wgs84": {
-					"x": 103.77400457029671,
-					"y": 1.2945721103380643,
+					"x": 103.77389908044206,
+					"y": 1.2948059113590875,
 					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "I3-0338",
+		"details": {
+			"nusRoomCode": "I3-03-38",
+			"roomName": "FYP LAB 3",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21605.935700000264,
+					"y": 30520.010399999097,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.7758652168729,
+					"y": 1.292285989913646,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0212",
+		"details": {
+			"nusRoomCode": "COM1-02-12",
+			"roomName": "SEMINAR ROOM 3",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21399.29600000009,
+					"y": 30797.0167999994,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77400841456318,
+					"y": 1.2947910941174683,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0114",
+		"details": {
+			"nusRoomCode": "COM1-01-14",
+			"roomName": "EMBEDDED SYSTEMS TEACHING LAB 1",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21393.51850000024,
+					"y": 30806.450300000608,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77395649927423,
+					"y": 1.2948764061055216,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0204",
+		"details": {
+			"nusRoomCode": "COM1-02-04",
+			"roomName": "SEMINAR ROOM 2",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21357.207799999975,
+					"y": 30828.045299999416,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77363022755422,
+					"y": 1.2950716958743245,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0113",
+		"details": {
+			"nusRoomCode": "COM1-01-13",
+			"roomName": "EMBEDDED SYSTEMS TEACHING LAB 2",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21398.22580000013,
+					"y": 30800.892999999225,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77399879754427,
+					"y": 1.2948261488620085,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "I3-0339",
+		"details": {
+			"nusRoomCode": "I3-03-39",
+			"roomName": "FYP LAB 2",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21599.103900000453,
+					"y": 30522.30100000091,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77580382982545,
+					"y": 1.2923067038862432,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "I3-0344",
+		"details": {
+			"nusRoomCode": "I3-03-44",
+			"roomName": "STMI EXECUTIVE TRAINING ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21572.805700000376,
+					"y": 30538.479800000787,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.7755675261885,
+					"y": 1.2924530137961476,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ2-0420",
+		"details": {
+			"nusRoomCode": "BIZ2-04-20",
+			"roomName": "SEMINAR ROOM 4-20",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21512.84509999957,
+					"y": 30636.84779999964,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77502873478593,
+					"y": 1.2933426065627958,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS8-0646",
+		"details": {
+			"nusRoomCode": "AS8-06-46",
+			"roomName": "CONFERENCE ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21209.355000000447,
+					"y": 30933.866100000218,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77230168400571,
+					"y": 1.2960286695897383,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS3-0304",
+		"details": {
+			"nusRoomCode": "AS3-03-04",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21107.148199999705,
+					"y": 30789.811599999666,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.7713833435048,
+					"y": 1.2947258696766968,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT7",
+		"details": {
+			"nusRoomCode": "LT7",
+			"roomName": "LECTURE THEATRE 7",
+			"floor": null,
+			"location": {
+				"epsg3414": {
+					"x": 21073.857900000177,
+					"y": 31382.063300000504,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77108408506066,
+					"y": 1.3000819751503252,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "EA-06-04",
+		"details": {
+			"nusRoomCode": "EA-06-04",
+			"roomName": "SEMINAR ROOM 4",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 20998.460799999535,
+					"y": 31379.765300000086,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77040660907785,
+					"y": 1.3000611759601464,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-07",
+		"details": {
+			"nusRoomCode": "E1-06-07",
+			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21068.541400000453,
+					"y": 31249.974700000137,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77103634320771,
+					"y": 1.2988874118637497,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-05",
+		"details": {
+			"nusRoomCode": "E1-06-05",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21075.99969999958,
+					"y": 31234.26620000042,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77110336279617,
+					"y": 1.298745351463249,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-01",
+		"details": {
+			"nusRoomCode": "E1-06-01",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21090.015300000086,
+					"y": 31204.74740000069,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77122930564994,
+					"y": 1.2984783970979255,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT2",
+		"details": {
+			"nusRoomCode": "LT2",
+			"roomName": "LECTURE THEATRE 2",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21109.53770000022,
+					"y": 31296.977499999106,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77140470268863,
+					"y": 1.2993124975071704,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E2-03-02",
+		"details": {
+			"nusRoomCode": "E2-03-02",
+			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21091.317300000228,
+					"y": 31275.45350000076,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77124098908604,
+					"y": 1.2991178380970212,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E2-03-08",
+		"details": {
+			"nusRoomCode": "E2-03-08",
+			"roomName": "PC CLUSTER 5 (TEACHING)",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21069.406799999997,
+					"y": 31321.604399999604,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77104410334312,
+					"y": 1.2995352054704308,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E2-03-09",
+		"details": {
+			"nusRoomCode": "E2-03-09",
+			"roomName": "PC CLUSTER 6 (TEACHING)",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21064.194600000046,
+					"y": 31332.583300000057,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77099726698215,
+					"y": 1.2996344935562927,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-09",
+		"details": {
+			"nusRoomCode": "E1-06-09",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21070.419700000435,
+					"y": 31265.534199999645,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77105321711622,
+					"y": 1.2990281268413146,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT1",
+		"details": {
+			"nusRoomCode": "LT1",
+			"roomName": "SEMINAR ROOM @ LT19",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21097.102300000377,
+					"y": 31319.13639999926,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77129296022898,
+					"y": 1.2995128919233356,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E4-04-03",
+		"details": {
+			"nusRoomCode": "E4A-04-03E",
+			"roomName": "ADVANCE CONTROL TECHNOLOGY LAB",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21231.525399999693,
+					"y": 31226.60850000009,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77250083137335,
+					"y": 1.2986761321943248,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E3-06-15",
+		"details": {
+			"nusRoomCode": "E3-06-15",
+			"roomName": "TUTORIAL ROOM (ACTIVE LEARNING ROOM)",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21145.998999999836,
+					"y": 31310.781500000507,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.7717323205774,
+					"y": 1.2994373440127818,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E3-06-09",
+		"details": {
+			"nusRoomCode": "E3-06-09",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21121.560800000094,
+					"y": 31358.050200000405,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77151272213253,
+					"y": 1.2998648198508147,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "C4-02-01",
+		"details": {
+			"nusRoomCode": "S4-02-01",
+			"roomName": "STAFF ROOM",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21971.24199999962,
+					"y": 30890.38800000027,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77914757584118,
+					"y": 1.295635625815249,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E4A-04-08",
+		"details": {
+			"nusRoomCode": "E4-04-08",
+			"roomName": "GENERAL OFFICE",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21212.35030000005,
+					"y": 31194.684299999848,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.7723285415776,
+					"y": 1.298387416948554,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-04",
+		"details": {
+			"nusRoomCode": "E1-06-04",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21079.417100000195,
+					"y": 31227.068600000814,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77113407123136,
+					"y": 1.2986802597007854,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E3-06-03",
+		"details": {
+			"nusRoomCode": "E3-06-03",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21133.632299999706,
+					"y": 31313.50779999979,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77162119970221,
+					"y": 1.2994619969668137,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E4-03-07",
+		"details": {
+			"nusRoomCode": "E4-03-07",
+			"roomName": "DigE LAB",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21234.25239999965,
+					"y": 31188.517300000414,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77252534290083,
+					"y": 1.2983316495731172,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0207",
+		"details": {
+			"nusRoomCode": "COM1-02-07",
+			"roomName": "SEMINAR ROOM 7",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21403.811999999918,
+					"y": 30813.772900000215,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.7740489892307,
+					"y": 1.2949426312679213,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0120",
+		"details": {
+			"nusRoomCode": "COM1-01-20",
+			"roomName": "PROGRAMMING LAB 6",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21391.306699999608,
+					"y": 30785.816600000486,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77393662964938,
+					"y": 1.2946898018099136,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0209",
+		"details": {
+			"nusRoomCode": "COM1-02-09",
+			"roomName": "SEMINAR ROOM 9",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21416.411700000055,
+					"y": 30798.89670000039,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77416220604057,
+					"y": 1.2948080988798212,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT9",
+		"details": {
+			"nusRoomCode": "LT9",
+			"roomName": "LECTURE THEATRE 9",
+			"floor": null,
+			"location": {
+				"epsg3414": {
+					"x": 21203.67169999983,
+					"y": 30816.68180000037,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.7722506424852,
+					"y": 1.294968895355766,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS4-0116",
+		"details": {
+			"nusRoomCode": "AS4-01-16",
+			"roomName": "SEMINAR ROOM",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21134.859899999574,
+					"y": 30762.71470000036,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77163235086563,
+					"y": 1.2944808210934202,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS4-0118",
+		"details": {
+			"nusRoomCode": "AS4-01-18",
+			"roomName": "SEMINAR ROOM",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21121.58910000045,
+					"y": 30756.867499999702,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77151310836271,
+					"y": 1.2944279381807529,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS7-0102",
+		"details": {
+			"nusRoomCode": "AS7-01-02",
+			"roomName": "SEMINAR ROOM",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21068.74770000018,
+					"y": 30779.196900000796,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.7710383009886,
+					"y": 1.2946298656111013,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS5-0202",
+		"details": {
+			"nusRoomCode": "AS5-02-02",
+			"roomName": "SEMINAR ROOM",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21143.784500000067,
+					"y": 30705.11930000037,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.7717125547647,
+					"y": 1.2939599508094428,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS2-0413",
+		"details": {
+			"nusRoomCode": "AS2-04-13",
+			"roomName": "SEMINAR ROOM",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21123.05169999972,
+					"y": 30841.789699999616,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.7715262318452,
+					"y": 1.2951959445714136,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS1-0303",
+		"details": {
+			"nusRoomCode": "AS1-03-03",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21216.871600000188,
+					"y": 30863.468499999493,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77236923911566,
+					"y": 1.2953920204513354,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS5-0309",
+		"details": {
+			"nusRoomCode": "AS5-03-09",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21157.610100000165,
+					"y": 30732.857899999246,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77183677759575,
+					"y": 1.2942108118444964,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS7-0119",
+		"details": {
+			"nusRoomCode": "AS7-01-19",
+			"roomName": "SEMINAR ROOM D",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21085.327800000086,
+					"y": 30715.0167999994,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77118729437709,
+					"y": 1.2940494473729465,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS3-0302",
+		"details": {
+			"nusRoomCode": "AS3-03-02",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21119.730399999768,
+					"y": 30796.31210000068,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77149639851056,
+					"y": 1.2947846606561015,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS7-0106",
+		"details": {
+			"nusRoomCode": "AS7-01-06",
+			"roomName": "SEMINAR ROOM",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21081.935399999842,
+					"y": 30771.666999999434,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77115679974798,
+					"y": 1.2945617708102077,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS8-0402",
+		"details": {
+			"nusRoomCode": "AS8-04-02",
+			"roomName": "FASS TUTORIAL ROOM",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21188.946000000462,
+					"y": 30957.896299999207,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.7721182951268,
+					"y": 1.2962459856888273,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS3-0303",
+		"details": {
+			"nusRoomCode": "AS3-03-03",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21113.241299999878,
+					"y": 30793.093499999493,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77143809188564,
+					"y": 1.2947555513545945,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS3-0214",
+		"details": {
+			"nusRoomCode": "AS3-02-14",
+			"roomName": "SEMINAR ROOM",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21071.9841,
+					"y": 30788.750700000674,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77106737931292,
+					"y": 1.2947162674867374,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS8-0401",
+		"details": {
+			"nusRoomCode": "AS8-04-01",
+			"roomName": "FASS SEMINAR ROOM",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21184.556300000288,
+					"y": 30945.666999999434,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.77207885443464,
+					"y": 1.2961353873044867,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT12",
+		"details": {
+			"nusRoomCode": "LT12",
+			"roomName": "LECTURE THEATRE 12",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21081.009499999695,
+					"y": 30817.934200000018,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77114846994691,
+					"y": 1.2949801946461976,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS1-0203",
+		"details": {
+			"nusRoomCode": "AS1-02-03",
+			"roomName": "SEMINAR ROOM",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21219.78010000009,
+					"y": 30874.02950000018,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77239537095346,
+					"y": 1.2954875309998122,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT14",
+		"details": {
+			"nusRoomCode": "LT14",
+			"roomName": "LECTURE THEATRE 14",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21326.898500000127,
+					"y": 30898.726600000635,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.7733578704978,
+					"y": 1.2957109058743046,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS1-0302",
+		"details": {
+			"nusRoomCode": "AS1-03-02",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21219.336299999617,
+					"y": 30870.2910999991,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77239138402778,
+					"y": 1.2954537221475408,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT27",
+		"details": {
+			"nusRoomCode": "LT27",
+			"roomName": "LECTURE THEATRE 27",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 22166.40539999958,
+					"y": 31040.424699999392,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.78090117515984,
+					"y": 1.2969925415205374,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT34",
+		"details": {
+			"nusRoomCode": "LT34",
+			"roomName": "LECTURE THEATRE 34",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 22167.270899999887,
+					"y": 31123.53790000081,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.78090893658327,
+					"y": 1.2977441879088887,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT32",
+		"details": {
+			"nusRoomCode": "LT32",
+			"roomName": "LECTURE THEATRE 32",
+			"floor": null,
+			"location": {
+				"epsg3414": {
+					"x": 21877.156999999657,
+					"y": 30946.170399999246,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77830217071332,
+					"y": 1.2961400836523527,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-0431",
+		"details": {
+			"nusRoomCode": "S16-04-31",
+			"roomName": "SEMINAR ROOM 5",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 22118.383799999952,
+					"y": 31014.871799999848,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.78046968495556,
+					"y": 1.2967614411474688,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-0598",
+		"details": {
+			"nusRoomCode": "S16-05-98",
+			"roomName": "SEMINAR ROOM (ACTIVE LEARNING)",
+			"floor": 5,
+			"location": {
+				"epsg3414": {
+					"x": 22126.083499999717,
+					"y": 31007.814099999145,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.7805388714307,
+					"y": 1.2966976152714058,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-0440",
+		"details": {
+			"nusRoomCode": "S16-04-40",
+			"roomName": "TUTORIAL ROOM 16",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 22142.022499999963,
+					"y": 31015.721599999815,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.78068208879594,
+					"y": 1.2967691308912979,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-0435",
+		"details": {
+			"nusRoomCode": "S16-04-35",
+			"roomName": "SEMINAR ROOM 7",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 22127.995500000194,
+					"y": 31019.39409999922,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.7805560494127,
+					"y": 1.2968023410340423,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-0309",
+		"details": {
+			"nusRoomCode": "S16-03-09",
+			"roomName": "TUTORIAL ROOM 3",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 22082.319600000046,
+					"y": 31027.803099999204,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.78014562999573,
+					"y": 1.2968783803944364,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT28",
+		"details": {
+			"nusRoomCode": "LT28",
+			"roomName": "LECTURE THEATRE 28",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 22194.05190000031,
+					"y": 31063.33139999956,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.7811495867657,
+					"y": 1.297199706737715,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S5-0410",
+		"details": {
+			"nusRoomCode": "S5-04-10",
+			"roomName": "EXPERIMENTAL CUBICLE 5",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 22034.358199999668,
+					"y": 30875.87529999949,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77971470484341,
+					"y": 1.2955043902597878,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT31",
+		"details": {
+			"nusRoomCode": "LT31",
+			"roomName": "LECTURE THEATRE 31",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 22109.91559999995,
+					"y": 31026.10590000078,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.78039359238537,
+					"y": 1.296863036752469,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT20",
+		"details": {
+			"nusRoomCode": "LT20",
+			"roomName": "LECTURE THEATRE 20",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21934.83729999978,
+					"y": 30913.4207000006,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77882045948085,
+					"y": 1.2958439182978323,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S5-0224",
+		"details": {
+			"nusRoomCode": "S5-02-24",
+			"roomName": "CHEM TUTORIAL ROOM 2",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 22025.682900000364,
+					"y": 30889.735500000417,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77963675090095,
+					"y": 1.2956297353180064,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT21",
+		"details": {
+			"nusRoomCode": "LT21",
+			"roomName": "LECTURE THEATRE 21",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 22006.79399999976,
+					"y": 30859.553999999538,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77946703176282,
+					"y": 1.295356780941112,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S14-0619",
+		"details": {
+			"nusRoomCode": "S14-06-19",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 22032.88819999993,
+					"y": 31017.604800000787,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.7797014692963,
+					"y": 1.2967861411655512,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S5-0223",
+		"details": {
+			"nusRoomCode": "S5-02-23",
+			"roomName": "CHEM TUTORIAL ROOM 3",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 22030.61950000003,
+					"y": 30887.94800000079,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77968110871842,
+					"y": 1.295613570749399,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S8-0314",
+		"details": {
+			"nusRoomCode": "S8-03-14",
+			"roomName": "EXECUTIVE CLASSROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21982.231900000013,
+					"y": 30942.474199999124,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.7792463148344,
+					"y": 1.2961066770026624,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S1A-0217",
+		"details": {
+			"nusRoomCode": "S1A-02-17",
+			"roomName": "SEMINAR ROOM",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21862.007600000128,
+					"y": 30921.92620000057,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.778166051549,
+					"y": 1.2959208247559988,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-0304",
+		"details": {
+			"nusRoomCode": "S16-03-04",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 22119.15240000002,
+					"y": 31003.900699999183,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.78047659321881,
+					"y": 1.2966622225656268,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-0437",
+		"details": {
+			"nusRoomCode": "S16-04-37",
+			"roomName": "SEMINAR ROOM 8",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 22134.2854000004,
+					"y": 31022.35300000012,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.78061256634672,
+					"y": 1.2968291014586761,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT29",
+		"details": {
+			"nusRoomCode": "LT29",
+			"roomName": "LECTURE THEATRE 29",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 22176.052299999632,
+					"y": 31081.453299999237,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.78098784913514,
+					"y": 1.2973635913960453,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "EW2-04-02",
+		"details": {
+			"nusRoomCode": "EW2-04-02",
+			"roomName": "CHEMICAL & BIOMOLECULAR ENGINEERING UG LAB",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21242.70069999993,
+					"y": 31273.370400000364,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.77260123626932,
+					"y": 1.2990990325535583,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-02",
+		"details": {
+			"nusRoomCode": "E1-06-02",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21086.25229999982,
+					"y": 31212.672700000927,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77119549169116,
+					"y": 1.2985500698439354,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-06",
+		"details": {
+			"nusRoomCode": "E1-06-06",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21072.582200000063,
+					"y": 31241.464199999347,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77107265346072,
+					"y": 1.2988104468426558,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E5-02-32",
+		"details": {
+			"nusRoomCode": "E5-02-32",
+			"roomName": "EXECUTIVE SEMINAR ROOM",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21272.626000000164,
+					"y": 31131.05440000072,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77287015889299,
+					"y": 1.2978119839358138,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E5-03-22",
+		"details": {
+			"nusRoomCode": "E5-03-22",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21208.223799999803,
+					"y": 31161.132300000638,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77229147043936,
+					"y": 1.2980839837384197,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E5-03-23",
+		"details": {
+			"nusRoomCode": "E5-03-23",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21215.549599999562,
+					"y": 31158.499199999496,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.7723572965332,
+					"y": 1.2980601725201302,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E5-03-21",
+		"details": {
+			"nusRoomCode": "E5-03-21",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21200.756799999624,
+					"y": 31163.816299999133,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.7722243755894,
+					"y": 1.2981082552454721,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-03",
+		"details": {
+			"nusRoomCode": "E1-06-03",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21082.834800000302,
+					"y": 31219.870500000194,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77116478236066,
+					"y": 1.2986151634160727,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E2-03-06",
+		"details": {
+			"nusRoomCode": "E2-03-06",
+			"roomName": "PC CLUSTER 3 (TEACHING)",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21079.604799999855,
+					"y": 31300.124299999326,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77113574164383,
+					"y": 1.299340949393047,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E5-03-24",
+		"details": {
+			"nusRoomCode": "E5-03-24",
+			"roomName": "COMPUTER TEACHING LAB1",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21224.794700000435,
+					"y": 31155.17620000057,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77244036852647,
+					"y": 1.2980301225086945,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E5-03-19",
+		"details": {
+			"nusRoomCode": "E5-03-19",
+			"roomName": "SEMINAR ROOM(ACTIVE LEARNING ROOM)",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21179.40990000032,
+					"y": 31171.48890000023,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77203256266569,
+					"y": 1.29817763882849,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S13-M-08",
+		"details": {
+			"nusRoomCode": "S13-M-08",
+			"roomName": "COMPUTER LAB 2",
+			"floor": 105,
+			"location": {
+				"epsg3414": {
+					"x": 21979.45949999988,
+					"y": 31009.962700000033,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77922139066418,
+					"y": 1.2967170184504604,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "I3-0336",
+		"details": {
+			"nusRoomCode": "I3-03-36",
+			"roomName": "GRADUATE STUDENTS LAB 2",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21621.66280000005,
+					"y": 30514.737500000745,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77600653251584,
+					"y": 1.292238306896456,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-B111",
+		"details": {
+			"nusRoomCode": "COM1-B1-11",
+			"roomName": "PROGRAMMING LAB 4",
+			"floor": -1,
+			"location": {
+				"epsg3414": {
+					"x": 21387.976900000125,
+					"y": 30812.58640000038,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77390670433856,
+					"y": 1.2949318976322264,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS6-0421",
+		"details": {
+			"nusRoomCode": "AS6-04-21",
+			"roomName": "MEDIA TEACHING LAB 1",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21294.86419999972,
+					"y": 30899.314400000498,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77307002841133,
+					"y": 1.2957162148539985,
+					"z": 15
 				}
 			}
 		}
@@ -2880,20 +3140,200 @@
 		}
 	},
 	{
-		"corsRoomCode": "LT15",
+		"corsRoomCode": "COM1-B108",
 		"details": {
-			"nusRoomCode": "LT15",
-			"roomName": "LECTURE THEATRE 15",
-			"floor": 1,
+			"nusRoomCode": "COM1-B1-08",
+			"roomName": "PROGRAMMING LAB 3",
+			"floor": -1,
 			"location": {
 				"epsg3414": {
-					"x": 21332.563199999742,
-					"y": 30877.89350000024,
+					"x": 21397.792799999937,
+					"y": 30806.87260000035,
 					"z": 0
 				},
 				"wgs84": {
-					"x": 103.77340877469021,
-					"y": 1.295522499959851,
+					"x": 103.77399490559694,
+					"y": 1.2948802261411385,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-B109",
+		"details": {
+			"nusRoomCode": "COM1-B1-09",
+			"roomName": "PROGRAMMING LAB 2",
+			"floor": -1,
+			"location": {
+				"epsg3414": {
+					"x": 21392.7882000003,
+					"y": 30802.633899999782,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77394993801991,
+					"y": 1.2948418917897562,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-10",
+		"details": {
+			"nusRoomCode": "E1-06-10",
+			"roomName": "TUTORIAL ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21077.951899999753,
+					"y": 31252.835000000894,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77112090006638,
+					"y": 1.2989132814912119,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-13",
+		"details": {
+			"nusRoomCode": "E1-06-13",
+			"roomName": "TUTORIAL ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21088.20409999974,
+					"y": 31231.242499999702,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77121302537235,
+					"y": 1.2987180089152839,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E1-06-11",
+		"details": {
+			"nusRoomCode": "E1-06-11",
+			"roomName": "TUTORIAL ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21081.369199999608,
+					"y": 31245.63819999993,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77115160760464,
+					"y": 1.298848196963577,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "LT26",
+		"details": {
+			"nusRoomCode": "LT26",
+			"roomName": "MALE TOILET",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 22188.98330000043,
+					"y": 30979.76909999922,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.78110405867265,
+					"y": 1.2964439980596048,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0218",
+		"details": {
+			"nusRoomCode": "COM1-02-18",
+			"roomName": "TUTORIAL ROOM 5",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21398.867600000463,
+					"y": 30772.802699999884,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77400457029671,
+					"y": 1.2945721103380643,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0203",
+		"details": {
+			"nusRoomCode": "COM1-02-03",
+			"roomName": "SEMINAR ROOM 6",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21373.6819000002,
+					"y": 30847.232000000775,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77377825034073,
+					"y": 1.295245217052662,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0208",
+		"details": {
+			"nusRoomCode": "COM1-02-08",
+			"roomName": "SEMINAR ROOM 8",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21410.137199999765,
+					"y": 30806.30480000004,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77410582542402,
+					"y": 1.2948750937706417,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "COM1-0201",
+		"details": {
+			"nusRoomCode": "COM1-02-01",
+			"roomName": "SEMINAR ROOM 5 (ACTIVE LEARNING ROOM)",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21359.2527999999,
+					"y": 30864.269999999553,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77364859508984,
+					"y": 1.295399299579972,
 					"z": 0
 				}
 			}
@@ -2940,6 +3380,66 @@
 		}
 	},
 	{
+		"corsRoomCode": "COM1-0206",
+		"details": {
+			"nusRoomCode": "COM1-02-06",
+			"roomName": "SEMINAR ROOM 1",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21390.765200000256,
+					"y": 30823.20959999971,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77393175616923,
+					"y": 1.2950279706567276,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS6-0426",
+		"details": {
+			"nusRoomCode": "AS6-04-26",
+			"roomName": "MEDIA TEACHING LAB 2A",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21283.128800000064,
+					"y": 30917.02390000038,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77296457700454,
+					"y": 1.295876370728193,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS6-0208",
+		"details": {
+			"nusRoomCode": "AS6-02-08",
+			"roomName": "DISCUSSION ROOM 5",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21321.713399999775,
+					"y": 30859.18779999949,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77331128855921,
+					"y": 1.295353329958129,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
 		"corsRoomCode": "COM1-B113",
 		"details": {
 			"nusRoomCode": "COM1-B1-13",
@@ -2980,261 +3480,121 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS6-0426",
+		"corsRoomCode": "AS6-0333",
 		"details": {
-			"nusRoomCode": "AS6-04-26",
-			"roomName": "MEDIA TEACHING LAB 2A",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21283.128800000064,
-					"y": 30917.02390000038,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.77296457700454,
-					"y": 1.295876370728193,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "COM1-0206",
-		"details": {
-			"nusRoomCode": "COM1-02-06",
-			"roomName": "SEMINAR ROOM 1",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21390.765200000256,
-					"y": 30823.20959999971,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77393175616923,
-					"y": 1.2950279706567276,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS3-0207",
-		"details": {
-			"nusRoomCode": "AS3-02-07",
-			"roomName": "GRADUATE ROOM/ SEMINAR ROOM",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21100.37999999989,
-					"y": 30788.870999999344,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77132252854963,
-					"y": 1.2947173617298973,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S16-0598",
-		"details": {
-			"nusRoomCode": "S16-05-98",
-			"roomName": "SEMINAR ROOM (ACTIVE LEARNING)",
-			"floor": 5,
-			"location": {
-				"epsg3414": {
-					"x": 22126.083499999717,
-					"y": 31007.814099999145,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.7805388714307,
-					"y": 1.2966976152714058,
-					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT18",
-		"details": {
-			"nusRoomCode": "LT18",
-			"roomName": "LECTURE THEATRE 18",
-			"floor": null,
-			"location": {
-				"epsg3414": {
-					"x": 21453.442099999636,
-					"y": 30659.360799999908,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77449496907752,
-					"y": 1.2935461937176957,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S17-0404",
-		"details": {
-			"nusRoomCode": "S17-04-04",
-			"roomName": "SEMINAR ROOM 3",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 22143.561599999666,
-					"y": 31121.07890000008,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.78069589858914,
-					"y": 1.2977219451351334,
-					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "BIZ2-0117",
-		"details": {
-			"nusRoomCode": "BIZ2-01-17",
-			"roomName": "SEMINAR ROOM 1-17",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21520.58949999977,
-					"y": 30637.26359999925,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77509832140223,
-					"y": 1.2933463685175903,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "HSS-03-17",
-		"details": {
-			"nusRoomCode": "HSS-03-17",
-			"roomName": "BIZ/ HSMLCR",
+			"nusRoomCode": "AS6-03-33",
+			"roomName": "DEPT MEETING ROOM (CNM)",
 			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21437.936300000176,
-					"y": 30610.48159999959,
+					"x": 21293.281799999997,
+					"y": 30902.669299999252,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77435565311596,
-					"y": 1.2931041443946742,
+					"x": 103.77305580914974,
+					"y": 1.2957465550324785,
 					"z": 10
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "E3-06-11",
+		"corsRoomCode": "BIZ2-0303",
 		"details": {
-			"nusRoomCode": "E3-06-11",
-			"roomName": "TUTORIAL ROOM",
-			"floor": 6,
+			"nusRoomCode": "BIZ2-03-03",
+			"roomName": "SEMINAR ROOM 3-3",
+			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21132.679899999872,
-					"y": 31338.846200000495,
-					"z": 25
+					"x": 21484.954300000332,
+					"y": 30670.57320000045,
+					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77161263640383,
-					"y": 1.2996911481945275,
-					"z": 25
+					"x": 103.77477811718812,
+					"y": 1.2936476012594607,
+					"z": 10
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "E3-06-10",
+		"corsRoomCode": "BIZ2-0227",
 		"details": {
-			"nusRoomCode": "E3-06-10",
-			"roomName": "TUTORIAL ROOM",
-			"floor": 6,
+			"nusRoomCode": "BIZ2-02-27",
+			"roomName": "SEMINAR ROOM 2-27",
+			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21129.28859999962,
-					"y": 31345.992499999702,
-					"z": 25
+					"x": 21527.086299999617,
+					"y": 30633.694599999115,
+					"z": 5
 				},
 				"wgs84": {
-					"x": 103.77158216249852,
-					"y": 1.299755776029217,
-					"z": 25
+					"x": 103.77515669862687,
+					"y": 1.293314093100053,
+					"z": 5
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "E3-06-05",
+		"corsRoomCode": "S16-06118",
 		"details": {
-			"nusRoomCode": "E3-06-05",
+			"nusRoomCode": "S16-06-118",
 			"roomName": "SEMINAR ROOM",
 			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 21126.97259999998,
-					"y": 31327.54089999944,
+					"x": 22121.202499999665,
+					"y": 31010.308000000194,
 					"z": 25
 				},
 				"wgs84": {
-					"x": 103.7715613562645,
-					"y": 1.299588905838335,
+					"x": 103.78049501305661,
+					"y": 1.29672016829534,
 					"z": 25
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "LT9",
+		"corsRoomCode": "BIZ2-0509",
 		"details": {
-			"nusRoomCode": "LT9",
-			"roomName": "LECTURE THEATRE 9",
-			"floor": null,
+			"nusRoomCode": "BIZ2-05-09",
+			"roomName": "SEMINAR ROOM 5-9",
+			"floor": 5,
 			"location": {
 				"epsg3414": {
-					"x": 21203.67169999983,
-					"y": 30816.68180000037,
-					"z": 0
+					"x": 21547.908699999563,
+					"y": 30627.333200000226,
+					"z": 20
 				},
 				"wgs84": {
-					"x": 103.7722506424852,
-					"y": 1.294968895355766,
-					"z": 0
+					"x": 103.77534379798186,
+					"y": 1.293256567172797,
+					"z": 20
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "AS4-0602",
+		"corsRoomCode": "LT8",
 		"details": {
-			"nusRoomCode": "AS4-06-02",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
+			"nusRoomCode": "LT8",
+			"roomName": "LECTURE THEATRE 8",
+			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21199.21190000046,
-					"y": 30799.077700000256,
-					"z": 25
+					"x": 21174.750699999742,
+					"y": 30723.775100000203,
+					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77221057309015,
-					"y": 1.2948096891841967,
-					"z": 25
+					"x": 103.77199079513672,
+					"y": 1.2941286739949707,
+					"z": 10
 				}
 			}
 		}
@@ -3260,21 +3620,61 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS4-0109",
+		"corsRoomCode": "AS1-0204",
 		"details": {
-			"nusRoomCode": "AS4-01-09",
+			"nusRoomCode": "AS1-02-04",
 			"roomName": "SEMINAR ROOM",
-			"floor": 1,
+			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21174.805399999954,
-					"y": 30781.7388000004,
-					"z": 0
+					"x": 21217.29879999999,
+					"y": 30867.161100000143,
+					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77199127404332,
-					"y": 1.2946528770289971,
-					"z": 0
+					"x": 103.77237307689276,
+					"y": 1.2954254151011662,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS1-0213",
+		"details": {
+			"nusRoomCode": "AS1-02-13",
+			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21163.469399999827,
+					"y": 30830.000900000334,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77188940474412,
+					"y": 1.2950893397576222,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS2-0311",
+		"details": {
+			"nusRoomCode": "AS2-03-11",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21105.0466,
+					"y": 30838.594599999487,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77136444901903,
+					"y": 1.2951670452519441,
+					"z": 10
 				}
 			}
 		}
@@ -3300,20 +3700,100 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS3-0302",
+		"corsRoomCode": "E3-06-11",
 		"details": {
-			"nusRoomCode": "AS3-03-02",
+			"nusRoomCode": "E3-06-11",
+			"roomName": "TUTORIAL ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21132.679899999872,
+					"y": 31338.846200000495,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77161263640383,
+					"y": 1.2996911481945275,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E3-06-12",
+		"details": {
+			"nusRoomCode": "E3-06-12",
+			"roomName": "TUTORIAL ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21136.0083999997,
+					"y": 31331.832599999383,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77164254599253,
+					"y": 1.2996277204368702,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS3-0308",
+		"details": {
+			"nusRoomCode": "AS3-03-08",
 			"roomName": "SEMINAR ROOM",
 			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21119.730399999768,
-					"y": 30796.31210000068,
+					"x": 21072.45320000034,
+					"y": 30789.133700000122,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77149639851056,
-					"y": 1.2947846606561015,
+					"x": 103.77107159429184,
+					"y": 1.2947197313061816,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS4-0335",
+		"details": {
+			"nusRoomCode": "AS4-03-35",
+			"roomName": "HONOURS ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21150.417500000447,
+					"y": 30776.06289999932,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77177213960896,
+					"y": 1.294601540870097,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS3-0309",
+		"details": {
+			"nusRoomCode": "AS3-03-09",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21064.360199999996,
+					"y": 30791.859300000593,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77099887463588,
+					"y": 1.2947443788614634,
 					"z": 10
 				}
 			}
@@ -3340,6 +3820,86 @@
 		}
 	},
 	{
+		"corsRoomCode": "AS3-0307",
+		"details": {
+			"nusRoomCode": "AS3-03-07",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21079.264700000174,
+					"y": 30786.83970000036,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77113279902782,
+					"y": 1.2946989867008212,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS4-0601",
+		"details": {
+			"nusRoomCode": "AS4-06-01",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21192.807599999942,
+					"y": 30796.995600000024,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77215302817352,
+					"y": 1.2947908580178276,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS4-0602",
+		"details": {
+			"nusRoomCode": "AS4-06-02",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21199.21190000046,
+					"y": 30799.077700000256,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77221057309015,
+					"y": 1.2948096891841967,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS3-0305",
+		"details": {
+			"nusRoomCode": "AS3-03-05",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21099.479600000195,
+					"y": 30784.917199999094,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77131443894076,
+					"y": 1.2946816047747634,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
 		"corsRoomCode": "LT11",
 		"details": {
 			"nusRoomCode": "LT11",
@@ -3355,146 +3915,6 @@
 					"x": 103.77139878788282,
 					"y": 1.295456827029062,
 					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS2-0311",
-		"details": {
-			"nusRoomCode": "AS2-03-11",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21105.0466,
-					"y": 30838.594599999487,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77136444901903,
-					"y": 1.2951670452519441,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS1-0204",
-		"details": {
-			"nusRoomCode": "AS1-02-04",
-			"roomName": "SEMINAR ROOM",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21217.29879999999,
-					"y": 30867.161100000143,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77237307689276,
-					"y": 1.2954254151011662,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS2-0509",
-		"details": {
-			"nusRoomCode": "AS2-05-09",
-			"roomName": "SEMINAR ROOM",
-			"floor": 5,
-			"location": {
-				"epsg3414": {
-					"x": 21141.21430000011,
-					"y": 30851.185499999672,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.77168942852542,
-					"y": 1.295280920833065,
-					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS4-0118",
-		"details": {
-			"nusRoomCode": "AS4-01-18",
-			"roomName": "SEMINAR ROOM",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21121.58910000045,
-					"y": 30756.867499999702,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77151310836271,
-					"y": 1.2944279381807529,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT8",
-		"details": {
-			"nusRoomCode": "LT8",
-			"roomName": "LECTURE THEATRE 8",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21174.750699999742,
-					"y": 30723.775100000203,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77199079513672,
-					"y": 1.2941286739949707,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS1-0203",
-		"details": {
-			"nusRoomCode": "AS1-02-03",
-			"roomName": "SEMINAR ROOM",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21219.78010000009,
-					"y": 30874.02950000018,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77239537095346,
-					"y": 1.2954875309998122,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS1-0302",
-		"details": {
-			"nusRoomCode": "AS1-03-02",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21219.336299999617,
-					"y": 30870.2910999991,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.77239138402778,
-					"y": 1.2954537221475408,
-					"z": 15
 				}
 			}
 		}
@@ -3540,60 +3960,20 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS3-0214",
+		"corsRoomCode": "AS4-0119",
 		"details": {
-			"nusRoomCode": "AS3-02-14",
-			"roomName": "SEMINAR ROOM",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21071.9841,
-					"y": 30788.750700000674,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77106737931292,
-					"y": 1.2947162674867374,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "LT12",
-		"details": {
-			"nusRoomCode": "LT12",
-			"roomName": "LECTURE THEATRE 12",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21081.009499999695,
-					"y": 30817.934200000018,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77114846994691,
-					"y": 1.2949801946461976,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS4-0116",
-		"details": {
-			"nusRoomCode": "AS4-01-16",
+			"nusRoomCode": "AS4-01-19",
 			"roomName": "SEMINAR ROOM",
 			"floor": 1,
 			"location": {
 				"epsg3414": {
-					"x": 21134.859899999574,
-					"y": 30762.71470000036,
+					"x": 21114.94570000004,
+					"y": 30753.75029999949,
 					"z": 0
 				},
 				"wgs84": {
-					"x": 103.77163235086563,
-					"y": 1.2944808210934202,
+					"x": 103.77145341527222,
+					"y": 1.2943997458713126,
 					"z": 0
 				}
 			}
@@ -3620,21 +4000,61 @@
 		}
 	},
 	{
-		"corsRoomCode": "LT14",
+		"corsRoomCode": "AS2-0509",
 		"details": {
-			"nusRoomCode": "LT14",
-			"roomName": "LECTURE THEATRE 14",
-			"floor": 1,
+			"nusRoomCode": "AS2-05-09",
+			"roomName": "SEMINAR ROOM",
+			"floor": 5,
 			"location": {
 				"epsg3414": {
-					"x": 21326.898500000127,
-					"y": 30898.726600000635,
-					"z": 0
+					"x": 21141.21430000011,
+					"y": 30851.185499999672,
+					"z": 20
 				},
 				"wgs84": {
-					"x": 103.7733578704978,
-					"y": 1.2957109058743046,
-					"z": 0
+					"x": 103.77168942852542,
+					"y": 1.295280920833065,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS1-0208",
+		"details": {
+			"nusRoomCode": "AS1-02-08",
+			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21200.219200000167,
+					"y": 30847.24499999918,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77221961367701,
+					"y": 1.295245297279139,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS7-0214",
+		"details": {
+			"nusRoomCode": "AS7-02-14",
+			"roomName": "TUTORIAL ROOM",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21072.126799999736,
+					"y": 30750.664999999106,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77106866993512,
+					"y": 1.2943718340425634,
+					"z": 5
 				}
 			}
 		}
@@ -3660,60 +4080,40 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS6-0214",
+		"corsRoomCode": "AS4-0109",
 		"details": {
-			"nusRoomCode": "AS6-02-14",
+			"nusRoomCode": "AS4-01-09",
 			"roomName": "SEMINAR ROOM",
-			"floor": 2,
+			"floor": 1,
 			"location": {
 				"epsg3414": {
-					"x": 21298.096699999645,
-					"y": 30893.32039999962,
-					"z": 5
+					"x": 21174.805399999954,
+					"y": 30781.7388000004,
+					"z": 0
 				},
 				"wgs84": {
-					"x": 103.77309907509418,
-					"y": 1.2956620079511314,
-					"z": 5
+					"x": 103.77199127404332,
+					"y": 1.2946528770289971,
+					"z": 0
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "AS1-0213",
+		"corsRoomCode": "E4A-06-03",
 		"details": {
-			"nusRoomCode": "AS1-02-13",
-			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21163.469399999827,
-					"y": 30830.000900000334,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77188940474412,
-					"y": 1.2950893397576222,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E3-06-12",
-		"details": {
-			"nusRoomCode": "E3-06-12",
-			"roomName": "TUTORIAL ROOM",
+			"nusRoomCode": "E4A-06-03",
+			"roomName": "LINEAR ELECTRONICS LABORATORY",
 			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 21136.0083999997,
-					"y": 31331.832599999383,
+					"x": 21245.09200000018,
+					"y": 31220.169999999925,
 					"z": 25
 				},
 				"wgs84": {
-					"x": 103.77164254599253,
-					"y": 1.2996277204368702,
+					"x": 103.77262273463798,
+					"y": 1.2986179076481752,
 					"z": 25
 				}
 			}
@@ -3740,100 +4140,80 @@
 		}
 	},
 	{
-		"corsRoomCode": "E3-06-15",
+		"corsRoomCode": "E4A-06-07",
 		"details": {
-			"nusRoomCode": "E3-06-15",
-			"roomName": "TUTORIAL ROOM (ACTIVE LEARNING ROOM)",
+			"nusRoomCode": "E4-06-07",
+			"roomName": "STAFF ROOM",
 			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 21145.998999999836,
-					"y": 31310.781500000507,
+					"x": 21153.7368999999,
+					"y": 31242.60879999958,
+					"z": 30
+				},
+				"wgs84": {
+					"x": 103.77180186395101,
+					"y": 1.2988208161677515,
+					"z": 30
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E3-06-08",
+		"details": {
+			"nusRoomCode": "E3-06-08",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21113.982499999925,
+					"y": 31354.446900000796,
 					"z": 25
 				},
 				"wgs84": {
-					"x": 103.7717323205774,
-					"y": 1.2994373440127818,
+					"x": 103.77144462853268,
+					"y": 1.299832231214548,
 					"z": 25
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "E3-06-14",
+		"corsRoomCode": "E3-06-10",
 		"details": {
-			"nusRoomCode": "E3-06-14",
+			"nusRoomCode": "E3-06-10",
 			"roomName": "TUTORIAL ROOM",
 			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 21142.66820000019,
-					"y": 31317.7993999999,
+					"x": 21129.28859999962,
+					"y": 31345.992499999702,
 					"z": 25
 				},
 				"wgs84": {
-					"x": 103.77170239032588,
-					"y": 1.2995008106589612,
+					"x": 103.77158216249852,
+					"y": 1.299755776029217,
 					"z": 25
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "E3-06-02",
+		"corsRoomCode": "E3-06-07",
 		"details": {
-			"nusRoomCode": "E3-06-02",
-			"roomName": "TUTORIAL ROOM",
+			"nusRoomCode": "E3-06-07",
+			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
 			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 21136.96210000012,
-					"y": 31306.491200000048,
+					"x": 21119.734799999744,
+					"y": 31342.799599999562,
 					"z": 25
 				},
 				"wgs84": {
-					"x": 103.7716511209695,
-					"y": 1.2993985420781702,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "EA-06-05",
-		"details": {
-			"nusRoomCode": "EA-06-05",
-			"roomName": "SEMINAR ROOM 5",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21001.1305999998,
-					"y": 31387.23159999959,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77043059674752,
-					"y": 1.3001286991099226,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-10",
-		"details": {
-			"nusRoomCode": "E1-06-10",
-			"roomName": "TUTORIAL ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21077.951899999753,
-					"y": 31252.835000000894,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77112090006638,
-					"y": 1.2989132814912119,
+					"x": 103.77149631806587,
+					"y": 1.2997268984685864,
 					"z": 25
 				}
 			}
@@ -3880,160 +4260,60 @@
 		}
 	},
 	{
-		"corsRoomCode": "E2A-03-02",
+		"corsRoomCode": "E1-06-16",
 		"details": {
-			"nusRoomCode": "E2A-03-02",
-			"roomName": "DCP STUDIO 2",
-			"floor": 3,
+			"nusRoomCode": "E1-06-16",
+			"roomName": "TUTORIAL ROOM (ACTIVE LEARNING ROOM)",
+			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 21118.98359999992,
-					"y": 31232.283700000495,
-					"z": 15
+					"x": 21098.802400000393,
+					"y": 31208.920399999246,
+					"z": 25
 				},
 				"wgs84": {
-					"x": 103.77148959250358,
-					"y": 1.2987274319812008,
-					"z": 15
+					"x": 103.7713082606851,
+					"y": 1.2985161381699963,
+					"z": 25
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "E2A-04-02",
+		"corsRoomCode": "E3-06-14",
 		"details": {
-			"nusRoomCode": "E2A-04-02",
-			"roomName": "DCP STUDIO 3",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21118.34839999955,
-					"y": 31244.23660000041,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.77148388232399,
-					"y": 1.2988355295988105,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E2A-04-03",
-		"details": {
-			"nusRoomCode": "E2A-04-03",
-			"roomName": "DCP STUDIO 4",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21118.98359999992,
-					"y": 31232.283700000495,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.77148959250358,
-					"y": 1.2987274319812008,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-12",
-		"details": {
-			"nusRoomCode": "E1-06-12",
+			"nusRoomCode": "E3-06-14",
 			"roomName": "TUTORIAL ROOM",
 			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 21084.786600000225,
-					"y": 31238.44019999914,
+					"x": 21142.66820000019,
+					"y": 31317.7993999999,
 					"z": 25
 				},
 				"wgs84": {
-					"x": 103.77118231604008,
-					"y": 1.2987831015831095,
+					"x": 103.77170239032588,
+					"y": 1.2995008106589612,
 					"z": 25
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "E1-06-11",
+		"corsRoomCode": "E2A-02-01",
 		"details": {
-			"nusRoomCode": "E1-06-11",
-			"roomName": "TUTORIAL ROOM",
-			"floor": 6,
+			"nusRoomCode": "E2A-02-01",
+			"roomName": "WORKSHOP",
+			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21081.369199999608,
-					"y": 31245.63819999993,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77115160760464,
-					"y": 1.298848196963577,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-15",
-		"details": {
-			"nusRoomCode": "E1-06-15",
-			"roomName": "TUTORIAL ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21095.038900000043,
-					"y": 31216.846499999985,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77127444223505,
-					"y": 1.298587818151939,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-13",
-		"details": {
-			"nusRoomCode": "E1-06-13",
-			"roomName": "TUTORIAL ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21088.20409999974,
-					"y": 31231.242499999702,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77121302537235,
-					"y": 1.2987180089152839,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS3-0304",
-		"details": {
-			"nusRoomCode": "AS3-03-04",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21107.148199999705,
-					"y": 30789.811599999666,
+					"x": 21117.76339999959,
+					"y": 31245.73159999959,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.7713833435048,
-					"y": 1.2947258696766968,
+					"x": 103.77147862551244,
+					"y": 1.2988490497153404,
 					"z": 10
 				}
 			}
@@ -4060,26 +4340,6 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS3-0308",
-		"details": {
-			"nusRoomCode": "AS3-03-08",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21072.45320000034,
-					"y": 30789.133700000122,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77107159429184,
-					"y": 1.2947197313061816,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
 		"corsRoomCode": "AS3-0306",
 		"details": {
 			"nusRoomCode": "AS3-03-06",
@@ -4100,101 +4360,41 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS3-0215",
+		"corsRoomCode": "AS5-0204",
 		"details": {
-			"nusRoomCode": "AS3-02-15",
+			"nusRoomCode": "AS5-02-04",
+			"roomName": "PHONETICS LAB (ELL)",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21145.936300000176,
+					"y": 30720.677699999884,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77173188620486,
+					"y": 1.2941006559002508,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS5-0205",
+		"details": {
+			"nusRoomCode": "AS5-02-05",
 			"roomName": "SEMINAR ROOM",
 			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21065.346099999733,
-					"y": 30790.98650000058,
+					"x": 21151.04590000026,
+					"y": 30725.745799999684,
 					"z": 5
 				},
 				"wgs84": {
-					"x": 103.77100773356037,
-					"y": 1.2947364857890038,
+					"x": 103.7717777970229,
+					"y": 1.2941464911099443,
 					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS3-0212",
-		"details": {
-			"nusRoomCode": "AS3-02-12",
-			"roomName": "SEMINAR ROOM",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21085.648799999617,
-					"y": 30784.148600000888,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77119016347922,
-					"y": 1.2946746507685492,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS3-0309",
-		"details": {
-			"nusRoomCode": "AS3-03-09",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21064.360199999996,
-					"y": 30791.859300000593,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77099887463588,
-					"y": 1.2947443788614634,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "BIZ2-0112",
-		"details": {
-			"nusRoomCode": "BIZ2-01-12",
-			"roomName": "SEMINAR ROOM 1-12",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21545.952600000426,
-					"y": 30628.283999999985,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.7753262214032,
-					"y": 1.2932651654652032,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "E1-06-16",
-		"details": {
-			"nusRoomCode": "E1-06-16",
-			"roomName": "TUTORIAL ROOM (ACTIVE LEARNING ROOM)",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21098.802400000393,
-					"y": 31208.920399999246,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.7713082606851,
-					"y": 1.2985161381699963,
-					"z": 25
 				}
 			}
 		}
@@ -4220,80 +4420,80 @@
 		}
 	},
 	{
-		"corsRoomCode": "S16-0440",
+		"corsRoomCode": "E1-06-12",
 		"details": {
-			"nusRoomCode": "S16-04-40",
-			"roomName": "TUTORIAL ROOM 16",
-			"floor": 4,
+			"nusRoomCode": "E1-06-12",
+			"roomName": "TUTORIAL ROOM",
+			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 22142.022499999963,
-					"y": 31015.721599999815,
-					"z": 15
+					"x": 21084.786600000225,
+					"y": 31238.44019999914,
+					"z": 25
 				},
 				"wgs84": {
-					"x": 103.78068208879594,
-					"y": 1.2967691308912979,
-					"z": 15
+					"x": 103.77118231604008,
+					"y": 1.2987831015831095,
+					"z": 25
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "S16-0304",
+		"corsRoomCode": "AS1-0211",
 		"details": {
-			"nusRoomCode": "S16-03-04",
-			"roomName": "SEMINAR ROOM",
-			"floor": 3,
+			"nusRoomCode": "AS1-02-11",
+			"roomName": "HISTORY HONOURS ROOM",
+			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 22119.15240000002,
-					"y": 31003.900699999183,
+					"x": 21179.943400000222,
+					"y": 30837.73100000061,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.78047659321881,
-					"y": 1.2966622225656268,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S16-0309",
-		"details": {
-			"nusRoomCode": "S16-03-09",
-			"roomName": "TUTORIAL ROOM 3",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 22082.319600000046,
-					"y": 31027.803099999204,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.78014562999573,
-					"y": 1.2968783803944364,
+					"x": 103.7720374289992,
+					"y": 1.2951592516304216,
 					"z": 10
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "BIZ2-0114",
+		"corsRoomCode": "E1-06-15",
 		"details": {
-			"nusRoomCode": "BIZ2-01-14",
-			"roomName": "SEMINAR ROOM 1-14",
+			"nusRoomCode": "E1-06-15",
+			"roomName": "TUTORIAL ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 21095.038900000043,
+					"y": 31216.846499999985,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77127444223505,
+					"y": 1.298587818151939,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ2-0116",
+		"details": {
+			"nusRoomCode": "BIZ2-01-16",
+			"roomName": "SEMINAR ROOM 1-16",
 			"floor": 1,
 			"location": {
 				"epsg3414": {
-					"x": 21536.617600000463,
-					"y": 30631.588999999687,
+					"x": 21527.45870000031,
+					"y": 30634.83159999922,
 					"z": 0
 				},
 				"wgs84": {
-					"x": 103.77524234181163,
-					"y": 1.2932950527776097,
+					"x": 103.77516004456388,
+					"y": 1.2933243758002517,
 					"z": 0
 				}
 			}
@@ -4320,61 +4520,101 @@
 		}
 	},
 	{
-		"corsRoomCode": "EA-06-06",
+		"corsRoomCode": "EW2-03-14",
 		"details": {
-			"nusRoomCode": "EA-06-06",
-			"roomName": "SEMINAR ROOM 6",
-			"floor": 6,
+			"nusRoomCode": "EW2-03-14",
+			"roomName": "LAB CLASSROOM 1/2/3 (BSL1)",
+			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21003.791600000113,
-					"y": 31394.71440000087,
-					"z": 25
+					"x": 21224.40440000035,
+					"y": 31304.346899999306,
+					"z": 15
 				},
 				"wgs84": {
-					"x": 103.77045450534278,
-					"y": 1.3001963714776315,
-					"z": 25
+					"x": 103.77243682922185,
+					"y": 1.2993791689773466,
+					"z": 15
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "E4-02-01",
+		"corsRoomCode": "E3-05-21",
 		"details": {
-			"nusRoomCode": "E4-02-01",
-			"roomName": "FRESHMEN LAB 1-3",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21201.125699999742,
-					"y": 31200.493899999186,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77222768235404,
-					"y": 1.298439954445622,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "WS2-0530",
-		"details": {
-			"nusRoomCode": "WS2-05-30",
-			"roomName": "INNOVATORS LAB",
+			"nusRoomCode": "E3-05-21",
+			"roomName": "AUTONOMOUS ROBOTICS LAB",
 			"floor": 5,
 			"location": {
 				"epsg3414": {
-					"x": 21234.993400000036,
-					"y": 31306.05150000006,
-					"z": 25
+					"x": 21152.648099999875,
+					"y": 31304.128399999812,
+					"z": 20
 				},
 				"wgs84": {
-					"x": 103.7725319757075,
-					"y": 1.2993945870773602,
-					"z": 25
+					"x": 103.77179206714204,
+					"y": 1.2993771772181408,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E3-03-01",
+		"details": {
+			"nusRoomCode": "E3-03-01",
+			"roomName": "ESP LAB",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21166.20629999973,
+					"y": 31281.750800000504,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77191389845903,
+					"y": 1.2991748051794956,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS3-0212",
+		"details": {
+			"nusRoomCode": "AS3-02-12",
+			"roomName": "SEMINAR ROOM",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21085.648799999617,
+					"y": 30784.148600000888,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77119016347922,
+					"y": 1.2946746507685492,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS3-0213",
+		"details": {
+			"nusRoomCode": "AS3-02-13",
+			"roomName": "SEMINAR ROOM",
+			"floor": 2,
+			"location": {
+				"epsg3414": {
+					"x": 21078.816200000234,
+					"y": 30786.449699999765,
+					"z": 5
+				},
+				"wgs84": {
+					"x": 103.77112876915017,
+					"y": 1.2946954595805344,
+					"z": 5
 				}
 			}
 		}
@@ -4400,21 +4640,61 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS6-0338",
+		"corsRoomCode": "S2-0415",
 		"details": {
-			"nusRoomCode": "AS6-03-38",
-			"roomName": "PLAY ROOM (CNM)",
-			"floor": 3,
+			"nusRoomCode": "S2-04-15",
+			"roomName": "STAFF ROOM",
+			"floor": 4,
 			"location": {
 				"epsg3414": {
-					"x": 21281.15759999957,
-					"y": 30917.73149999976,
-					"z": 10
+					"x": 21842.70120000001,
+					"y": 30877.585999999195,
+					"z": 20
 				},
 				"wgs84": {
-					"x": 103.7729468647723,
-					"y": 1.2958827695853172,
-					"z": 10
+					"x": 103.7779925839155,
+					"y": 1.2955198239603223,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S14-0503",
+		"details": {
+			"nusRoomCode": "S14-05-03",
+			"roomName": "FOOD SCIENCE & TECHNOLOGY PROGRAMME",
+			"floor": 5,
+			"location": {
+				"epsg3414": {
+					"x": 22035.37519999966,
+					"y": 31023.713600000367,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.77972381491037,
+					"y": 1.2968413874560345,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S14-0620",
+		"details": {
+			"nusRoomCode": "S14-06-20",
+			"roomName": "SEMINAR ROOM",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 22020.75569999963,
+					"y": 31011.960200000554,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.77959245458497,
+					"y": 1.296735091084466,
+					"z": 25
 				}
 			}
 		}
@@ -4440,26 +4720,6 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS2-0313",
-		"details": {
-			"nusRoomCode": "AS2-03-13",
-			"roomName": "GIS LAB",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 21078.806499999948,
-					"y": 30846.110099999234,
-					"z": 10
-				},
-				"wgs84": {
-					"x": 103.77112866883857,
-					"y": 1.295235006938608,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
 		"corsRoomCode": "AS2-0204",
 		"details": {
 			"nusRoomCode": "AS2-02-04",
@@ -4480,20 +4740,20 @@
 		}
 	},
 	{
-		"corsRoomCode": "E-LAB",
+		"corsRoomCode": "AS2-0313",
 		"details": {
-			"nusRoomCode": "PHYSICS E-LAB",
-			"roomName": "PHYSICS E-LAB",
+			"nusRoomCode": "AS2-03-13",
+			"roomName": "GIS LAB",
 			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21928.900500000454,
-					"y": 31003.186000000685,
+					"x": 21078.806499999948,
+					"y": 30846.110099999234,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77876709739479,
-					"y": 1.296655722573894,
+					"x": 103.77112866883857,
+					"y": 1.295235006938608,
 					"z": 10
 				}
 			}
@@ -4540,141 +4800,21 @@
 		}
 	},
 	{
-		"corsRoomCode": "S11-0301",
+		"corsRoomCode": "S13-M-09",
 		"details": {
-			"nusRoomCode": "S11-03-01",
-			"roomName": "LAB INSTRUCTION ROOM",
-			"floor": 3,
+			"nusRoomCode": "S13-M-09",
+			"roomName": "COMPUTER LAB 1",
+			"floor": 105,
 			"location": {
 				"epsg3414": {
-					"x": 21939.563500000164,
-					"y": 31011.617399999872,
-					"z": 10
+					"x": 21964.650100000203,
+					"y": 31016.12519999966,
+					"z": 5
 				},
 				"wgs84": {
-					"x": 103.77886290745013,
-					"y": 1.2967319752315645,
-					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S12-0401",
-		"details": {
-			"nusRoomCode": "S12-04-01",
-			"roomName": "TUTORIAL ROOM",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 21932.77209999971,
-					"y": 31027.977499999106,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.77880188060384,
-					"y": 1.296879928831815,
-					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S16-0431",
-		"details": {
-			"nusRoomCode": "S16-04-31",
-			"roomName": "SEMINAR ROOM 5",
-			"floor": 4,
-			"location": {
-				"epsg3414": {
-					"x": 22118.383799999952,
-					"y": 31014.871799999848,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.78046968495556,
-					"y": 1.2967614411474688,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S17-0611",
-		"details": {
-			"nusRoomCode": "S17-06-11",
-			"roomName": "SEMINAR ROOM 6",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 22161.936599999666,
-					"y": 31127.910800000653,
-					"z": 30
-				},
-				"wgs84": {
-					"x": 103.78086100474435,
-					"y": 1.2977837338612168,
-					"z": 30
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS4-B107",
-		"details": {
-			"nusRoomCode": "AS4-B1-07",
-			"roomName": "TUTORIAL ROOM",
-			"floor": -1,
-			"location": {
-				"epsg3414": {
-					"x": 21132.35610000044,
-					"y": 30766.258700000122,
-					"z": -5
-				},
-				"wgs84": {
-					"x": 103.77160985238247,
-					"y": 1.2945128712137348,
-					"z": -5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS3-0523",
-		"details": {
-			"nusRoomCode": "AS3-05-23",
-			"roomName": "PHILOSOPHY MEETING/RESOURCE ROOM",
-			"floor": 5,
-			"location": {
-				"epsg3414": {
-					"x": 21086.957100000232,
-					"y": 30787.46690000035,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.77120191838155,
-					"y": 1.294704660579218,
-					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S17-0512",
-		"details": {
-			"nusRoomCode": "S17-05-12",
-			"roomName": "SEMINAR ROOM 4",
-			"floor": 5,
-			"location": {
-				"epsg3414": {
-					"x": 22158.871299999766,
-					"y": 31120.064200000837,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.78083346314283,
-					"y": 1.2977127714261751,
-					"z": 25
+					"x": 103.7790883205841,
+					"y": 1.2967727470417594,
+					"z": 5
 				}
 			}
 		}
@@ -4700,21 +4840,61 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS1-0210",
+		"corsRoomCode": "S12-0401",
 		"details": {
-			"nusRoomCode": "AS1-02-10",
-			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
+			"nusRoomCode": "S12-04-01",
+			"roomName": "TUTORIAL ROOM",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21932.77209999971,
+					"y": 31027.977499999106,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.77880188060384,
+					"y": 1.296879928831815,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "MD4-02-03E",
+		"details": {
+			"nusRoomCode": "MD4-02-03",
+			"roomName": "MEETING ROOM/OFFICES",
 			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21186.533200000413,
-					"y": 30840.82310000062,
-					"z": 10
+					"x": 22157.13289999962,
+					"y": 30889.332699999213,
+					"z": 5
 				},
 				"wgs84": {
-					"x": 103.77209664050069,
-					"y": 1.2951872169198646,
-					"z": 10
+					"x": 103.78081788585813,
+					"y": 1.295626117452161,
+					"z": 5
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS3-0523",
+		"details": {
+			"nusRoomCode": "AS3-05-23",
+			"roomName": "PHILOSOPHY MEETING/RESOURCE ROOM",
+			"floor": 5,
+			"location": {
+				"epsg3414": {
+					"x": 21086.957100000232,
+					"y": 30787.46690000035,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.77120191838155,
+					"y": 1.294704660579218,
+					"z": 20
 				}
 			}
 		}
@@ -4740,121 +4920,61 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS4-0601",
+		"corsRoomCode": "AS1-0210",
 		"details": {
-			"nusRoomCode": "AS4-06-01",
-			"roomName": "SEMINAR ROOM",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 21192.807599999942,
-					"y": 30796.995600000024,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77215302817352,
-					"y": 1.2947908580178276,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS1-0207",
-		"details": {
-			"nusRoomCode": "AS1-02-07",
-			"roomName": "SEMINAR ROOM",
+			"nusRoomCode": "AS1-02-10",
+			"roomName": "SEMINAR ROOM (ACTIVE LEARNING ROOM)",
 			"floor": 2,
 			"location": {
 				"epsg3414": {
-					"x": 21211.693400000222,
-					"y": 30851.706700000912,
+					"x": 21186.533200000413,
+					"y": 30840.82310000062,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77232271331253,
-					"y": 1.2952856498018621,
+					"x": 103.77209664050069,
+					"y": 1.2951872169198646,
 					"z": 10
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "BIZ2-0118",
+		"corsRoomCode": "AS4-B110",
 		"details": {
-			"nusRoomCode": "BIZ2-01-18",
-			"roomName": "SEMINAR ROOM 1-18",
-			"floor": 1,
+			"nusRoomCode": "AS4-B1-10",
+			"roomName": "FAMILY ROOM (SOCIAL WORK)",
+			"floor": -1,
 			"location": {
 				"epsg3414": {
-					"x": 21511.262900000438,
-					"y": 30640.565700000152,
-					"z": 0
+					"x": 21116.072599999607,
+					"y": 30751.501700000837,
+					"z": -5
 				},
 				"wgs84": {
-					"x": 103.77501451728376,
-					"y": 1.2933762295973443,
-					"z": 0
+					"x": 103.77146354144062,
+					"y": 1.294379410584016,
+					"z": -5
 				}
 			}
 		}
 	},
 	{
-		"corsRoomCode": "BIZ2-0224",
+		"corsRoomCode": "S11-0301",
 		"details": {
-			"nusRoomCode": "BIZ2-02-24",
-			"roomName": "SEMINAR ROOM 2-24",
-			"floor": 2,
+			"nusRoomCode": "S11-03-01",
+			"roomName": "LAB INSTRUCTION ROOM",
+			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21540.797799999826,
-					"y": 30628.83980000019,
-					"z": 5
+					"x": 21939.563500000164,
+					"y": 31011.617399999872,
+					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77527990323696,
-					"y": 1.2932701908567978,
-					"z": 5
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS1-0548",
-		"details": {
-			"nusRoomCode": "AS1-05-48",
-			"roomName": "TUTORIAL ROOM",
-			"floor": 5,
-			"location": {
-				"epsg3414": {
-					"x": 21227.613400000148,
-					"y": 30878.944700000808,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.77246575545446,
-					"y": 1.2955319840173942,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS3-0101",
-		"details": {
-			"nusRoomCode": "AS3-01-01",
-			"roomName": "THEATRE STUDIES PRACTICE STUDIO",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21076.94809999969,
-					"y": 30789.656999999657,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77111198276855,
-					"y": 1.2947244648423655,
-					"z": 0
+					"x": 103.77886290745013,
+					"y": 1.2967319752315645,
+					"z": 10
 				}
 			}
 		}
@@ -4875,46 +4995,6 @@
 					"x": 103.78076417172579,
 					"y": 1.294411011344144,
 					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "CELS-01-06",
-		"details": {
-			"nusRoomCode": "CELS-01-06",
-			"roomName": "SEMINAR ROOM 1",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 22157.341699999757,
-					"y": 30742.275200000033,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.78081978938593,
-					"y": 1.2942961817306413,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "BIZ2-0227",
-		"details": {
-			"nusRoomCode": "BIZ2-02-27",
-			"roomName": "SEMINAR ROOM 2-27",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21527.086299999617,
-					"y": 30633.694599999115,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77515669862687,
-					"y": 1.293314093100053,
-					"z": 5
 				}
 			}
 		}
@@ -4960,7 +5040,27 @@
 		}
 	},
 	{
-		"corsRoomCode": "i3-0337",
+		"corsRoomCode": "E2-03-03",
+		"details": {
+			"nusRoomCode": "E2-03-03",
+			"roomName": "TUTORIAL ROOM (ACTIVE LEARNING ROOM)",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21087.37999999989,
+					"y": 31283.74750000052,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.77120560887423,
+					"y": 1.299192845194747,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "I3-0337",
 		"details": {
 			"nusRoomCode": "I3-03-37",
 			"roomName": "GRADUATE STUDENTS LAB 1",
@@ -4975,26 +5075,6 @@
 					"x": 103.77592660212227,
 					"y": 1.2922652786525903,
 					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS3-0213",
-		"details": {
-			"nusRoomCode": "AS3-02-13",
-			"roomName": "SEMINAR ROOM",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 21078.816200000234,
-					"y": 30786.449699999765,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.77112876915017,
-					"y": 1.2946954595805344,
-					"z": 5
 				}
 			}
 		}
@@ -5020,61 +5100,21 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS4-0115",
+		"corsRoomCode": "AS4-0318",
 		"details": {
-			"nusRoomCode": "AS4-01-15",
-			"roomName": "COMPUTER LAB",
-			"floor": 1,
-			"location": {
-				"epsg3414": {
-					"x": 21140.678399999626,
-					"y": 30770.826600000262,
-					"z": 0
-				},
-				"wgs84": {
-					"x": 103.77168463079167,
-					"y": 1.2945541835019005,
-					"z": 0
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "AS4-0335",
-		"details": {
-			"nusRoomCode": "AS4-03-35",
-			"roomName": "HONOURS ROOM",
+			"nusRoomCode": "AS4-03-18",
+			"roomName": "STAFF ROOM",
 			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21150.417500000447,
-					"y": 30776.06289999932,
+					"x": 21160.869099999778,
+					"y": 30772.520800000057,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77177213960896,
-					"y": 1.294601540870097,
+					"x": 103.77186605245747,
+					"y": 1.2945695096743521,
 					"z": 10
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "MD4-02-03E",
-		"details": {
-			"nusRoomCode": "MD4-02-03",
-			"roomName": "MEETING ROOM/OFFICES",
-			"floor": 2,
-			"location": {
-				"epsg3414": {
-					"x": 22157.13289999962,
-					"y": 30889.332699999213,
-					"z": 5
-				},
-				"wgs84": {
-					"x": 103.78081788585813,
-					"y": 1.295626117452161,
-					"z": 5
 				}
 			}
 		}
@@ -5100,6 +5140,26 @@
 		}
 	},
 	{
+		"corsRoomCode": "CELS-04-01",
+		"details": {
+			"nusRoomCode": "CLB-04-01",
+			"roomName": "COMPUTER AREA",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21273.25789999962,
+					"y": 30968.917999999598,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77287587158882,
+					"y": 1.296345680326074,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
 		"corsRoomCode": "MD7-02-03",
 		"details": {
 			"nusRoomCode": "MD7-02-03",
@@ -5120,41 +5180,21 @@
 		}
 	},
 	{
-		"corsRoomCode": "S17-0302",
+		"corsRoomCode": "S17-0404",
 		"details": {
-			"nusRoomCode": "S17-03-02",
-			"roomName": "COMPUTER LAB 2",
-			"floor": 3,
+			"nusRoomCode": "S17-04-04",
+			"roomName": "SEMINAR ROOM 3",
+			"floor": 4,
 			"location": {
 				"epsg3414": {
-					"x": 22139.348600000143,
-					"y": 31120.16840000078,
-					"z": 15
+					"x": 22143.561599999666,
+					"y": 31121.07890000008,
+					"z": 20
 				},
 				"wgs84": {
-					"x": 103.78065804310808,
-					"y": 1.2977137101039427,
-					"z": 15
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S17-0304",
-		"details": {
-			"nusRoomCode": "S17-03-04",
-			"roomName": "COMPUTER LAB 1",
-			"floor": 3,
-			"location": {
-				"epsg3414": {
-					"x": 22117.715200000443,
-					"y": 31109.860799999908,
-					"z": 15
-				},
-				"wgs84": {
-					"x": 103.78046365946426,
-					"y": 1.2976204877546946,
-					"z": 15
+					"x": 103.78069589858914,
+					"y": 1.2977219451351334,
+					"z": 20
 				}
 			}
 		}
@@ -5180,6 +5220,26 @@
 		}
 	},
 	{
+		"corsRoomCode": "S17-0302",
+		"details": {
+			"nusRoomCode": "S17-03-02",
+			"roomName": "COMPUTER LAB 2",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 22139.348600000143,
+					"y": 31120.16840000078,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.78065804310808,
+					"y": 1.2977137101039427,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
 		"corsRoomCode": "S17-0405",
 		"details": {
 			"nusRoomCode": "S17-04-05",
@@ -5200,60 +5260,80 @@
 		}
 	},
 	{
-		"corsRoomCode": "S16-05102",
+		"corsRoomCode": "S17-0611",
 		"details": {
-			"nusRoomCode": "S16-05-102",
-			"roomName": "COMPUTER LABORATORY 2",
-			"floor": 5,
-			"location": {
-				"epsg3414": {
-					"x": 22144.310800000094,
-					"y": 31016.389599999413,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.78070265004187,
-					"y": 1.2967751724760554,
-					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S16-05101",
-		"details": {
-			"nusRoomCode": "S16-05-101",
-			"roomName": "COMPUTER LABORATORY 1",
-			"floor": 5,
-			"location": {
-				"epsg3414": {
-					"x": 22136.14360000007,
-					"y": 31012.547299999744,
-					"z": 20
-				},
-				"wgs84": {
-					"x": 103.78062926491644,
-					"y": 1.2967404225446177,
-					"z": 20
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "S16-06118",
-		"details": {
-			"nusRoomCode": "S16-06-118",
-			"roomName": "SEMINAR ROOM",
+			"nusRoomCode": "S17-06-11",
+			"roomName": "SEMINAR ROOM 6",
 			"floor": 6,
 			"location": {
 				"epsg3414": {
-					"x": 22121.202499999665,
-					"y": 31010.308000000194,
+					"x": 22161.936599999666,
+					"y": 31127.910800000653,
+					"z": 30
+				},
+				"wgs84": {
+					"x": 103.78086100474435,
+					"y": 1.2977837338612168,
+					"z": 30
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S17-0304",
+		"details": {
+			"nusRoomCode": "S17-03-04",
+			"roomName": "COMPUTER LAB 1",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 22117.715200000443,
+					"y": 31109.860799999908,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.78046365946426,
+					"y": 1.2976204877546946,
+					"z": 15
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E2-03-32",
+		"details": {
+			"nusRoomCode": "E2-03-32",
+			"roomName": "SEMINAR ROOM",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 21097.099100000225,
+					"y": 31263.275100000203,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.7712929437992,
+					"y": 1.2990077022822446,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S17-0512",
+		"details": {
+			"nusRoomCode": "S17-05-12",
+			"roomName": "SEMINAR ROOM 4",
+			"floor": 5,
+			"location": {
+				"epsg3414": {
+					"x": 22158.871299999766,
+					"y": 31120.064200000837,
 					"z": 25
 				},
 				"wgs84": {
-					"x": 103.78049501305661,
-					"y": 1.29672016829534,
+					"x": 103.78083346314283,
+					"y": 1.2977127714261751,
 					"z": 25
 				}
 			}
@@ -5280,20 +5360,40 @@
 		}
 	},
 	{
-		"corsRoomCode": "E3A-0504",
+		"corsRoomCode": "E3A-05-07",
 		"details": {
-			"nusRoomCode": "E3A-05-04",
-			"roomName": "HEAT TREATMENT",
+			"nusRoomCode": "E3A-05-07",
+			"roomName": "MATERIALS PHYSICS LAB",
 			"floor": 5,
 			"location": {
 				"epsg3414": {
-					"x": 21088.389600000344,
-					"y": 31421.18480000086,
+					"x": 21115.254700000398,
+					"y": 31414.672800000757,
 					"z": 0
 				},
 				"wgs84": {
-					"x": 103.77121465020501,
-					"y": 1.3004357792527184,
+					"x": 103.77145604655468,
+					"y": 1.3003768930179749,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "E3A-05-03",
+		"details": {
+			"nusRoomCode": "E3A-05-03",
+			"roomName": "MAGNETIC MATERIALS CHARACTERISATION LAB",
+			"floor": 5,
+			"location": {
+				"epsg3414": {
+					"x": 21087.542200000025,
+					"y": 31406.67100000009,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77120703914684,
+					"y": 1.3003045214434568,
 					"z": 0
 				}
 			}
@@ -5320,20 +5420,40 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS6-0333",
+		"corsRoomCode": "WS2-01-30",
 		"details": {
-			"nusRoomCode": "AS6-03-33",
-			"roomName": "DEPT MEETING ROOM (CNM)",
+			"nusRoomCode": "WS2-01-30",
+			"roomName": "IEL TEACHING STUDIO",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21235.759700000286,
+					"y": 31314.623800000176,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77253885939898,
+					"y": 1.2994721120645238,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS6-0338",
+		"details": {
+			"nusRoomCode": "AS6-03-38",
+			"roomName": "PLAY ROOM (CNM)",
 			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21293.281799999997,
-					"y": 30902.669299999252,
+					"x": 21281.15759999957,
+					"y": 30917.73149999976,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77305580914974,
-					"y": 1.2957465550324785,
+					"x": 103.7729468647723,
+					"y": 1.2958827695853172,
 					"z": 10
 				}
 			}
@@ -5380,20 +5500,20 @@
 		}
 	},
 	{
-		"corsRoomCode": "S11-0401",
+		"corsRoomCode": "S13-0313",
 		"details": {
-			"nusRoomCode": "S11-04-01",
-			"roomName": "PHYSICS LABORATORY",
-			"floor": 4,
+			"nusRoomCode": "S13-03-13",
+			"roomName": "LEVEL 3 PHYSICS LAB",
+			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21929.64379999973,
-					"y": 31003.80700000003,
+					"x": 21984.83970000036,
+					"y": 31008.99770000018,
 					"z": 15
 				},
 				"wgs84": {
-					"x": 103.7787737761478,
-					"y": 1.2966613388217587,
+					"x": 103.7792697342841,
+					"y": 1.2967082923732496,
 					"z": 15
 				}
 			}
@@ -5420,21 +5540,21 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS6-0204",
+		"corsRoomCode": "AS4-B107",
 		"details": {
-			"nusRoomCode": "AS6-02-04",
+			"nusRoomCode": "AS4-B1-07",
 			"roomName": "TUTORIAL ROOM",
-			"floor": 2,
+			"floor": -1,
 			"location": {
 				"epsg3414": {
-					"x": 21312.253200000152,
-					"y": 30881.70910000056,
-					"z": 5
+					"x": 21132.35610000044,
+					"y": 30766.258700000122,
+					"z": -5
 				},
 				"wgs84": {
-					"x": 103.77322627980647,
-					"y": 1.2955570025354486,
-					"z": 5
+					"x": 103.77160985238247,
+					"y": 1.2945128712137348,
+					"z": -5
 				}
 			}
 		}
@@ -5480,26 +5600,6 @@
 		}
 	},
 	{
-		"corsRoomCode": "MD1-06-01A",
-		"details": {
-			"nusRoomCode": "MD1-06-01A",
-			"roomName": "TEACHING LAB 2",
-			"floor": 6,
-			"location": {
-				"epsg3414": {
-					"x": 22131.2603000002,
-					"y": 30872.330499999225,
-					"z": 25
-				},
-				"wgs84": {
-					"x": 103.78058541257901,
-					"y": 1.295472350739919,
-					"z": 25
-				}
-			}
-		}
-	},
-	{
 		"corsRoomCode": "MD1-05-01A",
 		"details": {
 			"nusRoomCode": "MD1-05-01",
@@ -5520,21 +5620,121 @@
 		}
 	},
 	{
-		"corsRoomCode": "S4A-0308",
+		"corsRoomCode": "MD1-06-01A",
 		"details": {
-			"nusRoomCode": "S4A-03-08",
-			"roomName": "DIGOXIN ROOM",
+			"nusRoomCode": "MD1-06-01A",
+			"roomName": "TEACHING LAB 2",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 22131.2603000002,
+					"y": 30872.330499999225,
+					"z": 25
+				},
+				"wgs84": {
+					"x": 103.78058541257901,
+					"y": 1.295472350739919,
+					"z": 25
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "MD1-06-03M",
+		"details": {
+			"nusRoomCode": "MD1-06-03M",
+			"roomName": "SEMINAR ROOM 3",
+			"floor": 6,
+			"location": {
+				"epsg3414": {
+					"x": 22119.542399999686,
+					"y": 30851.121400000528,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.78048012617927,
+					"y": 1.2952805409717725,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "MD11-01-03",
+		"details": {
+			"nusRoomCode": "MD11-01-03",
+			"roomName": "SYMPOSIUM ROOM",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 22259.597199999727,
+					"y": 30936.476999999955,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.78173856312563,
+					"y": 1.2960524927839885,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "MD1-03-01C",
+		"details": {
+			"nusRoomCode": "MD1-03-01C",
+			"roomName": "MULTIPURPOSE HALL 2",
 			"floor": 3,
 			"location": {
 				"epsg3414": {
-					"x": 21983.824000000022,
-					"y": 30905.49469999969,
+					"x": 22132.093899999745,
+					"y": 30872.797700000927,
 					"z": 10
 				},
 				"wgs84": {
-					"x": 103.77926062763346,
-					"y": 1.2957722478669818,
+					"x": 103.78059290274638,
+					"y": 1.2954765760875424,
 					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "MD1-03-01B",
+		"details": {
+			"nusRoomCode": "MD1-03-01B",
+			"roomName": "MULTIPURPOSE HALL 3",
+			"floor": 3,
+			"location": {
+				"epsg3414": {
+					"x": 22114.868900000118,
+					"y": 30879.450300000608,
+					"z": 10
+				},
+				"wgs84": {
+					"x": 103.78043812746127,
+					"y": 1.29553673659013,
+					"z": 10
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "AS4-0115",
+		"details": {
+			"nusRoomCode": "AS4-01-15",
+			"roomName": "COMPUTER LAB",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21140.678399999626,
+					"y": 30770.826600000262,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77168463079167,
+					"y": 1.2945541835019005,
+					"z": 0
 				}
 			}
 		}
@@ -5580,40 +5780,20 @@
 		}
 	},
 	{
-		"corsRoomCode": "MD1-09-01B",
+		"corsRoomCode": "MD1-08-01E",
 		"details": {
-			"nusRoomCode": "MD1-09-01B",
-			"roomName": "TUTORIAL ROOM 2",
-			"floor": 9,
-			"location": {
-				"epsg3414": {
-					"x": 22140.919200000353,
-					"y": 30864.729599999264,
-					"z": 40
-				},
-				"wgs84": {
-					"x": 103.78067220337118,
-					"y": 1.2954036127189905,
-					"z": 40
-				}
-			}
-		}
-	},
-	{
-		"corsRoomCode": "MD1-08-03E",
-		"details": {
-			"nusRoomCode": "MD1-08-03E",
-			"roomName": "SEMINAR ROOM 2",
+			"nusRoomCode": "MD1-08-01E",
+			"roomName": "SEMINAR ROOM 1",
 			"floor": 8,
 			"location": {
 				"epsg3414": {
-					"x": 22140.623100000434,
-					"y": 30838.390699999407,
+					"x": 22146.022499999963,
+					"y": 30866.50809999928,
 					"z": 35
 				},
 				"wgs84": {
-					"x": 103.78066954770269,
-					"y": 1.2951654130146952,
+					"x": 103.78071805838483,
+					"y": 1.2954196977993246,
 					"z": 35
 				}
 			}
@@ -5640,6 +5820,66 @@
 		}
 	},
 	{
+		"corsRoomCode": "MD1-0903EF",
+		"details": {
+			"nusRoomCode": "MD1-09-03F",
+			"roomName": "TUTORIAL ROOM 4",
+			"floor": 9,
+			"location": {
+				"epsg3414": {
+					"x": 22137.417000000365,
+					"y": 30840.11969999969,
+					"z": 40
+				},
+				"wgs84": {
+					"x": 103.78064073919502,
+					"y": 1.2951810488735283,
+					"z": 40
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "MD1-08-03E",
+		"details": {
+			"nusRoomCode": "MD1-08-03E",
+			"roomName": "SEMINAR ROOM 2",
+			"floor": 8,
+			"location": {
+				"epsg3414": {
+					"x": 22140.623100000434,
+					"y": 30838.390699999407,
+					"z": 35
+				},
+				"wgs84": {
+					"x": 103.78066954770269,
+					"y": 1.2951654130146952,
+					"z": 35
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "MD1-08-01B",
+		"details": {
+			"nusRoomCode": "MD1-08-01B",
+			"roomName": "COMPUTER LAB 2",
+			"floor": 8,
+			"location": {
+				"epsg3414": {
+					"x": 22113.183699999936,
+					"y": 30879.190999999642,
+					"z": 35
+				},
+				"wgs84": {
+					"x": 103.78042298526238,
+					"y": 1.2955343912549544,
+					"z": 35
+				}
+			}
+		}
+	},
+	{
 		"corsRoomCode": "MD1-09-03F",
 		"details": {
 			"nusRoomCode": "MD1-09-03F",
@@ -5660,21 +5900,81 @@
 		}
 	},
 	{
-		"corsRoomCode": "AS4-B110",
+		"corsRoomCode": "MD1-0801AB",
 		"details": {
-			"nusRoomCode": "AS4-B1-10",
-			"roomName": "FAMILY ROOM (SOCIAL WORK)",
-			"floor": -1,
+			"nusRoomCode": "MD1-08-01B",
+			"roomName": "COMPUTER LAB 2",
+			"floor": 8,
 			"location": {
 				"epsg3414": {
-					"x": 21116.072599999607,
-					"y": 30751.501700000837,
-					"z": -5
+					"x": 22113.183699999936,
+					"y": 30879.190999999642,
+					"z": 35
 				},
 				"wgs84": {
-					"x": 103.77146354144062,
-					"y": 1.294379410584016,
-					"z": -5
+					"x": 103.78042298526238,
+					"y": 1.2955343912549544,
+					"z": 35
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-05101",
+		"details": {
+			"nusRoomCode": "S16-05-101",
+			"roomName": "COMPUTER LABORATORY 1",
+			"floor": 5,
+			"location": {
+				"epsg3414": {
+					"x": 22136.14360000007,
+					"y": 31012.547299999744,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.78062926491644,
+					"y": 1.2967404225446177,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "S16-05102",
+		"details": {
+			"nusRoomCode": "S16-05-102",
+			"roomName": "COMPUTER LABORATORY 2",
+			"floor": 5,
+			"location": {
+				"epsg3414": {
+					"x": 22144.310800000094,
+					"y": 31016.389599999413,
+					"z": 20
+				},
+				"wgs84": {
+					"x": 103.78070265004187,
+					"y": 1.2967751724760554,
+					"z": 20
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "BIZ2-0401B",
+		"details": {
+			"nusRoomCode": "BIZ2-04-01B",
+			"roomName": "CENTRE FOR BEHAVIOURAL ECONOMICS LAB",
+			"floor": 4,
+			"location": {
+				"epsg3414": {
+					"x": 21453.71210000012,
+					"y": 30690.08640000038,
+					"z": 15
+				},
+				"wgs84": {
+					"x": 103.77449738874093,
+					"y": 1.2938240651525725,
+					"z": 15
 				}
 			}
 		}
@@ -5700,28 +6000,98 @@
 		}
 	},
 	{
+		"corsRoomCode": "AS3-0101",
+		"details": {
+			"nusRoomCode": "AS3-01-01",
+			"roomName": "THEATRE STUDIES PRACTICE STUDIO",
+			"floor": 1,
+			"location": {
+				"epsg3414": {
+					"x": 21076.94809999969,
+					"y": 30789.656999999657,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.77111198276855,
+					"y": 1.2947244648423655,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "RC2-G-02",
+		"details": {
+			"nusRoomCode": "RC2-G-02",
+			"roomName": "CLASSROOM 9",
+			"floor": null,
+			"location": {
+				"epsg3414": {
+					"x": 21174.776300000027,
+					"y": 32077.947300000116,
+					"z": 0
+				},
+				"wgs84": {
+					"x": 103.7719907295531,
+					"y": 1.306375323655279,
+					"z": 0
+				}
+			}
+		}
+	},
+	{
+		"corsRoomCode": "HSSMLCR"
+	},
+	{
 		"corsRoomCode": "BIZ2-0413B"
 	},
 	{
 		"corsRoomCode": "BIZ2-0413C"
 	},
 	{
-		"corsRoomCode": "BIZ2-0413A"
+		"corsRoomCode": "AS1-0205"
+	},
+	{
+		"corsRoomCode": "S6-04"
 	},
 	{
 		"corsRoomCode": ""
 	},
 	{
-		"corsRoomCode": "TP-SR1"
+		"corsRoomCode": "SDE-427"
 	},
 	{
-		"corsRoomCode": "SDE-427"
+		"corsRoomCode": "SDE-423"
+	},
+	{
+		"corsRoomCode": "SDE-426"
+	},
+	{
+		"corsRoomCode": "SDE-422"
+	},
+	{
+		"corsRoomCode": "UT-AUD3"
+	},
+	{
+		"corsRoomCode": "SDE-SR9"
 	},
 	{
 		"corsRoomCode": "SDE-SR15"
 	},
 	{
+		"corsRoomCode": "SDE-421"
+	},
+	{
 		"corsRoomCode": "SDE-SR10"
+	},
+	{
+		"corsRoomCode": "SDE-SR11"
+	},
+	{
+		"corsRoomCode": "SDE-SR14"
+	},
+	{
+		"corsRoomCode": "SDE-425"
 	},
 	{
 		"corsRoomCode": "SDE-SR13"
@@ -5730,175 +6100,64 @@
 		"corsRoomCode": "SDE-424"
 	},
 	{
-		"corsRoomCode": "SDE-423"
+		"corsRoomCode": "UTSRC-LT50"
 	},
 	{
-		"corsRoomCode": "SDE-DV3"
+		"corsRoomCode": "UTSRC-LT51"
 	},
 	{
-		"corsRoomCode": "SDE-SR11"
+		"corsRoomCode": "TP-SR8"
 	},
 	{
-		"corsRoomCode": "SDE-ER5"
-	},
-	{
-		"corsRoomCode": "SDE-SR9"
-	},
-	{
-		"corsRoomCode": "SDE-SR12"
-	},
-	{
-		"corsRoomCode": "SDE-426"
-	},
-	{
-		"corsRoomCode": "SDE-SR14"
-	},
-	{
-		"corsRoomCode": "SDE-422"
-	},
-	{
-		"corsRoomCode": "AKI3"
-	},
-	{
-		"corsRoomCode": "AKI4B"
-	},
-	{
-		"corsRoomCode": "SDE-DV1"
-	},
-	{
-		"corsRoomCode": "AKI4A"
-	},
-	{
-		"corsRoomCode": "SDE-425"
-	},
-	{
-		"corsRoomCode": "AKI5A"
-	},
-	{
-		"corsRoomCode": "AKI5B"
-	},
-	{
-		"corsRoomCode": "SDE-421"
-	},
-	{
-		"corsRoomCode": "SDE-MEZZ"
-	},
-	{
-		"corsRoomCode": "SDE-ES1"
-	},
-	{
-		"corsRoomCode": "SDE-DDL2-2"
-	},
-	{
-		"corsRoomCode": "DDL3-2"
-	},
-	{
-		"corsRoomCode": "BIZ1-SR6-4"
-	},
-	{
-		"corsRoomCode": "BIZ1-SR6-1"
-	},
-	{
-		"corsRoomCode": "S1-03CR"
-	},
-	{
-		"corsRoomCode": "LSLAB5"
-	},
-	{
-		"corsRoomCode": "dRm1"
-	},
-	{
-		"corsRoomCode": "dRm2"
-	},
-	{
-		"corsRoomCode": "dRm6"
-	},
-	{
-		"corsRoomCode": "DV"
-	},
-	{
-		"corsRoomCode": "DV1"
-	},
-	{
-		"corsRoomCode": "ERC-GLR"
-	},
-	{
-		"corsRoomCode": "SDE-ES2"
+		"corsRoomCode": "ERC-SR11"
 	},
 	{
 		"corsRoomCode": "SDE-ER4"
 	},
 	{
-		"corsRoomCode": "SDE-DV2"
+		"corsRoomCode": "SDE-SR12"
 	},
 	{
-		"corsRoomCode": "VCRm"
+		"corsRoomCode": "AKI5B"
 	},
 	{
-		"corsRoomCode": "E2-0308PC5"
+		"corsRoomCode": "AKI5A"
 	},
 	{
-		"corsRoomCode": "E2-0307PC4"
+		"corsRoomCode": "ERC-GLR"
 	},
 	{
-		"corsRoomCode": "UTSRC-DA2"
+		"corsRoomCode": "SDE-ER1"
 	},
 	{
-		"corsRoomCode": "YIH-Tokyo"
+		"corsRoomCode": "SDE_ER4-5"
 	},
 	{
-		"corsRoomCode": "DSALab"
+		"corsRoomCode": "BIZ1-SR6-1"
 	},
 	{
-		"corsRoomCode": "LT19"
+		"corsRoomCode": "S2-04LAB5"
 	},
 	{
-		"corsRoomCode": "NAK-AUD"
+		"corsRoomCode": "BIZ1-CMRI"
 	},
 	{
-		"corsRoomCode": "TP-SR6"
+		"corsRoomCode": "BIZ2-0413A"
 	},
 	{
-		"corsRoomCode": "ERC-SR8"
+		"corsRoomCode": "SDE-ES2"
 	},
 	{
-		"corsRoomCode": "TP-SR7"
+		"corsRoomCode": "RMI-SR1"
 	},
 	{
-		"corsRoomCode": "TP-SR4"
+		"corsRoomCode": "COM1-VCRM"
 	},
 	{
-		"corsRoomCode": "TP-SR5"
+		"corsRoomCode": "EW1-1M-02"
 	},
 	{
-		"corsRoomCode": "AS6-0212"
-	},
-	{
-		"corsRoomCode": "AS1-0201"
-	},
-	{
-		"corsRoomCode": "UTSRC-LT50"
-	},
-	{
-		"corsRoomCode": "UTSRC-SR8"
-	},
-	{
-		"corsRoomCode": "S16-03ALR"
-	},
-	{
-		"corsRoomCode": "S5-01GEN"
-	},
-	{
-		"corsRoomCode": "S5-01PHY"
-	},
-	{
-		"corsRoomCode": "S8-0403"
-	},
-	{
-		"corsRoomCode": "S8-0203"
-	},
-	{
-		"corsRoomCode": "UTSRC-LT52"
+		"corsRoomCode": "EW1-1M-03"
 	},
 	{
 		"corsRoomCode": "E4-04-02"
@@ -5907,118 +6166,139 @@
 		"corsRoomCode": "ENG-AUD"
 	},
 	{
-		"corsRoomCode": "UT-AUD1"
+		"corsRoomCode": "KRH-SR3"
 	},
 	{
-		"corsRoomCode": "DV2"
+		"corsRoomCode": "YI-PAR-TYO"
 	},
 	{
-		"corsRoomCode": "E2-0306PC3"
+		"corsRoomCode": "AS6-0212"
+	},
+	{
+		"corsRoomCode": "AS1-0201"
+	},
+	{
+		"corsRoomCode": "ERC-SR3"
+	},
+	{
+		"corsRoomCode": "S16-0306"
+	},
+	{
+		"corsRoomCode": "S5-01PHYS"
 	},
 	{
 		"corsRoomCode": "UT-AUD2"
 	},
 	{
-		"corsRoomCode": "SR@LT19"
+		"corsRoomCode": "S5-01GEN"
 	},
 	{
-		"corsRoomCode": "i3-Aud"
+		"corsRoomCode": "S8-0403"
 	},
 	{
-		"corsRoomCode": "DV-001"
+		"corsRoomCode": "S7-0401"
 	},
 	{
-		"corsRoomCode": "DV-002"
+		"corsRoomCode": "Exam"
 	},
 	{
-		"corsRoomCode": "DV-003"
-	},
-	{
-		"corsRoomCode": "DV-004"
-	},
-	{
-		"corsRoomCode": "DV-005"
-	},
-	{
-		"corsRoomCode": "DV-006"
-	},
-	{
-		"corsRoomCode": "DV-008"
-	},
-	{
-		"corsRoomCode": "SDE-ER1"
-	},
-	{
-		"corsRoomCode": "ISS-03-05"
-	},
-	{
-		"corsRoomCode": "ISS-02-01"
-	},
-	{
-		"corsRoomCode": "ISS-03-12"
-	},
-	{
-		"corsRoomCode": "ISS-03-01"
+		"corsRoomCode": "E3-0605-06"
 	},
 	{
 		"corsRoomCode": "UTSRC-LT53"
 	},
 	{
-		"corsRoomCode": "ERC-SR9CAM"
+		"corsRoomCode": "I3-AUD"
 	},
 	{
-		"corsRoomCode": "AS1-0205"
+		"corsRoomCode": "UT-AUD1"
 	},
 	{
-		"corsRoomCode": "UT-AUD3"
+		"corsRoomCode": "SR_LT19"
 	},
 	{
-		"corsRoomCode": "UTSRC-SR5"
+		"corsRoomCode": "LT19"
 	},
 	{
-		"corsRoomCode": "UTSRC-SR2"
+		"corsRoomCode": "UTSRC-GLR"
 	},
 	{
-		"corsRoomCode": "UTSRC-SR1"
+		"corsRoomCode": "UTSRC-LT52"
 	},
 	{
-		"corsRoomCode": "ERC-SR11"
+		"corsRoomCode": "DDL2-1"
+	},
+	{
+		"corsRoomCode": "ERC-ALR"
+	},
+	{
+		"corsRoomCode": "ISS/3-5"
+	},
+	{
+		"corsRoomCode": "ISS/2-1"
+	},
+	{
+		"corsRoomCode": "ISS/AUD"
+	},
+	{
+		"corsRoomCode": "ISS/3-1"
+	},
+	{
+		"corsRoomCode": "ISS/3-3"
+	},
+	{
+		"corsRoomCode": "NAK-AUD"
+	},
+	{
+		"corsRoomCode": "E4-07-09"
+	},
+	{
+		"corsRoomCode": "YSTCM-SR7"
+	},
+	{
+		"corsRoomCode": "UTSRC-SR8"
 	},
 	{
 		"corsRoomCode": "ERC-SR10"
 	},
 	{
-		"corsRoomCode": "DigELab"
-	},
-	{
-		"corsRoomCode": "POWERLAB"
-	},
-	{
-		"corsRoomCode": "LinELab"
-	},
-	{
-		"corsRoomCode": "MicWLab"
-	},
-	{
-		"corsRoomCode": "TP-GLR"
+		"corsRoomCode": "CELC-SR1A"
 	},
 	{
 		"corsRoomCode": "UTSRC-SR9"
 	},
 	{
-		"corsRoomCode": "SR7"
+		"corsRoomCode": "UTSRC-SR7"
+	},
+	{
+		"corsRoomCode": "UTSRC-SR4"
 	},
 	{
 		"corsRoomCode": "UTSRC-SR6"
 	},
 	{
-		"corsRoomCode": "RVRC-SR01"
+		"corsRoomCode": "UTSRC-SR2"
 	},
 	{
-		"corsRoomCode": "RVRC-SR04"
+		"corsRoomCode": "ERC-SR4"
 	},
 	{
-		"corsRoomCode": "RVRC-SR02"
+		"corsRoomCode": "UTSRC-SR3"
+	},
+	{
+		"corsRoomCode": "UTSRC-SR5"
+	},
+	{
+		"corsRoomCode": "RVR-SRM01"
+	},
+	{
+		"corsRoomCode": "RVR-SRM04"
+	},
+	{
+		"corsRoomCode": "ERC-SR5"
+	},
+	{
+		"corsRoomCode": "UTSRC-SR1"
 	},
 	{
 		"corsRoomCode": "CELC-TR7"
@@ -6027,22 +6307,7 @@
 		"corsRoomCode": "CELC-SR1B"
 	},
 	{
-		"corsRoomCode": "CELC-SR1A"
-	},
-	{
-		"corsRoomCode": "ESE-Lab1"
-	},
-	{
-		"corsRoomCode": "UTSRC-GLR"
-	},
-	{
-		"corsRoomCode": "E3-0519ESP"
-	},
-	{
-		"corsRoomCode": "ERC-SR3"
-	},
-	{
-		"corsRoomCode": "CAPT-SR2"
+		"corsRoomCode": "CELC-TR6"
 	},
 	{
 		"corsRoomCode": "AS3-0312"
@@ -6051,124 +6316,97 @@
 		"corsRoomCode": "AS3-0314"
 	},
 	{
-		"corsRoomCode": "RMI-SR1"
+		"corsRoomCode": "AS2-ELAB"
 	},
 	{
-		"corsRoomCode": "BIZ1-CMRI"
+		"corsRoomCode": "YSTCM-RS"
 	},
 	{
-		"corsRoomCode": "S3-05CR"
+		"corsRoomCode": "YSTCM-SR3"
 	},
 	{
-		"corsRoomCode": "FST-Lab1&2"
+		"corsRoomCode": "YSTCM-WS"
 	},
 	{
-		"corsRoomCode": "UTSRC-LT51"
+		"corsRoomCode": "YSTCM-TR"
 	},
 	{
-		"corsRoomCode": "UTSRC-SR3"
+		"corsRoomCode": "YSTCM-SR4"
 	},
 	{
-		"corsRoomCode": "TP-SR2"
+		"corsRoomCode": "YSTCM-SR2"
 	},
 	{
-		"corsRoomCode": "UTSRC-SR7"
+		"corsRoomCode": "ERC-SR8"
 	},
 	{
-		"corsRoomCode": "TP-SR8"
+		"corsRoomCode": "YSTCM-SR6"
 	},
 	{
-		"corsRoomCode": "UTSRC-SR4"
-	},
-	{
-		"corsRoomCode": "TP-SR3"
-	},
-	{
-		"corsRoomCode": "RH-Conf-Rm"
-	},
-	{
-		"corsRoomCode": "EH-SR1"
-	},
-	{
-		"corsRoomCode": "SR8"
-	},
-	{
-		"corsRoomCode": "WS"
-	},
-	{
-		"corsRoomCode": "RS"
-	},
-	{
-		"corsRoomCode": "TR"
+		"corsRoomCode": "TP-SR7"
 	},
 	{
 		"corsRoomCode": "TP-SR9"
 	},
 	{
-		"corsRoomCode": "SR4"
+		"corsRoomCode": "TP-SR6"
 	},
 	{
-		"corsRoomCode": "SR2"
+		"corsRoomCode": "RVR-SRM02"
 	},
 	{
-		"corsRoomCode": "TH-SR1"
+		"corsRoomCode": "RVR-ATRM"
 	},
 	{
-		"corsRoomCode": "SR6"
+		"corsRoomCode": "RVR-SRM03"
 	},
 	{
-		"corsRoomCode": "ERC-ALR"
+		"corsRoomCode": "TP-SR4"
 	},
 	{
-		"corsRoomCode": "TC-SR3"
-	},
-	{
-		"corsRoomCode": "TC-SR4"
-	},
-	{
-		"corsRoomCode": "TC-SR6"
-	},
-	{
-		"corsRoomCode": "TC-SR5"
-	},
-	{
-		"corsRoomCode": "ERC-SR4"
-	},
-	{
-		"corsRoomCode": "ERC-SR5"
-	},
-	{
-		"corsRoomCode": "KRH-SR3"
+		"corsRoomCode": "EH-SR1"
 	},
 	{
 		"corsRoomCode": "PGPH-FR4"
 	},
 	{
+		"corsRoomCode": "RH-CONF-RM"
+	},
+	{
 		"corsRoomCode": "SH-SR1"
+	},
+	{
+		"corsRoomCode": "TH-SR1"
 	},
 	{
 		"corsRoomCode": "KEVII-MR2"
 	},
 	{
-		"corsRoomCode": "RVRC-SR03"
+		"corsRoomCode": "SDE-ER5"
 	},
 	{
-		"corsRoomCode": "MD9-0102GH"
+		"corsRoomCode": "YSTCM-SR8"
 	},
 	{
-		"corsRoomCode": "NGS-DV"
+		"corsRoomCode": "ERC-SR9CAM"
 	},
 	{
-		"corsRoomCode": "ISS-04-06"
+		"corsRoomCode": "TP-SR5"
+	},
+	{
+		"corsRoomCode": "TP-GLR"
+	},
+	{
+		"corsRoomCode": "ISS/4-6"
 	},
 	{
 		"corsRoomCode": "SDE-ISD-1"
 	},
 	{
-		"corsRoomCode": "ISS-02-09"
+		"corsRoomCode": "SDE-ISD-2"
 	},
 	{
-		"corsRoomCode": "ISS-DV"
+		"corsRoomCode": "ISS/2-9"
 	},
 	{
 		"corsRoomCode": "AKIMLA4"
@@ -6177,405 +6415,408 @@
 		"corsRoomCode": "AKIMLA5"
 	},
 	{
-		"corsRoomCode": "Y-EC-PgRm2"
+		"corsRoomCode": "DDL3-2"
 	},
 	{
-		"corsRoomCode": "SR4-1"
+		"corsRoomCode": "Y-PgRm2"
 	},
 	{
-		"corsRoomCode": "SR3 (Law)"
+		"corsRoomCode": "LAW_SR4-1"
 	},
 	{
-		"corsRoomCode": "SR5-2"
+		"corsRoomCode": "LAW_SR3"
 	},
 	{
-		"corsRoomCode": "SR5-1"
+		"corsRoomCode": "LAW_SR5-2"
 	},
 	{
-		"corsRoomCode": "SR5-3"
+		"corsRoomCode": "LAW_SR5-1"
 	},
 	{
-		"corsRoomCode": "LT"
+		"corsRoomCode": "LAW_LT"
 	},
 	{
-		"corsRoomCode": "CR2-2"
+		"corsRoomCode": "LAW_CR2-2"
 	},
 	{
-		"corsRoomCode": "CR3-4"
+		"corsRoomCode": "LAW_CR3-5"
 	},
 	{
-		"corsRoomCode": "CR2-1"
+		"corsRoomCode": "LAW_CR3-3"
 	},
 	{
-		"corsRoomCode": "CR3-7"
+		"corsRoomCode": "LAW_CR4-1"
 	},
 	{
-		"corsRoomCode": "CR4-2"
+		"corsRoomCode": "LAW_CR3-6"
 	},
 	{
-		"corsRoomCode": "CR3-6"
+		"corsRoomCode": "LAW_CR3-7"
 	},
 	{
-		"corsRoomCode": "CR3-3"
+		"corsRoomCode": "LAW_CR4-2"
 	},
 	{
-		"corsRoomCode": "CR5"
+		"corsRoomCode": "LAW_CR3-4"
 	},
 	{
-		"corsRoomCode": "CR4-1"
+		"corsRoomCode": "LAW_SR4-3"
 	},
 	{
-		"corsRoomCode": "CR3-5"
+		"corsRoomCode": "LAW_SR4-2"
 	},
 	{
-		"corsRoomCode": "SR4-3"
+		"corsRoomCode": "LAW_CR5"
 	},
 	{
-		"corsRoomCode": "MPA"
+		"corsRoomCode": "TB-07-08"
 	},
 	{
-		"corsRoomCode": "MT-Court"
+		"corsRoomCode": "LAW_CR2-1"
 	},
 	{
-		"corsRoomCode": "SR4-2"
+		"corsRoomCode": "LAW_SR5-3"
 	},
 	{
-		"corsRoomCode": "SR5-5"
+		"corsRoomCode": "LAW_ESR"
 	},
 	{
-		"corsRoomCode": "EXEC-SR"
+		"corsRoomCode": "LAW_AUD"
 	},
 	{
-		"corsRoomCode": "SR5-4"
+		"corsRoomCode": "LAW_SR5-4"
 	},
 	{
-		"corsRoomCode": "Y-RC3-CR19"
+		"corsRoomCode": "LAW_SR4-4"
 	},
 	{
-		"corsRoomCode": "LSLAB8"
+		"corsRoomCode": "LAW_SR5-5"
 	},
 	{
-		"corsRoomCode": "LSLAB4"
+		"corsRoomCode": "MD7_LAB8"
 	},
 	{
-		"corsRoomCode": "LSLAB7"
+		"corsRoomCode": "S1A-04LAB3"
 	},
 	{
-		"corsRoomCode": "LSLAB1"
+		"corsRoomCode": "S2-03LAB7"
 	},
 	{
-		"corsRoomCode": "LSLAB9"
+		"corsRoomCode": "S1A-03LAB1"
 	},
 	{
-		"corsRoomCode": "LSLAB3"
+		"corsRoomCode": "MD4_LAB9"
 	},
 	{
-		"corsRoomCode": "LSLAB6"
+		"corsRoomCode": "S1A-03LAB6"
 	},
 	{
-		"corsRoomCode": "LSLAB2"
+		"corsRoomCode": "LT28SR-M14"
 	},
 	{
-		"corsRoomCode": "M14A&M14B"
+		"corsRoomCode": "S1A-03LAB2"
 	},
 	{
-		"corsRoomCode": "TechHub"
+		"corsRoomCode": "E1-0410PC2"
 	},
 	{
-		"corsRoomCode": "DV-CMS"
+		"corsRoomCode": "YSTCM-ER3"
 	},
 	{
-		"corsRoomCode": "DV-OMS"
+		"corsRoomCode": "YSTCM-HALL"
 	},
 	{
-		"corsRoomCode": "DV-FMS"
+		"corsRoomCode": "YSTCM-SR1"
 	},
 	{
-		"corsRoomCode": "DV-NMS"
+		"corsRoomCode": "YSTCM-RECS"
 	},
 	{
-		"corsRoomCode": "ER3"
+		"corsRoomCode": "YSTCM-ER2"
 	},
 	{
-		"corsRoomCode": "DV-QMS"
+		"corsRoomCode": "YSTCM-ER4"
 	},
 	{
-		"corsRoomCode": "SR3"
+		"corsRoomCode": "YSTCM-OH"
 	},
 	{
-		"corsRoomCode": "RecS"
+		"corsRoomCode": "YSTCM-ER6"
 	},
 	{
-		"corsRoomCode": "ER2"
+		"corsRoomCode": "YSTCM-SR5"
 	},
 	{
-		"corsRoomCode": "DV-PMS"
-	},
-	{
-		"corsRoomCode": "DV-DMS"
-	},
-	{
-		"corsRoomCode": "DV-GMS"
-	},
-	{
-		"corsRoomCode": "DV-KMS"
-	},
-	{
-		"corsRoomCode": "SR1"
-	},
-	{
-		"corsRoomCode": "OH"
-	},
-	{
-		"corsRoomCode": "DV-JMS"
-	},
-	{
-		"corsRoomCode": "ER4"
-	},
-	{
-		"corsRoomCode": "DV-MMS"
-	},
-	{
-		"corsRoomCode": "DV-LMS"
-	},
-	{
-		"corsRoomCode": "DV-HMS"
-	},
-	{
-		"corsRoomCode": "DV-EMS"
-	},
-	{
-		"corsRoomCode": "DV-IMS"
-	},
-	{
-		"corsRoomCode": "SR5"
-	},
-	{
-		"corsRoomCode": "ER1"
+		"corsRoomCode": "YSTCM-MLAB"
 	},
 	{
 		"corsRoomCode": "AS6-0215B"
 	},
 	{
-		"corsRoomCode": "AS-DV"
+		"corsRoomCode": "S12-0402A"
+	},
+	{
+		"corsRoomCode": "S12-0402B"
+	},
+	{
+		"corsRoomCode": "S12-0402C"
+	},
+	{
+		"corsRoomCode": "S12-0402D"
+	},
+	{
+		"corsRoomCode": "S11-0302A"
+	},
+	{
+		"corsRoomCode": "S11-0401A"
+	},
+	{
+		"corsRoomCode": "SDE-ES1"
 	},
 	{
 		"corsRoomCode": "AS7-0201A"
 	},
 	{
-		"corsRoomCode": "MMSR3-1"
+		"corsRoomCode": "CHPC"
 	},
 	{
-		"corsRoomCode": "MMSR2-3"
+		"corsRoomCode": "LKY_SR2-1"
 	},
 	{
-		"corsRoomCode": "MMSR3-5"
+		"corsRoomCode": "LKY_SR3-1"
 	},
 	{
-		"corsRoomCode": "MMSR2-1"
+		"corsRoomCode": "LKY_SR3-4"
 	},
 	{
-		"corsRoomCode": "MMSR3-4"
+		"corsRoomCode": "LKY_TB10SR"
 	},
 	{
-		"corsRoomCode": "MMSR3-3"
+		"corsRoomCode": "LKY_SR3-3"
 	},
 	{
-		"corsRoomCode": "MMSR2-2"
+		"corsRoomCode": "LKY_SR3-5"
 	},
 	{
-		"corsRoomCode": "OTH_EERSUM"
+		"corsRoomCode": "LKY_SR2-2"
 	},
 	{
-		"corsRoomCode": "S14-04Lab"
+		"corsRoomCode": "LKY_SR2-3"
 	},
 	{
-		"corsRoomCode": "S4-02Lab"
+		"corsRoomCode": "LKY_EA_M"
 	},
 	{
-		"corsRoomCode": "S4A-L3-10"
+		"corsRoomCode": "LKY_EE_CSU"
 	},
 	{
-		"corsRoomCode": "ISS-03-03"
+		"corsRoomCode": "S4-02LAB"
 	},
 	{
-		"corsRoomCode": "ISS-Audito"
+		"corsRoomCode": "S4-04LAB"
 	},
 	{
-		"corsRoomCode": "ISS-01-04"
+		"corsRoomCode": "MD11CRCAUD"
 	},
 	{
-		"corsRoomCode": "ISS-04-04"
+		"corsRoomCode": "CQT/SR0622"
 	},
 	{
-		"corsRoomCode": "SPSWetLab"
+		"corsRoomCode": "CQT/SR0315"
+	},
+	{
+		"corsRoomCode": "ISS/4-4"
+	},
+	{
+		"corsRoomCode": "ISS/3-12"
+	},
+	{
+		"corsRoomCode": "ISS/1-4"
+	},
+	{
+		"corsRoomCode": "S1A-04LAB4"
 	},
 	{
 		"corsRoomCode": "USP-MML"
 	},
 	{
-		"corsRoomCode": "USP-SR1"
+		"corsRoomCode": "UTSRC-PR1"
 	},
 	{
-		"corsRoomCode": "USP-TR1"
+		"corsRoomCode": "USP-SR1"
 	},
 	{
 		"corsRoomCode": "AKIMAUD"
 	},
 	{
-		"corsRoomCode": "USP-DV"
+		"corsRoomCode": "USP-TR1"
 	},
 	{
 		"corsRoomCode": "USP-SR3"
 	},
 	{
-		"corsRoomCode": "CAPT-SR1"
+		"corsRoomCode": "USP-SR2"
 	},
 	{
-		"corsRoomCode": "CAPT-SR6"
+		"corsRoomCode": "TC-SR4"
 	},
 	{
-		"corsRoomCode": "CAPT-SR5"
-	},
-	{
-		"corsRoomCode": "RC4-SR3"
-	},
-	{
-		"corsRoomCode": "RC4-SR2"
-	},
-	{
-		"corsRoomCode": "RC4-SR6"
-	},
-	{
-		"corsRoomCode": "CAPT-DV"
-	},
-	{
-		"corsRoomCode": "CAPT-SR4"
+		"corsRoomCode": "TC-SR5"
 	},
 	{
 		"corsRoomCode": "CAPT-SR3"
 	},
 	{
-		"corsRoomCode": "RC4-SR4"
+		"corsRoomCode": "CAPT-SR1-2"
+	},
+	{
+		"corsRoomCode": "CAPT-SR4"
+	},
+	{
+		"corsRoomCode": "RC4-SR3"
+	},
+	{
+		"corsRoomCode": "RC4-SR1-2"
 	},
 	{
 		"corsRoomCode": "RC4-SR5"
 	},
 	{
-		"corsRoomCode": "TC-SR2"
+		"corsRoomCode": "RC4-SR6"
 	},
 	{
-		"corsRoomCode": "USP-SR2"
+		"corsRoomCode": "TC-SR3"
 	},
 	{
-		"corsRoomCode": "RVRC-MPR1"
+		"corsRoomCode": "TC-TR2"
 	},
 	{
-		"corsRoomCode": "RVRC-MPR2"
+		"corsRoomCode": "CAPT-SR6"
 	},
 	{
-		"corsRoomCode": "YPerfHall"
+		"corsRoomCode": "RC4-SR4"
 	},
 	{
-		"corsRoomCode": "Y-RC1-CR1"
+		"corsRoomCode": "RC4-SR1"
 	},
 	{
-		"corsRoomCode": "Y-RC1-CR4"
+		"corsRoomCode": "TC-SR6"
 	},
 	{
-		"corsRoomCode": "Y-RC1-CR5"
+		"corsRoomCode": "CAPT-SR5"
 	},
 	{
-		"corsRoomCode": "Y-RC1-CR6"
+		"corsRoomCode": "USP-MC"
 	},
 	{
-		"corsRoomCode": "Y-RC1-CR7"
+		"corsRoomCode": "RVR_MPR1"
 	},
 	{
-		"corsRoomCode": "Y-RC1-CR8"
+		"corsRoomCode": "RVR_MPR2"
 	},
 	{
-		"corsRoomCode": "Y-RC1-CR2"
+		"corsRoomCode": "RVR-MPR02"
 	},
 	{
-		"corsRoomCode": "Y-RC2-CR13"
+		"corsRoomCode": "RVR-MPR01"
 	},
 	{
-		"corsRoomCode": "Y-EC-CR17"
+		"corsRoomCode": "Y-CR1"
 	},
 	{
-		"corsRoomCode": "Y-RC3-CR21"
+		"corsRoomCode": "Y-PerfHall"
 	},
 	{
-		"corsRoomCode": "Y-RC3-CR22"
+		"corsRoomCode": "Y-CR4"
 	},
 	{
-		"corsRoomCode": "Y-EC-PgRm1"
+		"corsRoomCode": "Y-CR5"
 	},
 	{
-		"corsRoomCode": "Y-EC-GLRm1"
+		"corsRoomCode": "Y-CR6"
 	},
 	{
-		"corsRoomCode": "Y-RC3-CR18"
+		"corsRoomCode": "Y-CR7"
 	},
 	{
-		"corsRoomCode": "Y-RC3-CR20"
+		"corsRoomCode": "Y-CR8"
 	},
 	{
-		"corsRoomCode": "Y-EC-GLRm2"
+		"corsRoomCode": "Y-CR2"
 	},
 	{
-		"corsRoomCode": "YBlackBox"
+		"corsRoomCode": "Y-CR3"
 	},
 	{
-		"corsRoomCode": "Y-EC-CR15"
+		"corsRoomCode": "Y-GLRm1"
 	},
 	{
-		"corsRoomCode": "Y-RC2-CR9"
+		"corsRoomCode": "Y-GLRm2"
 	},
 	{
-		"corsRoomCode": "Y-RC2-CR12"
+		"corsRoomCode": "Y-KChanrai"
 	},
 	{
-		"corsRoomCode": "YPracRoom6"
+		"corsRoomCode": "Y-CR15"
 	},
 	{
-		"corsRoomCode": "YStudio2GC"
+		"corsRoomCode": "Y-CR17"
 	},
 	{
-		"corsRoomCode": "Y-RC2-CR14"
+		"corsRoomCode": "Y-CR18"
 	},
 	{
-		"corsRoomCode": "YStudio3"
+		"corsRoomCode": "Y-CR9"
 	},
 	{
-		"corsRoomCode": "Y-DV"
+		"corsRoomCode": "Y-CR13"
 	},
 	{
-		"corsRoomCode": "Y-RC2-CR11"
+		"corsRoomCode": "Y-CR14"
 	},
 	{
-		"corsRoomCode": "Y-RC2-KCRm"
+		"corsRoomCode": "Y-CR19"
 	},
 	{
-		"corsRoomCode": "YLab4OChem"
+		"corsRoomCode": "Y-CR20"
 	},
 	{
-		"corsRoomCode": "YLab1-Bio"
+		"corsRoomCode": "Y-CR21"
 	},
 	{
-		"corsRoomCode": "YLab2AChem"
+		"corsRoomCode": "Y-CR12"
 	},
 	{
-		"corsRoomCode": "Y-RC1-CR3"
+		"corsRoomCode": "Y-CR22"
 	},
 	{
-		"corsRoomCode": "YLab3-Phys"
+		"corsRoomCode": "Y-ArtsStud"
 	},
 	{
-		"corsRoomCode": "Y-RC1-LT1"
+		"corsRoomCode": "Y-PracRm6"
 	},
 	{
-		"corsRoomCode": "EC-CompLab"
+		"corsRoomCode": "Y-CR11"
+	},
+	{
+		"corsRoomCode": "Y-PgRm1"
+	},
+	{
+		"corsRoomCode": "Y-CR23"
+	},
+	{
+		"corsRoomCode": "Y-AChemLab"
+	},
+	{
+		"corsRoomCode": "Y-PhysLab"
+	},
+	{
+		"corsRoomCode": "Y-LT1"
+	},
+	{
+		"corsRoomCode": "Y-CR16"
+	},
+	{
+		"corsRoomCode": "Y-CompLab"
 	}
 ]
